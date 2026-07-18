@@ -3,7 +3,7 @@
 ## Style
 
 ```text
-Heroic dark Nordic symphonic power-metal foundation anthem, 86 BPM, D minor opening toward F major; shield-strike rhythm, cathedral organ, bells, ascending violins, low brass, heavy guitars, war drums, double-kick, antiphonal choirs and a vast oath refrain; noble and hard-won, with a final unresolved violin warning beneath the victory.
+Heroic dark Nordic symphonic viking-metal foundation anthem, 86 BPM, D minor opening toward F major; shield-strike rhythm, cathedral organ, bells, ascending violins, low brass, heavy guitars, war drums, double-kick, antiphonal battle choirs, a thunderbolt climax and vast victory-oath refrain; noble and hard-won, with a final unresolved violin warning beneath the triumph.
 ```
 
 ## Lyrics
@@ -79,7 +79,90 @@ Then stand beside me.
 [PROMETHEUS — Male bright high lyric tenor, ringing and unwavering]
 I stand beside the future.
 
-[Full band enters.]
+[Full band enters. War drums gather beneath grinding strings.]
+
+[ATHENA — Female icy contralto, urgent above the march]
+For ten years,
+mountain answered mountain.
+
+The younger gods and Titans fought
+beneath a burning sky.
+
+No spear could break old Kronos.
+No storm could claim the crown.
+
+The elder and the rising powers
+ground the whole earth down.
+
+[WAR CHOIR — Massive mixed choir, antiphonal and relentless]
+Ten years!
+Hold the line!
+
+Stone on shield!
+Fire on fire!
+
+[PROMETHEUS — Male bright high lyric tenor, cutting through the battle]
+Kronos built his strength
+from every hand divided.
+
+Free the powers he buried.
+Let foresight make us one.
+
+[ZEUS — Male subterranean basso profundo, decisive over rising brass]
+Then every captive rises.
+
+I will not win my throne
+by keeping my father's chains.
+
+Break open the deep!
+
+[ATHENA — Female icy contralto, accelerating]
+The gates below were broken.
+The buried powers rose.
+
+They placed the thunderbolt
+inside the hand of Zeus.
+
+[ZEUS — Male subterranean basso profundo, unleashed and heroic]
+Kronos!
+
+I was the breath
+you tried to end.
+
+Now hear it in the storm!
+
+I do not come
+as a hidden child.
+
+I come for all
+you swallowed!
+
+[BATTLE CHOIR — Massive mixed choir, explosive over thunder and double-kick]
+Thunder fall!
+Let the whole sky answer!
+
+Stone rise!
+Break the elder throne!
+
+Hand with hand!
+Storm with flame!
+
+Kronos falls!
+End the devouring age!
+
+[A final thunderbolt. The war drums stop. Bells answer across the mountain.]
+
+[ATHENA — Female icy contralto, solemn over the first major harmony]
+The elder crown was broken.
+The Titans' host was bound.
+
+From ten years' ash and thunder,
+Olympus claimed the sky.
+
+Zeus had won the heavens.
+
+Now he must answer
+what victory was for.
 
 [OLYMPUS CHOIR — Massive mixed choir, martial and exultant]
 Open the gate!

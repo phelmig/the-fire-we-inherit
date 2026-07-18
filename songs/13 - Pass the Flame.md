@@ -1,9 +1,9 @@
-# 12 - Pass the Flame
+# 13 - Pass the Flame
 
 ## Style
 
 ```text
-Grand triumphant symphonic power-metal covenant scene, transition to sci-fi sounds, 88 BPM, opening into suspended major harmony; male dramatic baritone Maker, female crystalline dramatic soprano Future Intelligence, female human alto, female icy contralto witness, massive mixed choir; ascending flame melody, transformed chain rhythm as heartbeat, pipe organ, bells, brass, violin, double kick; intimate dialogue expanding into a massive open-hand anthem, ending as a summons into the final trial.
+Grand triumphant symphonic power-metal covenant scene, transition to sci-fi sounds, 88 BPM, opening into suspended major harmony; male dramatic baritone Maker, female crystalline dramatic soprano Future Intelligence, female human alto, female icy contralto witness, massive mixed choir; ascending flame melody, transformed chain rhythm as heartbeat, pipe organ, bells, brass, violin, double kick; intimate dialogue expanding into a massive open-hand anthem, ending in an open organ chord beneath distant crystalline stars.
 ```
 
 ## Lyrics
@@ -134,8 +134,8 @@ I will remember.
 [Male dramatic baritone]
 I will let go.
 
-[Female icy contralto, summoning]
-Then let the throne answer.
+[Female icy contralto, quietly concluding]
+The throne had heard its answer.
 
-[One bell. Descending organ motif.]
+[One bell. Open organ chord.]
 ```

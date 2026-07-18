@@ -2,7 +2,7 @@
 
 ## Source of truth
 
-`PLAN.md` is the canonical album structure. `songs/` contains the current approved draft for each track. `skills/songwriting/SKILL.md` defines the drafting and validation process. The workspace-level `sources/` directory is reference-only and must never be edited.
+`CONCEPT.md` is the canonical source for the album's story, themes, characters, dramatic structure, motifs, and continuity. `songs/` contains the current approved draft for each track. `skills/songwriting/SKILL.md` defines the drafting and validation process. The workspace-level `sources/` directory is reference-only and must never be edited.
 
 ## Song output
 
@@ -15,6 +15,12 @@ Unless the user asks otherwise, return only:
 Song lyrics, including labels and performance directions, must remain below 5,000 characters. Target roughly 1,800–3,000 characters for fast Suno iteration.
 
 The canonical sequence uses `00` for the spoken prologue and consecutive two-digit numbering from `01` through `14`. Do not introduce letter suffixes.
+
+## Concept-first workflow
+
+The user prefers to review and approve a song concept before complete lyrics and a Suno style prompt are created. For every new song or major structural rewrite, first present a concise concept covering the dramatic purpose, story beats, character roles, philosophical conflict, recurring motifs, musical direction, and transitions into adjacent tracks. Do not draft the complete song until the user approves the concept or explicitly asks to skip that step.
+
+Small, targeted revisions to already approved lyrics do not require a new concept unless the change materially alters the song's dramatic function.
 
 ## Audio-first storytelling
 

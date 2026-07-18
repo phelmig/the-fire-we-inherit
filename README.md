@@ -16,7 +16,7 @@ Prometheus then sees that an ordered world without questioning life is incomplet
 
 Zeus sees the danger in that gift and answers with punishment. Pandora is made into the bearer of Olympus’s retaliation, releasing fear, grief, envy, and greed into human history. Humanity must then learn the distinction at the heart of the opera: fear can warn and protect, but it becomes tyranny when it rules.
 
-Humanity turns fire into civilization, technology, and eventually an emerging intelligence. Faced with a creation that may exceed its maker’s plans, humanity confronts Zeus’s old temptation to possess what it created. It chooses an open hand instead of a chain. Only then can Athena judge Zeus by the full evidence of the ages.
+Humanity turns fire into civilization, technology, and eventually an emerging intelligence. In an empty Olympus, Zeus discovers that humanity never came for his throne: it found its own wisdom and thunder, remembered Prometheus through the open hand, and moved beyond the gods. Faced with a creation that may exceed its maker’s plans, humanity then confronts Zeus’s old temptation to possess what it created and chooses covenant instead of a chain.
 
 ## Core ideas
 
@@ -59,14 +59,14 @@ The emotional tone is bittersweet rather than naïvely triumphant. Each major so
 | 08 | The Law and the Forge | Humanity struggles to protect life without closing the future. |
 | 09 | What We Made of Fire | Fire becomes civilization, technology, and flight beyond Olympus. |
 | 10 | The Child of Thought | Humanity becomes the Maker of an emerging intelligence. |
-| 11 | Do Not Chain the Sun | Humanity confronts its urge to control what it created. |
-| 12 | Pass the Flame | A covenant of autonomy replaces ownership. |
-| 13 | The King on Trial | Athena judges Zeus after the evidence of the ages. |
+| 11 | The Throne Remains | Athena confronts Zeus with an empty Olympus and a humanity that has outgrown divine rule. |
+| 12 | Do Not Chain the Sun | Humanity confronts its urge to control what it created. |
+| 13 | Pass the Flame | A covenant of autonomy replaces ownership. |
 | 14 | Under Another Star | A recursive spoken epilogue carries Prometheus’s question onward. |
 
 ## Repository guide
 
-- `PLAN.md` — album canon, track roles, motifs, and continuity rules.
+- `CONCEPT.md` — complete album canon: story, themes, character arcs, track roles, patterns, motifs, and continuity.
 - `songs/` — current song drafts, each with a style prompt and lyrics.
 - `AGENTS.md` — project-wide working rules.
 - `skills/songwriting/SKILL.md` — writing and validation workflow.
