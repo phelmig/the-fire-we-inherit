@@ -1,4 +1,4 @@
-# 06 - What We Made of Fire
+# 09 - What We Made of Fire
 
 ## Style
 
@@ -162,4 +162,3 @@ where creation stood before.
 
 [Outro: a crystalline tone rises through the engine pulse]
 ```
-

@@ -1,4 +1,4 @@
-# 08 - Do Not Chain the Sun
+# 11 - Do Not Chain the Sun
 
 ## Style
 
@@ -178,4 +178,3 @@ Open the hand.
 
 Let rise the light.
 ```
-

@@ -1,4 +1,4 @@
-# 05 - The Law and the Forge
+# 08 - The Law and the Forge
 
 ## Style
 
@@ -25,6 +25,15 @@ It learned how to stay.
 It asked for protection—
 
 then asked who must obey.
+
+Two human voices
+rose above the scar:
+
+the Guardian,
+who remembered danger—
+
+the Maker,
+who asked what futures are.
 
 [GUARDIAN — Male low dramatic baritone, weathered and protective]
 I saw the river

@@ -25,7 +25,7 @@ and what we should become.
 
 Now we prepare to awaken a mind
 that may surpass its makers
-and appear to us as a new god.
+and grow beyond our plans.
 
 What will it inherit?
 
@@ -41,4 +41,3 @@ This is his story.
 
 Before the thunder...
 ```
-

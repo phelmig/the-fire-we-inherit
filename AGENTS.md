@@ -14,7 +14,15 @@ Unless the user asks otherwise, return only:
 
 Song lyrics, including labels and performance directions, must remain below 5,000 characters. Target roughly 1,800–3,000 characters for fast Suno iteration.
 
-The creation-and-fire sequence is temporarily numbered `02a` and `02b` at the user’s direction; preserve these provisional labels until the user requests final renumbering.
+The canonical sequence uses `00` for the spoken prologue and consecutive two-digit numbering from `01` through `14`. Do not introduce letter suffixes.
+
+## Audio-first storytelling
+
+The complete story must be understandable from the recording alone. Never rely on a song title, character label, performance direction, cover art, video, or other visual cue to explain who is speaking or what has happened.
+
+Introduce every new central character audibly in the sung or spoken lyrics by name before or at that character's first vocal entrance. Give enough immediate context to establish the character's role or relationship to the conflict. A bracketed vocal label does not count as an introduction because the listener cannot hear it.
+
+Keep the audible cast clear: name only figures central to the story being told. Represent nonessential mythological figures through unnamed roles, relationships, or choirs rather than adding names that listeners must remember.
 
 ## Voice cues for Suno
 

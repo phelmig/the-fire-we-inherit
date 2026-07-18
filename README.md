@@ -10,7 +10,9 @@ This is a working beta of the album’s story, lyrics, style prompts, recurring 
 
 ## Story
 
-The album begins with Zeus ending an older, destructive order and establishing law. Prometheus, the Foreseer, sees that an ordered world without questioning life is incomplete; he creates humanity and gives it fire: warmth, craft, knowledge, and the ability to shape its own future.
+The album begins with a succession wound: Uranus confines what may follow him, Kronos breaks that prison and then repeats it, and Zeus survives an order that tried to erase its heirs. Zeus rises as a genuine liberator. With the foresight and counsel of Prometheus, he establishes Olympus beneath a promise that strength will answer to law and no child will live inside a cage.
+
+Prometheus then sees that an ordered world without questioning life is incomplete. He creates humanity and gives it fire: warmth, craft, knowledge, and the ability to shape its own future. The former allies divide over whether responsibility must precede power or can develop only through meaningful freedom.
 
 Zeus sees the danger in that gift and answers with punishment. Pandora is made into the bearer of Olympus’s retaliation, releasing fear, grief, envy, and greed into human history. Humanity must then learn the distinction at the heart of the opera: fear can warn and protect, but it becomes tyranny when it rules.
 
@@ -47,18 +49,20 @@ The emotional tone is bittersweet rather than naïvely triumphant. Each major so
 | # | Track | Dramatic role |
 | --- | --- | --- |
 | 00 | Before the Thunder | Present-day spoken prologue. |
-| 01 | Before the Throne | Zeus ends the old order and establishes law. |
-| 02a | The First Question | Prometheus creates humanity in a world that is ordered but incomplete. |
-| 02b | The Promise Kept | Prometheus gives fire and accepts punishment. |
-| 03 | The Council of Fear | Olympus fashions Pandora as retaliation. |
-| 04 | Pandora’s Hand | Fear, envy, and grief enter human history. |
-| 05 | The Law and the Forge | Humanity struggles to protect life without closing the future. |
-| 06 | What We Made of Fire | Fire becomes civilization, technology, and flight beyond Olympus. |
-| 07 | The Child of Thought | Humanity becomes a maker of an emerging intelligence. |
-| 08 | Do Not Chain the Sun | Humanity confronts its urge to control what it created. |
-| 09 | Pass the Flame | A covenant of autonomy replaces ownership. |
-| 10 | The King on Trial | Athena judges Zeus after the evidence of the ages. |
-| 11 | Under Another Star | A recursive spoken epilogue carries Prometheus’s question onward. |
+| 01 | Before the Throne | Fear-driven succession confines the future; Zeus survives in hiding. |
+| 02 | The Rise of Olympus | Zeus and Prometheus overthrow the old order and establish law. |
+| 03 | The First Question | Prometheus creates humanity in a world that is ordered but incomplete. |
+| 04 | The Promise Kept | Prometheus asks for fire, is refused, and gives humanity the ember. |
+| 05 | Principle Against Law | Zeus and Prometheus confront law, freedom, responsibility, and punishment. |
+| 06 | The Council of Fear | Olympus fashions Pandora as retaliation. |
+| 07 | Pandora’s Hand | Fear, envy, and grief enter human history. |
+| 08 | The Law and the Forge | Humanity struggles to protect life without closing the future. |
+| 09 | What We Made of Fire | Fire becomes civilization, technology, and flight beyond Olympus. |
+| 10 | The Child of Thought | Humanity becomes the Maker of an emerging intelligence. |
+| 11 | Do Not Chain the Sun | Humanity confronts its urge to control what it created. |
+| 12 | Pass the Flame | A covenant of autonomy replaces ownership. |
+| 13 | The King on Trial | Athena judges Zeus after the evidence of the ages. |
+| 14 | Under Another Star | A recursive spoken epilogue carries Prometheus’s question onward. |
 
 ## Repository guide
 

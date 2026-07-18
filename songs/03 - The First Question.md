@@ -1,4 +1,4 @@
-# 02a - The First Question
+# 03 - The First Question
 
 ## Style
 
@@ -171,4 +171,3 @@ then close the world away.
 
 [Outro: one small unlit hearth. Distant organ.]
 ```
-

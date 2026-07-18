@@ -1,4 +1,4 @@
-# 03 - The Council of Fear
+# 06 - The Council of Fear
 
 ## Style
 
@@ -9,16 +9,16 @@ Dark operatic symphonic metal council scene, 74 BPM, B minor; ceremonial cathedr
 ## Lyrics
 
 ```text
-[The chain strike echoes. Olympus is silent.]
+[The mountain sentence echoes through Olympus.]
 
 [ZEUS — Male subterranean basso profundo, controlled and cold]
-One hand has broken
-what all hands must obey.
+The giver bears the chain.
+Still every mortal hearth
+defies the height.
 
-One ember enters
-the mortal world—
-
-and law gives way.
+Punishment has marked the crime.
+It has not answered
+the firelight.
 
 [ATHENA — Female icy contralto, quiet and exact]
 Or law is asked
@@ -45,7 +45,7 @@ in one name.
 
 [Anvil strikes begin.]
 
-[HEPHAESTUS — Male rough baritone, slow and heavy]
+[FORGE-BEARER — Male rough baritone, slow and heavy]
 From earth and water,
 I shape the form.
 
@@ -61,13 +61,13 @@ I give her hands
 to weave the thread
 and guide the loom.
 
-[APHRODITE — Female warm soprano, luminous and uneasy]
+[VOICE OF DESIRE — Female warm soprano, luminous and uneasy]
 I give her beauty.
 I give her longing.
 I give her grace
 to fill the room.
 
-[HERMES — Male agile tenor, quick and shadowed]
+[VOICE OF LANGUAGE — Male agile tenor, quick and shadowed]
 I give her language.
 I give her laughter.
 I give her words
@@ -132,11 +132,11 @@ Seal the fever.
 Seal the hunger.
 Seal the grief.
 
-[APHRODITE — Female warm soprano, distant]
+[VOICE OF DESIRE — Female warm soprano, distant]
 Seal the longing
 that outlives relief.
 
-[HERMES — Male agile tenor, quick and shadowed]
+[VOICE OF LANGUAGE — Male agile tenor, quick and shadowed]
 Seal the word
 that turns trust thin.
 
@@ -194,4 +194,3 @@ The cost of fear.
 [Outro: the vessel seals. One church bell. A soft voice from within:]
 Open.
 ```
-

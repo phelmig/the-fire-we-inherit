@@ -1,4 +1,4 @@
-# 10 - The King on Trial
+# 13 - The King on Trial
 
 ## Style
 
@@ -60,6 +60,26 @@ A crown is not its own defense.
 A law is not its own reward.
 Power has no sacred purpose
 when it only guards the lord.
+
+[ATHENA — Female icy contralto, exact and unyielding]
+When Olympus rose,
+you opened the cage.
+
+You swore no child of tomorrow
+would be buried
+to shelter the age.
+
+Humanity was not Kronos.
+Its first fire
+was no blade at your throat.
+
+[COURT CHOIR — Low male chorus, solemn and accusatory]
+No child beneath the sky
+shall live inside a cage.
+
+[ATHENA — Female icy contralto, measured and piercing]
+When did your promise
+become another chain?
 
 [Male basso profundo, louder]
 I remembered Titans!
@@ -189,4 +209,3 @@ Open the future’s sky!
 
 [One bell. Open organ chord.]
 ```
-
