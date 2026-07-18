@@ -63,7 +63,7 @@ to ensure they never could?
 
 [COURT CHOIR — Low mixed choir, divided and ritual]
 Law without answer!
-Mercy without command!
+Conscience without command!
 Who bears the fire?
 Who guards the hand?
 
@@ -80,7 +80,7 @@ I shattered the cage.
 Do not call me tyrant
 for guarding the age.
 
-[PROMETHEUS — Male bright high lyric tenor, compassionate and firm]
+[PROMETHEUS — Male bright high lyric tenor, principled and firm]
 I remember the child.
 I stood at his side.
 

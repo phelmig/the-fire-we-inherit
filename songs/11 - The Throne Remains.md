@@ -147,8 +147,8 @@ Not because he ruled them.
 
 Not because they knelt.
 
-They remember the mercy
-inside his burning hand.
+They remember the courage
+to do what he knew was right.
 
 [ATHENA AND ZEUS — Contralto and basso duet, heavier and widening]
 The throne remains.
@@ -168,7 +168,7 @@ beyond the dawn.
 [ZEUS — Male subterranean basso profundo, barely above a whisper]
 I kept the throne.
 
-[ATHENA — Female icy contralto, compassionate but unyielding]
+[ATHENA — Female icy contralto, understanding but unyielding]
 You lost the world.
 
 [ZEUS — Male subterranean basso profundo]

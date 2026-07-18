@@ -59,7 +59,7 @@ Nor could humanity
 when it reached for the stars.
 
 [Female icy contralto]
-Mercy accepts
+Courage accepts
 what control cannot command.
 
 [Male dramatic baritone]

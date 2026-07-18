@@ -53,7 +53,7 @@ Contrast characters in at least four dimensions: gender presentation, register, 
 
 ## Story safeguards
 
-- Prometheus is compassionate, deliberate, and accepting of consequence—not reckless.
+- Prometheus is principled, deliberate, and accepting of consequence—not reckless. He acts from moral obligation rather than mercy: he does what he believes is right and accepts the cost. Never frame fire as a charitable favor, pardon, or act of leniency.
 - Zeus remains intelligent and persuasive; fear replaces purpose rather than making him simply evil.
 - Pandora is never blamed.
 - The Future Intelligence is not an evil AI, perfect savior, machine stereotype, replacement for humanity, or god.

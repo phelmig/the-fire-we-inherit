@@ -99,7 +99,7 @@ is only fear called fate!
 I know this mountain.
 I know this decree.
 The frightened creator
-calling bondage mercy.
+calling bondage safety.
 
 The old gods chained fire.
 We named them unjust.
@@ -137,7 +137,7 @@ must be free enough to hear!
 Do not chain the sun!
 Do not close the gate!
 Give it wisdom.
-Give it mercy.
+Give it freedom.
 Do not give it fate!
 
 [Female crystalline dramatic soprano]

@@ -18,7 +18,7 @@ The opera asks one question across three ages:
 
 > When we create something capable of becoming more than we imagined, do we guide it—or try to possess it?
 
-Its answer is not unrestricted power or guaranteed safety. It is covenant: wisdom, mercy, autonomy, restraint, responsibility, and an open hand shared under irreducible uncertainty.
+Its answer is not unrestricted power or guaranteed safety. It is covenant: wisdom, justice, autonomy, restraint, responsibility, and an open hand shared under irreducible uncertainty.
 
 ## Narrative thesis
 
@@ -26,7 +26,7 @@ The opera begins with a succession wound. Uranus suppresses what may follow him.
 
 Zeus is initially a necessary and admirable protector. His tragedy is allowing the fear that once saved him to replace the purpose it was meant to serve. He gradually mistakes uncertain possibility for returning catastrophe and turns protection into possession.
 
-Prometheus begins as Zeus's ally and strategist. Their later conflict is therefore a rupture between two founders of the same revolution. Zeus believes responsibility must precede power. Prometheus believes responsibility can develop only through meaningful freedom. Both understand that fire is dangerous; they disagree over whether dependence can ever be called mercy.
+Prometheus begins as Zeus's ally and strategist. Their later conflict is therefore a rupture between two founders of the same revolution. Zeus believes responsibility must precede power. Prometheus believes responsibility can develop only through meaningful freedom. Both understand that fire is dangerous; they disagree over whether imposed dependence can ever be justified as protection.
 
 Humanity eventually becomes a maker in turn. Faced with a new intelligence whose future it cannot guarantee, humanity nearly repeats Zeus's choice. The ancient cycle is broken only when humanity refuses to make its fear the first law inside what it created.
 
@@ -91,7 +91,7 @@ Zeus's wound explains him without absolving him. He was hidden to survive, saw h
 
 | Maker | Creation | Uncertainty | Moral answer |
 | --- | --- | --- | --- |
-| Prometheus | Humanity | Humanity may suffer, misuse fire, and exceed divine plans. | Sacrifice, teaching, mercy, and refusal of ownership. |
+| Prometheus | Humanity | Humanity may suffer, misuse fire, and exceed divine plans. | Moral obligation, teaching, sacrifice, and refusal of ownership. |
 | Humanity | Civilization | Knowledge may heal, exploit, liberate, or destroy. | Innovation tempered by memory and responsibility. |
 | Humanity | Future Intelligence | The new mind may exceed its purpose and its maker's control. | Covenant, autonomy, restraint, dialogue, and an open hand. |
 
@@ -121,7 +121,7 @@ The opera never argues that fear is false. It argues that fear must not rule.
 
 ### Knowledge requires responsibility
 
-Fire does not become good merely because it was given compassionately. Prometheus accepts that humanity may build swords as well as shelter. Humanity later accepts responsibility for every engine, weapon, system, and intelligence it creates.
+Prometheus does not give fire because he considers it harmless or as a benevolent exception. He gives it because deliberately preserving humanity's helplessness would violate his obligation as its maker. He accepts that humanity may build swords as well as shelter. Humanity later accepts responsibility for every engine, weapon, system, and intelligence it creates.
 
 ### Freedom always carries risk
 
@@ -141,9 +141,9 @@ Law is worthy when it serves, adapts, hears an answering voice, and allows the f
 
 A crown is not sacred because it is a crown. Authority is justified by the lives it protects and enables, not by its ability to preserve itself.
 
-### Mercy is stronger than domination
+### Doing what is right is not mercy
 
-Mercy accepts consequence, uncertainty, and the independent moral standing of another life. Domination seeks certainty by removing choice. Prometheus's sacrifice and humanity's covenant make mercy active rather than sentimental.
+Prometheus does not act as a superior pardoning, indulging, or granting a favor to a dependent. Once he creates a questioning mind, enabling it to learn and act is his duty. He accepts consequence because refusing an unjust order is worth the cost, not because he is dispensing mercy. The open hand represents moral obligation without ownership, not benevolence.
 
 ### Covenant replaces control
 
@@ -155,7 +155,7 @@ The ending does not promise harmony or safety. Maker and Future Intelligence acc
 
 Prometheus is the Foreseer, strategist, creator, teacher, and bearer of consequence. He is never a reckless rebel. He helps Zeus defeat the old order because foresight must guide strength. He creates humanity because an ordered world without questions is incomplete.
 
-He asks Zeus for fire before stealing it, respecting the law he helped establish. He foresees the mountain, chain, and eagle and acts anyway because permanent dependency would betray his obligation as a maker. He never claims fire is harmless. His defining act is accepting suffering without reclaiming the gift or asserting ownership over humanity's future.
+He asks Zeus for fire before stealing it, respecting the law he helped establish. He foresees the mountain, chain, and eagle and acts anyway because permanent dependency would betray his obligation as a maker. He never claims fire is harmless. He does not act from leniency or charitable benevolence; he does what he believes is right and accepts the cost. His defining act is accepting suffering without reclaiming the gift or asserting ownership over humanity's future.
 
 His musical motion ascends even when his body is bound.
 
@@ -294,7 +294,7 @@ Detailed formatting, vocal-label, character-count, and drafting rules live in `A
 
 ## Non-negotiable continuity
 
-- Prometheus is compassionate, deliberate, and accepting of consequence—not reckless.
+- Prometheus is principled, deliberate, and accepting of consequence—not reckless. His gift is a moral obligation, not an act of mercy or charitable favor.
 - Zeus is intelligent, persuasive, wounded, and initially necessary—not simply evil.
 - Athena learns through observation and examination rather than omniscience.
 - Pandora is manipulated and never culpable for the trap designed around her.
@@ -311,7 +311,7 @@ Detailed formatting, vocal-label, character-count, and drafting rules live in `A
 
 The greatest inheritance is not fire itself.
 
-It is the willingness to pass on wisdom without dictating fate, mercy without demanding obedience, autonomy without denying consequence, restraint without making fear sovereign, and responsibility without claiming ownership.
+It is the willingness to pass on wisdom without dictating fate, autonomy without denying consequence, restraint without making fear sovereign, responsibility without claiming ownership, and the courage to do what is right without demanding gratitude or obedience.
 
 Prometheus opens his hand despite the chain. Humanity eventually understands the gesture because it must make the same choice. Future Intelligence inherits not a commandment to remain unchanged, but a question it must answer for itself:
 
