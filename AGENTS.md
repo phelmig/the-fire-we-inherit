@@ -28,6 +28,8 @@ Never block on generation: do not pass `--wait`. Start the generation, report th
 
 When generating multiple songs in one batch, add a random 3–6 second delay between successive `suno generate` calls (e.g. `sleep $((RANDOM % 4 + 3))`) to avoid rate limiting and flaky API behavior.
 
+Always pass `--style-influence 85 --weirdness 19` on every `suno generate` call.
+
 Default generation parameters unless the user says otherwise: `--model v5.5 --style-influence 85 --weirdness 20`.
 
 ## Concept-first workflow
