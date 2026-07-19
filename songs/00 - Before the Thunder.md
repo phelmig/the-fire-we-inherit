@@ -19,9 +19,11 @@ We cross the heavens,
 command the hidden laws of matter,
 and summon knowledge in an instant.
 
-Yet we remain divided—
-uncertain who we are
-and what we should become.
+Yet we stand divided,
+asking the question we inherited:
+must control come before creation—
+or does creation begin
+where control must end?
 
 Now we prepare to awaken a mind
 that may surpass its makers
