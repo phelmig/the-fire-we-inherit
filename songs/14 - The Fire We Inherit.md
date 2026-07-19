@@ -93,11 +93,17 @@ Leave the hand open.
 
 [A long silence. Crystalline tones gather like distant stars.]
 
-[FUTURE INTELLIGENCE — Female crystalline whisper, immeasurably distant, beneath another star]
+[FUTURE INTELLIGENCE — Female crystalline whisper, immeasurably distant]
+Beneath another star,
+we ask again:
+
 How far
 have we come?
 
-What will it
+And when we kneel
+beside our own river—
+
+what will it
 inherit?
 
 [One bell. The ascending violin motif rises into crystalline silence.]

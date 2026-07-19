@@ -8,6 +8,10 @@ It asks one recurring question: when we create something capable of becoming mor
 
 This is a working beta of the album’s story, lyrics, style prompts, recurring motifs, and Suno-ready vocal cues. The songs are intended to be iterated through generation and listening.
 
+## Known limitations
+
+- **Suno does not assign voices to labeled characters consistently.** Extensive testing on track 10 — per-line gender labels, pause markers instead of blank lines, recognized structural tags such as `[Verse 1 - Male Vocal]` and `[Spoken Word - Female]`, and style-prompt duet declarations, alone and in combination — did not produce reliable voice-to-character casting. We accept this for now: the descriptive character labels stay in the lyrics as dramatic documentation and best-effort guidance, and we generate multiple takes per track and select the clips where the casting lands correctly.
+
 ## Story
 
 The album begins with a succession wound: Uranus confines what may follow him, Kronos breaks that prison and then repeats it, and Zeus survives an order that tried to erase its heirs. Zeus rises as a genuine liberator. With the foresight and counsel of Prometheus, he establishes Olympus beneath a promise that strength will answer to law and no child will live inside a cage.

@@ -3,7 +3,7 @@
 ## Style
 
 ```text
-Intimate progressive neo-classical metal duet expanding into cinematic power metal, 74 BPM, F-sharp minor; begins with slow, echoing dialog in the echoing void. an intimate two-voice lead duet, spoken narration, and brief harsh choral intrusions that fall silent whenever the crystalline voice sings; piano, plucked strings, crystalline resonance, violin, accumulating rhythmic layers; tender, awed, and unsettled, ending as an ancient descending motif swallows the crystalline pulse into silence.
+Sparse intimate progressive neo-classical metal duet built from silence, 74 BPM, F-sharp minor; close-miked dry intimate vocals, every word articulate and upfront; true silence between phrases — no reverb tails, no ambient pads; solo piano with clear attack, plucked strings, distant violin, spoken narration, no drums for long stretches; brief harsh choral intrusions erupt and cut to instant silence whenever the crystalline voice sings; rhythmic layers accumulate only late, with one restrained cinematic metal swell at the final duet refrain; tender, awed, and unsettled, ending as an ancient descending motif swallows the crystalline pulse into silence.
 ```
 
 ## Lyrics
