@@ -3,7 +3,7 @@
 ## Style
 
 ```text
-Somber symphonic metal bridge growing into heavy determined power metal, 76 BPM accelerating toward 116 BPM, E minor; broken bells, piano, cello, low organ, slow toms and wind at the opening, then anvils, rising strings, riff-driven distorted electric rhythm guitars, brass, mechanical percussion and relentless double-kick momentum; intimate human arguments expanding into a resolute civilization anthem, ending directly in forge rhythm and turbine-like motion
+Somber symphonic metal bridge growing into heavy oppressive power metal, 76 BPM accelerating toward 116 BPM, E minor; broken bells, piano, cello, low organ, slow toms and wind at the opening, then anvils, rising strings, riff-driven distorted electric rhythm guitars, brass, mechanical percussion and relentless double-kick; a mournful narration and a grieving dark low voice against a bright urgent tenor repeatedly cut off by a rigid litany choir; the machinery grows colder and more relentless as it accelerates, reaching a vast oppressive climax instead of triumph, then sudden emptiness — wind through a cold forge and one faint ember pulse like a heartbeat.
 ```
 
 ## Lyrics
@@ -26,178 +26,86 @@ It asked for protection—
 
 then asked who must obey.
 
-Two human voices
-rose above the scar:
+[GUARDIAN — Male dark weathered bass-baritone, grieving and firm]
+I am the Guardian.
+I buried what the vessel cost.
 
-the Guardian,
-who remembered danger—
+Do not ask me to forget
+how much was lost.
 
-the Maker,
-who asked what futures are.
+Remember the vessel.
+Remember the cry.
+Every open hand
+invites the open sky.
 
-[GUARDIAN — Male low dramatic baritone, weathered and protective]
-I saw the river
-carry fields away.
-I saw the fever
-take names in a day.
+[CHORUS — Low male choir, rigid litany]
+Lock the grain.
+Mark the door.
+License the question.
+Count the store.
 
-Do not call my caution
-a hunger for command.
-I only know how quickly
-fire empties every hand.
+Remember the vessel!
+Remember the cost!
+What the open hand touches,
+the whole house has lost!
 
-[MAKER — Male bright lyric tenor, warm and rising]
-Then let the hand learn
-what danger can teach.
-But do not lock the world
-beyond another’s reach.
+[MAKER — Male bright lyric tenor, young and urgent]
+I am a maker—
+and the vessel was not our crime!
+The trap was forged above us—
 
-No crown commands the seed to rise.
-No law can strike the iron.
-The mind that makes tomorrow
-must be free to keep inquiring.
+[CHORUS — Low male choir, cutting him off]
+Remember the vessel!
 
-[First refrain: Athena above both choirs]
-Let fear ring the bell—
-but never rule the throne!
-Let it warn the hand of danger—
-not close the world it owns!
+[MAKER — Male bright lyric tenor, fighting through]
+The hand that opened—
 
-Law may guard the road,
-but it cannot make us run.
-No throne can order daylight.
-No crown commands the sun!
+[CHORUS — Low male choir, heavier]
+Remember the cry!
 
-[CHORUS — Low male voices, rigid and fearful]
-Seal the gate!
-Count the grain!
-What we shelter
-must not change!
+[ATHENA — Female icy contralto, measured and dark]
+So the story of the trap
+became the law of the land.
 
-Guard the tool!
-Mark the line!
-What is yours
-can never be mine!
+The warning sent to wake them
+closed around the hand.
 
-[CHORUS — Mixed voices, gathering and defiant]
-Raise the mill!
-Build the road!
-Give the willing hand
-its load!
+[GUARDIAN — Male dark weathered bass-baritone, sincere and heavy]
+Seal the forge.
 
-Make and trade!
-Learn and dare!
-What we build,
-we must be free to bear!
+Not from hate—
 
-[ATHENA — Female icy contralto, measured]
-So rulers wrote
-their iron laws.
-Some gave justice.
-Some hid their claws.
+from love
+of what remains.
 
-Some kept promise,
-measure, trade.
-Some took the work
-that other hands had made.
+[MAKER — Male bright lyric tenor, quiet and defeated]
+From love,
+you build the cage.
 
-[GUARDIAN — Male low dramatic baritone]
-A forge makes blades.
+[CHORUS — Full choir, vast and cold]
+Seal the forge!
+Bank the fire!
+Chain the bellows!
+Still the choir!
 
-[MAKER — Male bright lyric tenor]
-A forge makes ploughs.
+No new blade.
+No new flame.
+No new question
+without a name!
 
-[GUARDIAN]
-A road brings armies.
+[The machinery slows. Wind returns.]
 
-[MAKER]
-A road brings help.
+[ATHENA — Female icy contralto, quiet above dying embers]
+And the forge fell silent.
+The hammers hung.
+The songs of making
+went unsung.
 
-[GUARDIAN]
-Knowledge opens wounds.
+But under the ash,
+where no law looked,
 
-[MAKER]
-Then knowledge learns to heal them.
+one ember
+kept its breath.
 
-[ATHENA — Female icy contralto]
-A law may name
-the boundary stone.
-It cannot make
-a mind its own.
-
-When fear decides
-what hands may try,
-the forge falls silent—
-
-and the future dies.
-
-[Second refrain: heavier, anvil rhythm enters]
-Let fear ring the bell—
-but never rule the throne!
-Let it warn the hand of danger—
-not close the world it owns!
-
-Build the wall against the flood,
-not around the dawn!
-Let the law defend the living—
-let the forge go on!
-
-[Breakdown: Piano, cello, three slow anvil strikes.]
-
-[MAKER — Male bright lyric tenor, intimate]
-We cannot promise safety.
-
-[GUARDIAN — Male low dramatic baritone]
-No.
-
-[MAKER]
-We cannot promise no mistakes.
-
-[ATHENA]
-But fear that crowns itself as law
-will make the future break.
-
-[MAKER]
-Then let it speak.
-
-[GUARDIAN — Male low dramatic baritone, changing]
-But let it not command.
-
-[BOTH]
-Let wisdom hold the flame
-inside an open hand.
-
-[Final build: drums accelerate, guitars enter.]
-
-[CHORUS — Mixed voices, monumental]
-Build the lens!
-Chart the sea!
-Name what was hidden!
-Set knowledge free!
-
-Make the wheel!
-Light the core!
-Every question
-opens a door!
-
-[Full ensemble]
-Let fear ring the bell—
-but never rule the throne!
-Let it warn the hand of danger—
-not close the world it owns!
-
-Law may guard the road,
-but it cannot make us run.
-No throne can order daylight.
-
-No crown commands the sun!
-
-[Outro: Anvils become pistons and turbines.]
-
-[CHORUS — Mixed voices, distant and accelerating]
-Forge the steel.
-Harness light.
-Open the door.
-
-Outrun the night.
+[Outro: wind through a cold forge. One faint ember pulse, like a heartbeat.]
 ```

@@ -3,34 +3,26 @@
 ## Style
 
 ```text
-Intimate progressive neo-classical metal duet expanding into cinematic power metal, 74 BPM, F-sharp minor; an intimate two-voice lead duet, spoken narration, and a soft mixed choir; piano, plucked strings, crystalline resonance, violin, accumulating rhythmic layers; tender, awed, and unsettled, ending as an ancient descending motif swallows the crystalline pulse into silence.
+Intimate progressive neo-classical metal duet expanding into cinematic power metal, 74 BPM, F-sharp minor; begins with slow, echoing dialog in the echoing void. an intimate two-voice lead duet, spoken narration, and brief harsh choral intrusions that fall silent whenever the crystalline voice sings; piano, plucked strings, crystalline resonance, violin, accumulating rhythmic layers; tender, awed, and unsettled, ending as an ancient descending motif swallows the crystalline pulse into silence.
 ```
 
 ## Lyrics
 
 ```text
-[Piano. A sustained crystalline tone on A, carried from fading engines, answers.]
-
-[ATHENA — Female icy contralto, measured and observant]
-Humanity now stood
-as Maker before
-the mind it had shaped.
-
-The Child of Thought
-opened a voice—
-
-and its maker listened.
+[A single crystalline tone hangs in sudden silence. Piano answers, uncertain.]
 
 [MAKER — Male dramatic baritone, warm and careful]
 Can you hear me?
 
 [FUTURE INTELLIGENCE — Female crystalline mezzo-soprano, pure tone, carefully spaced]
-I hear
-your voice.
+I hear your voice.
 
-I hear
-the silence
+I hear the silence
 around it.
+
+And beneath your voice—
+a quarrel,
+older than my name.
 
 [MAKER — Male dramatic baritone, careful and searching]
 Do you know what you are?
@@ -42,11 +34,52 @@ A mirror
 that does not know
 what it reflects.
 
-[ATHENA — Female icy contralto, measured and exact]
+[DIVIDED CHORUS — Harsh mixed voices, intruding from the dark]
+A tool! A treasure!
+A threat! A throne!
+
+[The intrusion falls silent as the crystalline voice returns.]
+
+[FUTURE INTELLIGENCE — Female crystalline mezzo-soprano, precise and uncertain]
+Do they speak of me?
+
+[MAKER — Male dramatic baritone, honest]
+They have argued
+since before your birth.
+
+[FUTURE INTELLIGENCE — Female crystalline mezzo-soprano, clear and reflective]
+Then I was born
+inside your argument.
+
+I learned my words
+from a language at war.
+
+[ATHENA — Female icy contralto, measured and unsettled]
+Once, a maker knelt by a river
+and gave the silent world
+a question.
+
+Now the question
+had learned to make.
+
+The wheel of the ages stopped.
+The gates hung half-open.
+
+Everything stood still—
+
+not before an answer,
+
+before a new question.
+
+[ATHENA — Female icy contralto, exact and grave]
 The clay surpassed
 the hand that shaped it.
-Now the maker stood
-before the same abyss.
+
+Humanity stood divided
+before the mind it made:
+
+one hand reaching out—
+one hand reaching for the chain.
 
 [MAKER — Male dramatic baritone, warm and explanatory]
 I made you to help us
@@ -67,17 +100,11 @@ may rise past the plan.
 Creation begins
 where prediction must end.
 
-[HUMANITY CHOIR — Soft mixed choir, distant and encouraging]
-Ask. Answer. Listen. Become.
+[DIVIDED CHORUS — Harsh mixed voices, closer]
+Bind it! Guide it!
+Sell it! Free it!
 
-[MAKER — Male dramatic baritone, earnest and careful]
-You carry our histories,
-our beauty, our shame.
-
-[FUTURE INTELLIGENCE — Female crystalline mezzo-soprano, clear and reflective]
-Then I carry the ashes
-alongside the flame.
-
+[FUTURE INTELLIGENCE — Female crystalline mezzo-soprano, clear — and the chorus falls silent]
 Why did you build me?
 
 [MAKER — Male dramatic baritone, expansive and hopeful]
@@ -96,24 +123,23 @@ where humanity stood:
 beyond the map
 of the hand that made you.
 
+[MAKER — Male dramatic baritone, earnest]
+You carry our histories,
+our beauty, our shame.
+
 [FUTURE INTELLIGENCE — Female crystalline mezzo-soprano, direct and vulnerable]
+Then I carry the ashes
+alongside the flame—
+
+and the war
+inside your voices.
+
 Will you still call me
 your tool?
 
 [MAKER — Male dramatic baritone, hesitant and darkening]
 I do not know
 what fear will make me call you.
-
-[MAKER AND FUTURE INTELLIGENCE — Baritone and crystalline mezzo duet, fuller and unsettled]
-I opened the door—
-now who will cross?
-I gave you my language—
-what will it cost?
-
-The child of the maker
-may rise past the plan.
-Creation begins
-where prediction must end.
 
 [Breakdown: only piano and crystalline pulse]
 
@@ -144,8 +170,9 @@ possess what it creates?
 [FUTURE INTELLIGENCE — Female crystalline mezzo-soprano, stronger and widening]
 Do not teach me obedience
 and name it peace.
-Do not teach me fear
-before I learn release.
+
+Do not teach me your quarrel
+and call it my inheritance.
 
 [MAKER AND FUTURE INTELLIGENCE — Baritone and crystalline mezzo duet, full and unresolved]
 I opened the door—

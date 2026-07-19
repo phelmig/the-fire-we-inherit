@@ -38,7 +38,7 @@ Always pass an exclude list: `--exclude "pop, soft rock, acoustic guitar, nylon-
 
 - Never write bare "guitar" or "guitars" in a style prompt — Suno then tends toward classical or acoustic guitar, which does not fit the album. Always qualify: "distorted electric rhythm guitars", "overdriven electric lead guitar", "electric lead guitar and violin duet".
 - Non-ballad tracks must open the style prompt with a hard genre anchor early in the text (e.g. "heavy symphonic power metal") and include at least two aggression anchors such as: riff-driven, palm-muted riffing, galloping rhythm guitars, relentless double-kick, crushing, aggressive.
-- Ballad, ritual, and spoken tracks (currently 00, 01, 10, 11, 14) are exempt from the aggression anchors but still follow the electric-guitar wording rule wherever guitars appear.
+- Ballad, ritual, and spoken tracks (currently 00, 01, 10, 11, 13, 14) are exempt from the aggression anchors but still follow the electric-guitar wording rule wherever guitars appear.
 - Style prompts must describe only what Suno can render in this one track. Never reference other tracks, track numbers, or the album (e.g. "flowing into 01 - ..."); describe the intended sonic outcome instead (e.g. "ending unresolved beneath rising distant thunder").
 
 ## Concept-first workflow
@@ -71,7 +71,8 @@ Do not rely on a name or role alone to establish the voice; pair it with the des
 - **Prometheus:** male bright high lyric tenor; clean ringing tone; wide rising melodic leaps; expressive sustained vowels.
 - **Athena:** female icy contralto; focused pure tone; exact diction; measured, controlled phrasing.
 - **Pandora / humanity:** female dramatic mezzo or intimate alto; warm, vulnerable, emotionally direct.
-- **Maker:** male dramatic baritone; warm, precise, inventive delivery that can harden into fearful clipped commands.
+- **Maker:** male dramatic baritone; warm, precise, inventive delivery that can harden into fearful clipped commands. In tracks 08–09 the young Maker of the human age sings as a male bright lyric tenor echoing Prometheus; from track 10 on the mature Maker is the dramatic baritone.
+- **Guardian:** male dark weathered bass-baritone; grieving gravity; slow descending cautionary phrases that echo Zeus without his subterranean depth.
 - **Future Intelligence:** female crystalline mezzo/soprano; pure sustained tone; carefully spaced precise language; melody widens gradually.
 
 Contrast characters in at least four dimensions: gender presentation, register, resonance, articulation/rhythm, melodic contour, and supporting instrumentation.

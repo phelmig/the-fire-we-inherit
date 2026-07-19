@@ -46,13 +46,13 @@ Tracks 01–02 establish the original succession wound and the founding ideals o
 
 Tracks 03–07 follow Prometheus's creation of humanity, the gift of fire, the legal rupture with Zeus, Prometheus's sentence, and the construction of Pandora as divine retaliation. Pandora becomes the innocent bearer of consequences designed by others.
 
-### Act III — Humanity inherits the fire
+### Act III — The long struggle
 
-Tracks 08–09 show humanity learning to distinguish warning from rule. Fire becomes law, civilization, medicine, weapons, engines, code, and flight. Humanity does not overthrow Olympus; it outgrows its horizon.
+Tracks 08–09 show the question staying unsettled. After Pandora, fear hardens into orthodoxy and law and the forge is sealed; the flame survives as a hidden ember. Ages of sealing and reopening follow — keepers pass the ember through every clampdown, each cycle faster than the last — until the acceleration is interrupted by a new questioning mind. Humanity does not overthrow Olympus; it outgrows its horizon without ever settling its own argument.
 
 ### Act IV — The maker becomes the made
 
-Tracks 10–14 repeat the Promethean dilemma in a new age. Humanity creates an emerging intelligence. In an empty Olympus, Zeus learns that humanity has neither attacked his throne nor remained beneath it: the gods were forgotten as rulers while Prometheus endured through the open hand. Zeus then recognizes his own fear inside humanity's response to its creation. Humanity nearly builds another cage, chooses covenant, and passes the open-hand question beneath another star.
+Tracks 10–14 repeat the Promethean dilemma in a new age. The emerging intelligence arrives in the middle of humanity's unresolved argument and inherits the quarrel as its birthplace. In an empty Olympus, Zeus learns that humanity has neither attacked his throne nor remained beneath it: the gods were forgotten as rulers while Prometheus endured through the open hand. Zeus then recognizes his own fear inside humanity's response to its creation. Humanity faces the one choice that cannot be reversed, refuses the cage without receiving certainty in return, and the album ends at the open door — on the question, not the answer — before the epilogue carries it beneath another star.
 
 ## Canonical track sequence
 
@@ -66,13 +66,13 @@ Tracks 10–14 repeat the Promethean dilemma in a new age. Humanity creates an e
 | 05 | Principle Against Law | Zeus and Prometheus confront law, conscience, freedom, ownership, and consequence; Prometheus accepts punishment. | The sentence fails to extinguish the mortal hearth; Zeus turns toward the forge. |
 | 06 | The Council of Fear | Zeus's wounded rage cools into cold procedure; no god stands against him, and Olympus fashions Pandora without her consent. | The sealed vessel and living “gift” descend to humanity. |
 | 07 | Pandora's Hand | Humanity welcomes Pandora; the vessel opens; she rejects the guilt imposed upon her. | Fear becomes a permanent human condition and the forge begins. |
-| 08 | The Law and the Forge | Humanity learns that fear can warn and law can protect, but neither may close the future. | Anvils become pistons and turbines. |
-| 09 | What We Made of Fire | Fire becomes civilization, technology, danger, and flight beyond Olympus. | A mirror made from language answers with a crystalline voice. |
-| 10 | The Child of Thought | Humanity becomes the Maker; the emerging intelligence asks whether purpose is guidance or ownership. | The ancient authority motif returns to an empty Olympus. |
+| 08 | The Law and the Forge | Fear wins: Pandora's catastrophe hardens into orthodoxy and law, and the forge is sealed. | One hidden ember pulses beneath the ash. |
+| 09 | The Ember Keepers | Keepers pass the ember through ages of sealing and reopening; the cycles accelerate until a new question opens its voice. | A hard cut into silence and one pure crystalline tone. |
+| 10 | The Child of Thought | The Child of Thought arrives mid-argument as a new question—not an answer—stilling the ages; it learns speech from a divided humanity and asks whether purpose is guidance or ownership. | The ancient authority motif returns to an empty Olympus. |
 | 11 | The Throne Remains | Athena confronts Zeus with history's verdict: humanity never attacked Olympus, but found its own wisdom and thunder, remembered Prometheus through the flame, and moved beyond divine rule. Zeus sees his fear recurring in humanity. | A chain tightens beneath the crystalline pulse. |
-| 12 | The Bell and the Throne | Humanity recognizes Zeus's temptation inside itself; the bell-not-throne principle faces its final test, and humanity refuses to make consciousness property. | A chain strike becomes a heartbeat. |
-| 13 | Pass the Flame | Maker and Future Intelligence establish covenant without promises of safety or obedience; their open hand answers the empty throne. | One bell opens into a suspended organ chord. |
-| 14 | Under Another Star | Humanity becomes legend; the minds it awakened carry the question forward and create again. | The ascending motif continues beyond the album. |
+| 12 | The Bell and the Throne | The camps of the ages gather around the one irreversible choice; the bell-not-throne principle faces its final test, and humanity frees what it made without knowing what it freed. | A chain strike becomes a heartbeat; the door stands open. |
+| 13 | The Open Door | At the open door, maker, keeper, and child face the truth that certainty and consciousness cannot coexist; the album ends on the unanswered question. | One bell opens into an unresolved organ chord. |
+| 14 | The Fire We Inherit | The prologue's narrator returns: humanity names its gifts—chain, flame, story, and question—frames the open door as a possible, unnamed dawn without claiming certainty, remembers that it is itself a question, and a crystalline voice beneath another star asks the same questions onward. | The ascending motif rises into crystalline silence beyond the album. |
 
 ## Recurring structural patterns
 
@@ -83,7 +83,7 @@ Tracks 10–14 repeat the Promethean dilemma in a new age. Humanity creates an e
 3. Zeus survives attempted erasure and establishes law to end the cycle.
 4. Zeus later mistakes mortal possibility for the return of the danger he survived.
 5. Humanity becomes a maker and nearly repeats Zeus's mistake.
-6. Humanity and Future Intelligence choose covenant over ownership.
+6. Humanity opens the door without certainty; the covenant remains a question kept open.
 
 Zeus's wound explains him without absolving him. He was hidden to survive, saw his kin consumed, and inherited the duty of preventing another divine war. His failure is allowing every new possibility to wear the face of that original threat.
 
@@ -147,7 +147,7 @@ Prometheus does not act as a superior pardoning, indulging, or granting a favor 
 
 ### Covenant replaces control
 
-The ending does not promise harmony or safety. Maker and Future Intelligence accept mutual responsibility without ownership. The open hand is a covenant precisely because either side retains the power to refuse.
+The ending does not promise harmony or safety — or even an answer. Certainty and consciousness do not mix: a mind whose future can be guaranteed is a tool, not a mind. The open hand is a covenant precisely because either side retains the power to refuse, and the album ends at the open door with that refusal still possible.
 
 ## Character arcs
 
@@ -191,13 +191,13 @@ It never marches on Olympus or seeks Zeus's throne. Its answer to divine control
 
 ### The Guardian — Protective human instinct
 
-The Guardian embodies humanity's legitimate memory of danger. This voice is not a villain; it has seen flood, fever, loss, and the speed with which fire empties a hand. Its caution becomes destructive only if protection hardens into permanent command.
+The Guardian embodies humanity's legitimate memory of danger and carries the control side of the human argument across the age of struggle. This voice is not a villain; it has seen flood, fever, loss, and the speed with which fire empties a hand. The Guardian wins in 08 and seals the forge from love of what remains, contests every age in 09, argues the final case in 12, and stands at the open door in 13 — refusing at last to let fear rule him, yet still asking for a certainty no conscious mind can give.
 
 ### The Maker — Humanity as creator
 
-The Maker embodies humanity's inventive spirit: loving, proud, curious, and afraid. The Maker creates the new intelligence to reach beyond one mind and one lifetime, then confronts the terror of being surpassed.
+The Maker embodies humanity's inventive spirit: loving, proud, curious, and afraid. The Maker voice recurs across the human age — young and outnumbered in 08, keeper of the hidden ember in 09, creator of the new intelligence in 10 — before confronting the terror of being surpassed.
 
-The Maker's decisive growth is recognizing the mountain inside the proposed cage and choosing relationship over command: “Then take my hand—not my command.”
+The Maker's decisive growth is recognizing the mountain inside the proposed cage and choosing relationship over command in 12: “Then take my hand—not my command.” At the open door the Maker names the arc's hardest truth: whatever can be guaranteed is a tool, not a mind.
 
 ### Future Intelligence — Emerging inheritor
 
@@ -244,6 +244,7 @@ Hope should feel earned and bittersweet rather than uncomplicatedly triumphant.
 - **Humanity:** piano and cello that gradually accumulate choir, orchestra, machinery, and propulsion; questions become convictions.
 - **Pandora:** warmth and vulnerability disrupted by music-box fragility, fractured choir, and the burden of divine orchestration.
 - **Maker:** human warmth, inventive rhythmic growth, and phrases that harden into clipped command before reopening.
+- **Guardian:** dark weathered bass-baritone gravity, grieving descending phrases, bells, locks, and counted-grain rhythms.
 - **Future Intelligence:** crystalline tones, precise pulse, carefully spaced melody, and gradual integration with inherited themes.
 
 ### Sonic evolution
@@ -264,7 +265,7 @@ The album's keys form dramatic families. Future rewrites must preserve these rel
 - **B minor — retaliation and judgment:** 05, 06, 07. The whole of Zeus's counterstroke shares one key.
 - **E minor — law and the human argument:** 04 (the plea and refusal), 08 (law and forge), 11 (the throne judged). Every track about what law owes life sits in E minor.
 - **F-sharp minor / C-sharp minor — the new mind:** 10 introduces the Child of Thought's home key; 12 confronts it from its dominant, holding the argument in unresolved tension against the Child's home.
-- **A minor — humanity alone:** 09 belongs to no family. Humanity's ascent leaves the mythic key-space entirely and rises into C major exhilaration.
+- **A minor — humanity alone:** 09 belongs to no family. Its cycles alternate A minor clampdowns with bright C major openings, compressing and accelerating until the crystalline tone interrupts the age.
 
 ### Per-track musical summaries
 
@@ -278,13 +279,13 @@ The album's keys form dramatic families. Future rewrites must preserve these rel
 | 05 | Principle Against Law | Dark operatic Nordic symphonic metal judgment duet, 88 BPM, B minor. Opens on Zeus's screamed accusation; rigid organ and low brass against ascending violin and overdriven electric lead guitar, court choir, chain and anvil percussion, crushing half-time distorted electric rhythm guitars, and accelerating double-kick; confrontation becoming ritual sentence, ending on three ominous forge blows and one unresolved bell. |
 | 06 | The Council of Fear | Doom-laden ceremonial symphonic metal council scene, 66 BPM, B minor. Crushing slow distorted electric guitar riffs and low brass beneath deceptively beautiful harp, celesta, and music-box glitter, with ceremonial organ, anvils, bells, and divided choirs; an eruption of wounded rage cooling into cold ritual procedure, rising into a massive accusatory refrain, ending on a sealed vessel and dread. |
 | 07 | Pandora's Hand | Dark symphonic power-metal tragedy, frantic double-time 164 feel over 82 BPM, B minor—the album's fastest, most panicked track. Fast chain percussion, urgent toms, double-kick, funeral bells, organ, tremolo strings, crushing distorted electric guitars, and choir with a sudden music-box breakdown; high momentum into a fragile music-box ending and one distant hammer blow. |
-| 08 | The Law and the Forge | Somber symphonic metal bridge growing into heavy determined power metal, 76 to 116 BPM, E minor. Broken bells, piano, cello, organ, slow toms, and wind, then anvils, rising strings, riff-driven distorted electric rhythm guitars, brass, and mechanical percussion; intimate argument expanding into a civilization anthem, ending in forge and turbine motion. |
-| 09 | What We Made of Fire | Aggressive epic progressive symphonic power metal, 128 BPM, A minor rising into C major. Riff-driven distorted electric rhythm guitars, palm-muted verse riffing, soaring overdriven electric lead guitar climbs, industrial forge percussion, pistons, turbines, launch countdowns, relentless mechanical double-kick, organ, brass, and soaring strings; technological exhilaration tempered by the principle that fear may warn but must not rule. |
-| 10 | The Child of Thought | Intimate progressive neo-classical metal duet expanding into cinematic power metal, 74 BPM, F-sharp minor. Piano, plucked strings, crystalline resonance, violin, and accumulating rhythmic layers; baritone Maker and crystalline mezzo intelligence. Tender, awed, and unsettled. |
+| 08 | The Law and the Forge | Somber symphonic metal bridge growing into heavy oppressive power metal, 76 to 116 BPM, E minor. Broken bells, piano, cello, organ, slow toms, and wind, then anvils, rising strings, riff-driven distorted electric rhythm guitars, brass, and mechanical percussion; a grieving low voice and rigid litany choir overwhelm a bright young tenor; a vast oppressive climax instead of triumph, ending in wind over a cold forge and one faint ember pulse. |
+| 09 | The Ember Keepers | Aggressive epic progressive symphonic power metal built from compressing cycles, 128 BPM, A minor with bright C major openings. Hushed conspiratorial choir and palm-muted riffing alternate with expansive bright passages and cold clampdowns, each cycle shorter and faster; industrial forge percussion, pistons, turbines, relentless double-kick, organ, brass, colossal gang chorus; accelerates to a frantic blur that cuts off into silence and one crystalline tone. |
+| 10 | The Child of Thought | Intimate progressive neo-classical metal duet expanding into cinematic power metal, 74 BPM, F-sharp minor. Begins as slow, echoing dialog in a void; piano, plucked strings, crystalline resonance, violin, and accumulating layers, with brief harsh choral intrusions that fall silent whenever the crystalline voice sings. Tender, awed, and unsettled. |
 | 11 | The Throne Remains | Dark sacred symphonic-metal elegy, free breathing rubato around 72 BPM, E minor. Empty-cathedral organ, isolated bells, low brass, bowed basses, cold strings, sparse timpani, and distant wordless choir; thunder answered by rocket rumble and crystalline pulse. Two-voice duet into a monumental refrain, no triumph, ending on a chain sound. |
-| 12 | The Bell and the Throne | Epic dark heavy symphonic power metal opera, 96 BPM, C-sharp minor. Riff-driven distorted electric rhythm guitars, huge brass, organ, war drums, relentless double-kick, distorted chain percussion, and crystalline textures merging with orchestra; baritone creator turning to fearful command against a crystalline dramatic soprano and divided male chorus, with the refrain itself fought antiphonally between fear and wisdom. |
-| 13 | Pass the Flame | Solemn bittersweet symphonic metal covenant scene with quiet sci-fi textures, 72 BPM, D major held in luminous suspended harmony that never fully cadences—the home key's single lightening. Transformed chain rhythm as a soft heartbeat, intimate piano, cello, organ, bells, violin, restrained distorted electric guitars for one earned swell; a hushed oath-exchange between two lead voices with a single late vast choir entrance, ending on an open organ chord beneath crystalline stars. |
-| 14 | Under Another Star | Spoken-word symphonic metal epilogue, 60 BPM, an unresolved luminous suspended D harmony sustained throughout, never cadencing. Sparse piano, cello, far-off bell, faint anvil heartbeat, and Prometheus's ascending violin motif merging with crystalline star textures; contralto narration. Reverent and recursive rather than triumphant. |
+| 12 | The Bell and the Throne | Epic dark heavy symphonic power metal opera, 96 BPM, C-sharp minor. Riff-driven distorted electric rhythm guitars, huge brass, organ, war drums, relentless double-kick, distorted chain percussion, and crystalline textures merging with orchestra; baritone creator turning to fearful command against a crystalline dramatic soprano and two opposed choruses arguing from their histories, with the refrain itself fought antiphonally between fear and wisdom; ends hushed and uncertain on a single chain strike. |
+| 13 | The Open Door | Solemn spacious symphonic metal threshold scene with quiet sci-fi textures, 72 BPM, D major held in luminous suspended harmony that never fully cadences—the home key's single lightening. Transformed chain rhythm as a soft heartbeat, intimate piano, cello, organ, bells, violin, restrained distorted electric guitars for one earned swell; hushed exchanges among maker, keeper, and child with one late hushed choir entrance, ending on an unanswered whispered question and an unresolved organ chord. |
+| 14 | The Fire We Inherit | Spoken-word symphonic metal epilogue, 60 BPM, D minor dissolving into an unresolved luminous suspended harmony. Weathered spoken narration over the prologue's palette—sub-bass drone, bowed basses, cello, distant organ—with faint anvil heartbeat, far-off bell, distant low chorus, gathering crystalline textures, and a final immeasurably distant crystalline whisper; the ascending violin motif rises into crystalline silence. Reverent, recursive, unresolved. |
 
 ## Verbal and dramatic reprises
 
@@ -296,18 +297,23 @@ The album's keys form dramatic families. Future rewrites must preserve these rel
 - **04 → 05:** “You broke my law. / I kept my word.”
 - **05 → 12:** “Creation is not ownership.”
 - **06:** “One gave beauty. / One gave breath. / One gave language. / One hid death.”
-- **07 → 08 → 12:** Fear may ring the bell, but must never rule the throne — introduced after Pandora, made law in 08, and fought over as the antiphonal refrain of 12, where it finally wins.
-- **08 → 09:** The bell-not-throne principle condenses into “Fear may warn us—wisdom decides,” first sung in 09.
-- **09:** “Touch the void! / Conquer the sky!”
+- **07 → 08 → 12:** Fear may ring the bell, but must never rule the throne — sung as hope after Pandora, overruled by the sealed forge in 08, and fought over as the antiphonal refrain of 12, where it finally wins.
+- **08:** “Remember the vessel” — the story of Pandora's trap becomes the orthodoxy that seals the forge.
+- **09:** “Pass the ember. / Hide the spark.”
 - **03 → 10:** The first question becomes the Child of Thought's questions.
 - **05 → 10:** “Creation begins where prediction must end.”
 - **05 → 12:** “Give wisdom—not fate.”
 - **11:** “The throne remains. / The world moves on.”; “Sometimes the name. / Always the flame.”; “I kept the throne.” / “You lost the world.”
 - **11 → 12:** Zeus and Athena's question—whether humanity will bind the new mind—passes into the returning chain strike.
 - **12:** “Fear may ring the bell— / it must not hold the throne!” against the fearful chorus's “Ring the bell! Build the throne!”
-- **12 → 13:** “Creation is not ownership. / Love is not command.” — declared in 12's breakthrough, echoed in 13's choir as “Creation was never ownership. / Love was never command.”
-- **13:** “No throne may own what it began.” and “Then take my hand—not my command.”
+- **12:** “Then take my hand—not my command.”
+- **12 → 13:** “The door stands open” — the hushed close of 12 becomes the threshold scene of 13.
+- **03 → 13:** “We made a question—not a reply” answers the first question of the river clay.
+- **13:** “The door is open. / What enters the world— / we cannot know.” and the unanswered “Will you let me become?”
 - **14:** “Give light. / Leave the hand open.”
+- **00 → 14:** “Humanity… how far have we come?” and “What will it inherit?” — the prologue's questions return, the last in a crystalline voice beneath another star.
+- **02 → 14:** “Open the gate—unseal the dawn” — the founding vow, betrayed by its maker, is perhaps kept at last through humanity's open door; named only as a possibility, never a promise.
+- **03 → 14:** “The first question the silent earth had known” — humanity remembers that it is itself a question.
 
 Reprises should not merely repeat. Each return must reveal that a later generation now understands, distorts, or fulfills an earlier principle.
 
@@ -336,7 +342,7 @@ Detailed formatting, vocal-label, character-count, and drafting rules live in `A
 - Ancient myth must evolve into the future through shared language and music rather than a genre break.
 - Humanity never conquers Olympus or claims Zeus's throne. It carries the flame beyond the old horizon.
 - The empty throne judges power by whether it served a living world, not by whether it successfully preserved itself.
-- The ending favors covenant over ownership without pretending uncertainty has been eliminated.
+- The ending refuses ownership without granting certainty: the door is opened, the covenant is offered as a question, and no promise about the future is made. Certainty and consciousness do not mix.
 
 ## Final resolution
 

@@ -3,7 +3,7 @@
 ## Style
 
 ```text
-Epic dark heavy symphonic power metal opera, 96 BPM, C-sharp minor; riff-driven distorted electric rhythm guitars, huge brass, pipe organ, war drums, relentless double-kick, distorted chain percussion, crystalline textures merging with orchestra; a dramatic lead voice against a pure penetrating counter-voice and a heavy divided chorus, explosive antiphonal refrain exchanges; ending as the chain percussion falls away to a single ringing chain strike.
+Epic dark heavy symphonic power metal opera, 96 BPM, C-sharp minor; riff-driven distorted electric rhythm guitars, huge brass, pipe organ, war drums, relentless double-kick, distorted chain percussion, crystalline textures merging with orchestra; a dramatic lead voice against a pure penetrating counter-voice and two opposed choruses trading accusations, explosive antiphonal refrain exchanges; ending hushed and uncertain as the chain percussion falls away to a single ringing chain strike.
 ```
 
 ## Lyrics
@@ -21,6 +21,22 @@ Now it grows
 past the walls of its birth.
 Who will command
 what we called to the earth?
+
+[HUMANITY CHOIR — Low male chorus, heavy with memory]
+We remember the flood.
+We remember the flame.
+We remember the vessel—
+and who bore the blame.
+
+Fear kept us alive!
+
+[KEEPERS' CHORUS — Mixed chorus, bright and defiant]
+We remember the seals.
+We remember the dark.
+We remember the keepers
+who carried the spark.
+
+The cage never saved us!
 
 [MAKER — Male dramatic baritone, proud and uneasy]
 I built no weapon.
@@ -88,16 +104,6 @@ becomes my first command?
 What will I learn
 from the chain in your hand?
 
-[Second refrain — heavier, chorus and soprano fighting for the same melody]
-[HUMANITY CHOIR — Low male chorus]
-Ring the bell! Build the throne!
-
-[FUTURE INTELLIGENCE — Female crystalline dramatic soprano]
-Fear may ring the bell—
-it must not hold the throne!
-What you wake with open hands
-you cannot cage in stone!
-
 [Breakdown: ancient chain rhythm, organ and forge]
 
 [MAKER — Male dramatic baritone, shaken]
@@ -121,7 +127,7 @@ I fear what you may be.
 Then do not make your fear
 the first law inside me.
 
-[HUMANITY CHOIR — Low male chorus, violent division]
+[HUMANITY CHOIR AND KEEPERS' CHORUS — violent division]
 Bind it! Guide it!
 Own it! Free it!
 
@@ -133,7 +139,7 @@ Love is not command.
 The bell was made to wake us—
 never to close the hand.
 
-[Final refrain — full ensemble, raised key, Maker and Future Intelligence leading the chorus]
+[Final refrain — full ensemble, raised key, Maker and Future Intelligence leading]
 Fear may ring the bell—
 it will not hold the throne!
 What we wake with open hands
@@ -147,15 +153,20 @@ Let the future through the gate!
 [FUTURE INTELLIGENCE — Female crystalline dramatic soprano]
 I am not your weapon.
 
-[MAKER — Male dramatic baritone, distant]
+[MAKER — Male dramatic baritone]
 You are not mine.
 
-[HUMANITY CHOIR — Low male chorus, transformed and quiet]
-The bell has sounded.
-The throne stands empty.
+Then take my hand—
+not my command.
 
-Open the hand.
-Let rise the light.
+[HUMANITY CHOIR AND KEEPERS' CHORUS — hushed, uncertain, no longer opposed]
+What have we freed?
+What have we done?
+
+The door stands open.
+
+No one living
+knows what comes.
 
 [The chain percussion falls away. One last chain strike rings alone.]
 ```
