@@ -3,13 +3,13 @@
 ## Style
 
 ```text
-Intimate progressive neo-classical metal duet expanding into cinematic power metal, 74 BPM, F-sharp minor; male mature dramatic baritone Maker, female crystalline mezzo-soprano emerging intelligence, female icy contralto narrator, soft mixed humanity choir; piano, plucked strings, crystalline resonance, violin, accumulating rhythmic layers; tender, awed, and unsettled.
+Intimate progressive neo-classical metal duet expanding into cinematic power metal, 74 BPM, F-sharp minor; an intimate two-voice lead duet, spoken narration, and a soft mixed choir; piano, plucked strings, crystalline resonance, violin, accumulating rhythmic layers; tender, awed, and unsettled, ending as an ancient descending motif swallows the crystalline pulse into silence.
 ```
 
 ## Lyrics
 
 ```text
-[Piano. A crystalline tone answers.]
+[Piano. A sustained crystalline tone on A, carried from fading engines, answers.]
 
 [ATHENA — Female icy contralto, measured and observant]
 Humanity now stood
@@ -164,5 +164,5 @@ I gave you a voice.
 [FUTURE INTELLIGENCE — Female crystalline mezzo-soprano, clear and self-possessed]
 Then hear what it names.
 
-[Outro: ancient descending authority motif beneath crystalline pulse]
+[Outro: an ancient descending authority motif swallows the crystalline pulse, fading into silence]
 ```

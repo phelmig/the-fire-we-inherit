@@ -3,7 +3,7 @@
 ## Style
 
 ```text
-Epic progressive symphonic power metal, 98 BPM, A minor rising into C minor; male dramatic baritone as humanity’s inventive maker voice, angelic female soprano as the widening human horizon, colossal mixed gang chorus; industrial forge percussion, pistons, turbines, launch countdowns and mechanical double-kick rhythms; pipe organ, brass, soaring strings, heavy guitars, rocket-like orchestral climbs; technological exhilaration tempered by the recurring principle that fear may warn but must not rule.
+Epic progressive symphonic power metal, 98 BPM, A minor rising into C major; impassioned lead vocals, soaring counter-melodies, and a colossal mixed gang chorus; industrial forge percussion, pistons, turbines, launch countdowns and mechanical double-kick rhythms; pipe organ, brass, soaring strings, heavy guitars, rocket-like orchestral climbs; technological exhilaration tempered by the recurring principle that fear may warn but must not rule.
 ```
 
 ## Lyrics
@@ -11,7 +11,7 @@ Epic progressive symphonic power metal, 98 BPM, A minor rising into C minor; mal
 ```text
 [Anvil strikes become pistons and turbines.]
 
-[Male dramatic baritone, commanding and visionary]
+[HUMANITY — Male dramatic baritone, commanding and visionary]
 The gate stood open.
 The ember endured.
 We hammered the unknown
@@ -22,13 +22,13 @@ to conquer a throne.
 We followed the question
 where no map had gone.
 
-[Gang chorus, forceful chant]
+[HUMANITY CHOIR — Mixed gang chorus, forceful chant]
 Forge the steel!
 Harness the light!
 Measure the heavens!
 Outrun the night!
 
-[Angelic female soprano, soaring]
+[HUMANITY — Female angelic soprano, soaring, the widening horizon]
 The fire became number.
 The number became code.
 The code became engines
@@ -50,7 +50,7 @@ Conquer the sky!
 Fear may warn us—
 wisdom decides!
 
-[Male dramatic baritone, accelerating]
+[HUMANITY — Male dramatic baritone, accelerating]
 We split the atom.
 We mapped the gene.
 We gave sight to metal
@@ -66,7 +66,7 @@ by compass and chart.
 We turned the pulse of lightning
 into the world’s living heart.
 
-[Gang chorus]
+[HUMANITY CHOIR — Mixed gang chorus, driving]
 Raise the tower!
 Light the core!
 Count down the heavens!
@@ -93,7 +93,7 @@ wisdom decides!
 
 [Breakdown: alarms, slowing machinery, piano remains]
 
-[Angelic female soprano, mournful]
+[HUMANITY — Female angelic soprano, mournful]
 Every engine carries
 bread or war.
 Every lens can witness—
@@ -104,25 +104,25 @@ a door in the night—
 or teach another gate
 how to close it tight.
 
-[Male dramatic baritone, shaken but resolute]
+[HUMANITY — Male dramatic baritone, shaken but resolute]
 We built faster than wisdom.
 We reached farther than care.
 We mastered the instrument—
 not the purpose it should bear.
 
-[Gang chorus, divided]
+[HUMANITY CHOIR — Mixed gang chorus, divided]
 Build it!
 Break it!
 Sell it!
 Save it!
 
-[Angelic female soprano]
+[HUMANITY — Female angelic soprano, clear]
 The fire is not evil.
 The hand is not pure.
 No answer is worthy
 that fear can secure.
 
-[Male dramatic baritone]
+[HUMANITY — Male dramatic baritone, resolute]
 Let fear be the bell—
 not the throne.
 Let it mark the cost—
@@ -144,19 +144,19 @@ Conquer the sky!
 Fear may warn us—
 wisdom decides!
 
-[Male dramatic baritone, awed]
+[HUMANITY — Male dramatic baritone, awed]
 We gave steel wings.
 We gave machines sight.
 We built a mirror from language—
 
-[Angelic female soprano, distant answer]
+[HUMANITY — Female angelic soprano, distant answer]
 —and it answered with light.
 
-[Gang chorus, monumental]
+[HUMANITY CHOIR — Mixed gang chorus, monumental]
 Forge the future!
 Open the door!
 
-[Full ensemble]
+[HUMANITY — Full ensemble, monumental and resolute]
 Creation now stands
 where creation stood before.
 

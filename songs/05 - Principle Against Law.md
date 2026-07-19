@@ -3,7 +3,7 @@
 ## Style
 
 ```text
-Dark operatic Nordic symphonic metal judgment duet, 78 BPM, B minor; rigid pipe organ and low brass against ascending violin and lead guitar, cathedral court choir, chain and anvil percussion, storm drums, crushing half-time guitars and accelerating double-kick; philosophical confrontation becoming ritual sentence, ending on forge blows and a sealed vessel.
+Dark operatic Nordic symphonic metal judgment duet, 78 BPM, B minor; rigid pipe organ and low brass against ascending violin and lead guitar, cathedral court choir, chain and anvil percussion, storm drums, crushing half-time guitars and accelerating double-kick; philosophical confrontation becoming ritual sentence, ending on three ominous forge blows and one unresolved bell.
 ```
 
 ## Lyrics
@@ -183,20 +183,5 @@ Still the fire burns.
 
 His pain restores nothing.
 
-[Three forge blows.]
-
-[ZEUS — Male subterranean basso profundo, cold ceremonial descent]
-Bring me the forge.
-
-Fashion a gift.
-Make beauty carry
-what law could not lift.
-
-Gather every offering.
-Seal them from sight.
-
-Let mortal hands
-receive the cost of light.
-
-[A vessel closes. One bell.]
+[Three forge blows. One bell rings and does not resolve.]
 ```

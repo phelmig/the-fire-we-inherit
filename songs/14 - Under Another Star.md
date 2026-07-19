@@ -3,7 +3,7 @@
 ## Style
 
 ```text
-Spoken-word symphonic metal epilogue, 60 BPM, D minor dissolving into an unresolved luminous suspended harmony; female icy contralto narrator, distant low male chorus, crystalline female whispers; sparse piano, cello, far-off church bell, faint anvil heartbeat, Prometheus’s ascending violin motif gradually merged with crystalline star-like textures; intimate, reverent, and recursive rather than triumphant.
+Spoken-word symphonic metal epilogue, 60 BPM, an unresolved luminous suspended D harmony sustained throughout, never cadencing; intimate spoken-word narration, a distant chorus, and crystalline whispered textures; sparse piano, cello, far-off church bell, faint anvil heartbeat, and an ascending violin motif gradually merged with crystalline star-like textures; intimate, reverent, and recursive rather than triumphant.
 ```
 
 ## Lyrics
@@ -11,7 +11,7 @@ Spoken-word symphonic metal epilogue, 60 BPM, D minor dissolving into an unresol
 ```text
 [The final organ chord thins into distant crystalline tones.]
 
-[Female icy contralto, intimate spoken word]
+[ATHENA — Female icy contralto, intimate spoken word]
 Millennia passed.
 
 Humanity flourished.
@@ -39,11 +39,11 @@ A question:
 
 Will this hand remain open?
 
-[Distant male chorus, slowly returning]
+[HUMANITY CHOIR — Distant male chorus, slowly returning]
 Give light.
 Leave the hand open.
 
-[Female icy contralto]
+[ATHENA — Female icy contralto]
 And beneath another star,
 the fire began again.
 

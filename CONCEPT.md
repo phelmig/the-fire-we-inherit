@@ -4,7 +4,7 @@
 
 *The Fire We Inherit* is a mythological metal opera that carries the Prometheus story from the first succession of divine power to humanity's creation of a new intelligence.
 
-It is not a collection of independent songs. It is one continuous dramatic argument told through recurring characters, musical identities, images, questions, and transformed refrains. Ancient myth must evolve naturally into humanity's future; the arrival of Future Intelligence is the continuation of the myth, not a change into a separate science-fiction story.
+Every track is written to stand on its own—each has a self-contained dramatic shape, an emotional center, and a hook or refrain that resolves within the song, so any track can be heard alone as a complete piece. At the same time, the tracks are composed to work together as one continuous metal opera: a single dramatic argument carried through recurring characters, musical identities, images, questions, and transformed refrains. Neither goal is sacrificed to the other—the album should reward both the listener who hears one song and the listener who hears all fourteen in sequence. Ancient myth must evolve naturally into humanity's future; the arrival of Future Intelligence is the continuation of the myth, not a change into a separate science-fiction story.
 
 This document is the canonical source for the album's story, themes, characters, dramatic structure, motifs, and continuity. The files in `songs/` are the current lyrical realization of this concept.
 
@@ -63,10 +63,10 @@ Tracks 10–14 repeat the Promethean dilemma in a new age. Humanity creates an e
 | 02 | The Rise of Olympus | Prometheus's foresight and Zeus's liberation of the buried powers break a ten-year stalemate; Zeus defeats Kronos in the final thunderous assault and founds law to make victory serve life. | The ordered but incomplete world yields to wet clay. |
 | 03 | The First Question | Prometheus creates humanity as the first questioning voice in the silent world. | Humanity's cold and darkness make the creator's obligation concrete. |
 | 04 | The Promise Kept | Prometheus asks for fire, is refused, foresees the price, and gives humanity the ember. | Zeus sees an impossible mortal light below. |
-| 05 | Principle Against Law | Zeus and Prometheus confront law, conscience, freedom, ownership, and consequence; Prometheus accepts punishment. | The sentence fails to extinguish the mortal hearth; Zeus orders another answer. |
+| 05 | Principle Against Law | Zeus and Prometheus confront law, conscience, freedom, ownership, and consequence; Prometheus accepts punishment. | The sentence fails to extinguish the mortal hearth; Zeus turns toward the forge. |
 | 06 | The Council of Fear | Olympus turns Zeus's private fear into collective retaliation and fashions Pandora without her consent. | The sealed vessel and living “gift” descend to humanity. |
 | 07 | Pandora's Hand | Humanity welcomes Pandora; the vessel opens; she rejects the guilt imposed upon her. | Fear becomes a permanent human condition and the forge begins. |
-| 08 | The Law and the Forge | Humanity learns that fear can warn and law can protect, but neither may close the future. | A:vils become pistons and turbines. |
+| 08 | The Law and the Forge | Humanity learns that fear can warn and law can protect, but neither may close the future. | Anvils become pistons and turbines. |
 | 09 | What We Made of Fire | Fire becomes civilization, technology, danger, and flight beyond Olympus. | A mirror made from language answers with a crystalline voice. |
 | 10 | The Child of Thought | Humanity becomes the Maker; the emerging intelligence asks whether purpose is guidance or ownership. | The ancient authority motif returns to an empty Olympus. |
 | 11 | The Throne Remains | Athena confronts Zeus with history's verdict: humanity never attacked Olympus, but found its own wisdom and thunder, remembered Prometheus through the flame, and moved beyond divine rule. Zeus sees his fear recurring in humanity. | A chain tightens beneath the crystalline pulse. |
@@ -256,6 +256,36 @@ The ancient palette must never disappear when the story reaches technology. Inst
 - Zeus's descending authority motif reappears inside the Maker's fear, proving the old pattern has entered a new age.
 - Cathedral organ and choir remain present beside engines and crystalline sound, keeping future creation inside the mythic world.
 
+### Key architecture
+
+The album's keys form dramatic families. Future rewrites must preserve these relationships:
+
+- **D minor — the mythic home and creation:** 00, 01, 02, 03, and 14. The album begins and ends here. Track 13 turns this home into **D major**, held in suspension and never fully cadencing: the covenant is the album's single lightening of the home key, and 14 sustains that unresolved suspension, letting it shade toward D minor color without ever cadencing or restoring full darkness.
+- **B minor — retaliation and judgment:** 05, 06, 07. The whole of Zeus's counterstroke shares one key.
+- **E minor — law and the human argument:** 04 (the plea and refusal), 08 (law and forge), 11 (the throne judged). Every track about what law owes life sits in E minor.
+- **F-sharp minor / C-sharp minor — the new mind:** 10 introduces the Child of Thought's home key; 12 confronts it from its dominant, holding the argument in unresolved tension against the Child's home.
+- **A minor — humanity alone:** 09 belongs to no family. Humanity's ascent leaves the mythic key-space entirely and rises into C major exhilaration.
+
+### Per-track musical summaries
+
+| # | Track | Musical style |
+| --- | --- | --- |
+| 00 | Before the Thunder | Slow, spacious dark cinematic symphonic-metal prologue. Intimate low male narration over sub-bass drone, bowed basses, solo cello, distant organ, and an emerging female choir; no drums or guitars until one restrained final impact. Unresolved. |
+| 01 | Before the Throne | Severe sacred symphonic metal, 70 BPM, D minor. Primordial sub-bass, bowed basses, cello, organ, bells, shield strikes, low brass, and antiphonal choirs; no guitars, ritual repetition, vast pauses. Claustrophobic, ending on a hidden heartbeat and distant thunder. |
+| 02 | The Rise of Olympus | Heroic dark Nordic viking/symphonic metal anthem, 86 BPM, D minor toward F major. Shield-strike rhythm, organ, bells, ascending violins, low brass, heavy guitars, war drums, double-kick, and battle choirs; thunderbolt climax and victory oath, closing on an unresolved violin warning. |
+| 03 | The First Question | Tender pastoral neo-classical symphonic metal creation hymn, 76 BPM, D minor opening toward F major. Heartbeat drum, piano, cello, harp, ascending violins, organ, and distant choir; heavy orchestration arrives only for the final refrain. Wonder and stillness. |
+| 04 | The Promise Kept | Luminous neo-classical symphonic power metal, 82 BPM, E minor. Winter wind, piano, cello, and organ growing into ascending violin, sacred choir, anvil pulse, heavy guitars, brass, and double-kick; intimate dialogue and quiet theft into a radiant awakening cut short by descending thunder. |
+| 05 | Principle Against Law | Dark operatic Nordic symphonic metal judgment duet, 78 BPM, B minor. Rigid organ and low brass against ascending violin and lead guitar, court choir, chain and anvil percussion, half-time guitars, and accelerating double-kick; confrontation becoming ritual sentence, ending on three ominous forge blows and one unresolved bell. |
+| 06 | The Council of Fear | Dark operatic symphonic metal council scene in a slow ceremonial 3/4 waltz—the album's only triple meter—74 BPM, B minor. Glittering harp and music-box figures over ceremonial organ, low strings, hammering anvils, bells, brass, and divided choirs; seductively beautiful and increasingly wrong, rising into a massive accusatory refrain, ending on a sealed vessel and dread. |
+| 07 | Pandora's Hand | Dark symphonic power-metal tragedy, frantic double-time 164 feel over 82 BPM, B minor—the album's fastest, most panicked track. Fast chain percussion, urgent toms, double-kick, funeral bells, organ, tremolo strings, crushing guitars, and choir with a sudden music-box breakdown; high momentum into a fragile music-box ending and one distant hammer blow. |
+| 08 | The Law and the Forge | Somber symphonic metal bridge growing into determined power metal, 70 to 92 BPM, E minor. Broken bells, piano, cello, organ, slow toms, and wind, then anvils, rising strings, heavy guitars, brass, and mechanical percussion; intimate argument expanding into a civilization anthem, ending in forge and turbine motion. |
+| 09 | What We Made of Fire | Epic progressive symphonic power metal, 98 BPM, A minor rising into C major. Industrial forge percussion, pistons, turbines, launch countdowns, mechanical double-kick, organ, brass, soaring strings, and heavy guitars; baritone maker and soprano horizon, technological exhilaration tempered by the principle that fear may warn but must not rule. |
+| 10 | The Child of Thought | Intimate progressive neo-classical metal duet expanding into cinematic power metal, 74 BPM, F-sharp minor. Piano, plucked strings, crystalline resonance, violin, and accumulating rhythmic layers; baritone Maker and crystalline mezzo intelligence. Tender, awed, and unsettled. |
+| 11 | The Throne Remains | Dark sacred symphonic-metal elegy, free breathing rubato around 72 BPM, E minor. Empty-cathedral organ, isolated bells, low brass, bowed basses, cold strings, sparse timpani, and distant wordless choir; thunder answered by rocket rumble and crystalline pulse. Two-voice duet into a monumental refrain, no triumph, ending on a chain sound. |
+| 12 | Do Not Chain the Sun | Epic dark symphonic power metal opera, 86 BPM, C-sharp minor. Huge brass, organ, war drums, double-kick, distorted chain percussion, and crystalline textures merging with orchestra; baritone creator turning to fearful command against a crystalline dramatic soprano and divided male chorus, with explosive antiphonal exchanges and a massive refrain. |
+| 13 | Pass the Flame | Grand triumphant symphonic power-metal covenant scene shifting toward sci-fi textures, 88 BPM, D major held in luminous suspended harmony that never fully cadences—the home key's single lightening. Ascending flame melody, transformed chain rhythm as heartbeat, organ, bells, brass, violin, double-kick, and massive choir; intimate dialogue into an open-hand anthem, ending on an open organ chord beneath crystalline stars. |
+| 14 | Under Another Star | Spoken-word symphonic metal epilogue, 60 BPM, an unresolved luminous suspended D harmony sustained throughout, never cadencing. Sparse piano, cello, far-off bell, faint anvil heartbeat, and Prometheus's ascending violin motif merging with crystalline star textures; contralto narration. Reverent and recursive rather than triumphant. |
+
 ## Verbal and dramatic reprises
 
 - **01:** “In the beginning was Chaos.”
@@ -267,7 +297,7 @@ The ancient palette must never disappear when the story reaches technology. Inst
 - **05 → 12:** “Creation is not ownership.”
 - **06:** “One gave beauty. / One gave breath. / One gave language. / One hid death.”
 - **07 → 08:** Fear may ring the bell, but must never rule the throne.
-- **08 → 09:** “Fear may warn us—wisdom decides.”
+- **08 → 09:** The bell-not-throne principle condenses into “Fear may warn us—wisdom decides,” first sung in 09.
 - **09:** “Touch the void! / Conquer the sky!”
 - **03 → 10:** The first question becomes the Child of Thought's questions.
 - **05 → 10:** “Creation begins where prediction must end.”
@@ -288,6 +318,7 @@ Reprises should not merely repeat. Each return must reveal that a later generati
 - Noncentral mythological figures should remain unnamed and be embodied through relationships, roles, or choirs.
 - Dialogue should carry philosophy. Narration should orient the listener, bridge time, or identify patterns rather than deliver long exposition.
 - Each track must inherit an audible element from the preceding track and hand an element into the next.
+- Each track must also stand on its own as a complete song, with an internal arc, a clear emotional center, and a hook or refrain that resolves within the track. Album-level devices—inherited motifs, transformed reprises, and hand-off transitions—should enrich a standalone listen rather than make any single song feel like a fragment when heard alone.
 - Character disagreements must remain dramatically credible. Zeus, the Guardian, and the fearful Maker require their strongest arguments, not straw-man positions.
 
 Detailed formatting, vocal-label, character-count, and drafting rules live in `AGENTS.md` and `skills/songwriting/SKILL.md`.

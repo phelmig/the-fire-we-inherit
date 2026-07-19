@@ -3,13 +3,13 @@
 ## Style
 
 ```text
-Dark cinematic symphonic-metal prologue, very slow and spacious, intimate low male narration rather than theatrical declamation, sub-bass drone, bowed double basses, solo cello, distant cathedral pipe organ, faint wind, and sparse anvil-like sparks, ethereal female choir gradually emerges beneath an ominous orchestral swell, no full drums or heavy guitars until a final restrained impact; end unresolved, flowing directly into 01 - Before the Throne.
+Dark cinematic symphonic-metal prologue, 60 BPM, D minor, very slow and spacious, intimate low spoken narration rather than theatrical declamation, sub-bass drone, bowed double basses, solo cello, distant cathedral pipe organ, faint wind, and sparse anvil-like sparks, ethereal female choir gradually emerges beneath an ominous orchestral swell, no full drums or heavy guitars until a final restrained impact; end unresolved, flowing directly into 01 - Before the Throne.
 ```
 
 ## Lyrics
 
 ```text
-[Spoken Word — Low Male Voice]
+[HUMANITY — Male spoken voice, low and intimate, weathered and searching]
 
 Humanity…
 

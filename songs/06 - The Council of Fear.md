@@ -3,13 +3,13 @@
 ## Style
 
 ```text
-Dark operatic symphonic metal council scene, 74 BPM, B minor; ceremonial cathedral organ, low strings, hammering anvils, harp, bells, brass, divided choirs, and controlled heavy orchestration; individual gifts of craft, beauty, speech, and skill weave together into a glittering but ominous divine procession; starts restrained and ritualistic, rises into a massive accusatory choral refrain, ending on a sealed vessel and unresolved dread.
+Dark operatic symphonic metal council scene in a slow ceremonial 3/4 waltz, 74 BPM, B minor; glittering harp and music-box figures over ceremonial cathedral organ, low strings, hammering anvils, bells, brass, divided choirs, and controlled heavy orchestration; seductively beautiful and increasingly wrong, as individual gifts of craft, beauty, speech, and skill weave together into an ominous divine procession; starts restrained and ritualistic, rises into a massive accusatory choral refrain, ending on a sealed vessel and unresolved dread.
 ```
 
 ## Lyrics
 
 ```text
-[The mountain sentence echoes through Olympus.]
+[Three forge blows echo through Olympus. The bell fades.]
 
 [ZEUS — Male subterranean basso profundo, controlled and cold]
 The giver bears the chain.

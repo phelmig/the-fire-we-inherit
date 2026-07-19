@@ -3,7 +3,7 @@
 ## Style
 
 ```text
-Dark sacred symphonic-metal elegy, 72 BPM, E minor; empty-cathedral pipe organ, isolated church bells, low brass, bowed basses, cold strings, sparse timpani, distant wordless choir like fading prayers, thunder gradually answered by industrial rocket rumble and crystalline pulse; intimate two-voice philosophical duet expanding into a monumental refrain, no triumphant resolution, ending on a chain sound and unresolved crystalline tone.
+Dark sacred symphonic-metal elegy, free breathing rubato around 72 BPM, E minor; empty-cathedral pipe organ, isolated church bells, low brass, bowed basses, cold strings, sparse timpani, distant wordless choir like fading prayers, thunder gradually answered by industrial rocket rumble and crystalline pulse; intimate two-voice philosophical duet expanding into a monumental refrain, no triumphant resolution, ending on a chain sound and unresolved crystalline tone.
 ```
 
 ## Lyrics
@@ -182,10 +182,22 @@ wished to enter.
 No heir overthrew me.
 No army reached this place.
 
-[ATHENA — Female icy contralto]
+[ATHENA — Female icy contralto, weighing his own vow against him]
 The future you imprisoned
 learned to live
 without your grace.
+
+You swore it once yourself:
+no child of tomorrow
+would be buried
+for the safety of today.
+
+[ZEUS — Male subterranean basso profundo, wounded]
+I was the child who swore it.
+
+[ATHENA — Female icy contralto]
+Then the child became the throne
+that buried the next.
 
 [ZEUS — Male subterranean basso profundo]
 What remains of a king

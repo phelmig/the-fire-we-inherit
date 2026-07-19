@@ -3,13 +3,13 @@
 ## Style
 
 ```text
-Dark symphonic power-metal tragedy, 82 BPM, B minor; fast chain percussion, urgent toms, driving double-kick, funeral bells, low organ, sharp tremolo strings, crushing guitars, cathedral choir, sudden music-box breakdown, rapid call-and-response, huge fear-and-freedom refrain; momentum remains high until a brief fragile ending that turns into a forge rhythm
+Dark symphonic power-metal tragedy, frantic double-time 164 feel over 82 BPM, B minor; fast chain percussion, urgent toms, driving double-kick, funeral bells, low organ, sharp tremolo strings, crushing guitars, cathedral choir, sudden music-box breakdown, rapid call-and-response, huge fear-and-freedom refrain; momentum remains high until a brief fragile music-box ending and one distant hammer blow
 ```
 
 ## Lyrics
 
 ```text
-[Intro: Chain strike. Fast heartbeat drums. Wind around the vessel.]
+[Intro: A whispered “Open” fades. One funeral bell. Chain strike — fast heartbeat drums. Wind around the vessel.]
 
 [PANDORA — Female dramatic mezzo-soprano, warm and uncertain]
 They gave me a road.
@@ -174,13 +174,15 @@ We will meet the world together—
 
 we will not become the chain!
 
-[Outro: Fast forge rhythm begins.]
+[Outro: the music box returns. The drums fall away.]
 
-[HUMANITY — Mixed choir, low and gathering]
-Build the hearth!
-Keep the flame!
-Name the danger!
+[HUMANITY — Mixed choir, hushed and resolute]
+Build the hearth.
+Keep the flame.
+Name the danger.
 
 Do not kneel
-before its name!
+before its name.
+
+[One slow, distant hammer blow.]
 ```

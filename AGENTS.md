@@ -16,6 +16,20 @@ Song lyrics, including labels and performance directions, must remain below 5,00
 
 The canonical sequence uses `00` for the spoken prologue and consecutive two-digit numbering from `01` through `14`. Do not introduce letter suffixes.
 
+## Transitions
+
+Adjacent tracks must share an audible seam. Every song's final bracketed direction names one or two concrete sounds, and the next song's opening bracket reuses at least one of them. Where possible the seam also shares a sung or spoken phrase — a repeated line is more reliably audible than a sound-design bracket. Keep tempo and key hand-offs deliberate: matching, simply related, or an intentional dramatic shift stated in the style prompt. Do not let a sound that ends one track reappear as a dramatic "reveal" in a later track — fade it out first if the reveal must land.
+
+## Generating audio
+
+Use the `suno` skill (the `suno` CLI) to generate songs on Suno. Never download generated songs unless the user explicitly asks — generate without `--download` and only report clip IDs and URLs.
+
+Never block on generation: do not pass `--wait`. Start the generation, report the clip IDs and URLs immediately, and let the user monitor progress themselves.
+
+When generating multiple songs in one batch, add a random 3–6 second delay between successive `suno generate` calls (e.g. `sleep $((RANDOM % 4 + 3))`) to avoid rate limiting and flaky API behavior.
+
+Default generation parameters unless the user says otherwise: `--model v5.5 --style-influence 85 --weirdness 20`.
+
 ## Concept-first workflow
 
 The user prefers to review and approve a song concept before complete lyrics and a Suno style prompt are created. For every new song or major structural rewrite, first present a concise concept covering the dramatic purpose, story beats, character roles, philosophical conflict, recurring motifs, musical direction, and transitions into adjacent tracks. Do not draft the complete song until the user approves the concept or explicitly asks to skip that step.

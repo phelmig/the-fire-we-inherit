@@ -3,13 +3,13 @@
 ## Style
 
 ```text
-Luminous dark neo-classical symphonic metal creation hymn, 76 BPM, D minor gradually opening toward F major; soft heartbeat drum, piano, solo cello, harp, ascending violins, cathedral organ, distant mixed choir, restrained brass, and heavy orchestration arriving only for the final refrain; wonder, stillness, and the first awakening of life beneath a newly ordered sky.
+Tender pastoral neo-classical symphonic metal creation hymn, 76 BPM, D minor gradually opening toward F major; soft heartbeat drum, piano, solo cello, harp, ascending violins, cathedral organ, distant mixed choir, restrained brass, and heavy orchestration arriving only for the final refrain; wonder, stillness, and the first awakening of life beneath a newly ordered sky.
 ```
 
 ## Lyrics
 
 ```text
-[Soft heartbeat drum. Water over stone.]
+[Soft heartbeat drum. Water over stone. Wet clay turns in an open hand.]
 
 [ATHENA — Female icy contralto, exact and reverent]
 The war was ended.
