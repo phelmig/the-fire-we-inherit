@@ -3,7 +3,7 @@
 ## Style
 
 ```text
-Heavy dark operatic Nordic symphonic metal judgment duet, 88 BPM, B minor; rigid pipe organ and low brass against ascending violin and overdriven electric lead guitar, cathedral court choir, chain and anvil percussion, storm drums, crushing half-time distorted electric rhythm guitars and accelerating double-kick; philosophical confrontation becoming ritual sentence, ending on three ominous forge blows and one unresolved bell.
+Dark operatic Nordic symphonic metal judgment duet, 88 BPM, B minor; rigid pipe organ and low brass against ascending violin and overdriven electric lead guitar, cathedral court choir, chain and anvil percussion, storm drums, crushing half-time distorted electric rhythm guitars and accelerating double-kick, no acoustic or classical guitar; philosophical confrontation becoming ritual sentence, ending on three ominous forge blows and one unresolved bell.
 ```
 
 ## Lyrics
@@ -11,7 +11,15 @@ Heavy dark operatic Nordic symphonic metal judgment duet, 88 BPM, B minor; rigid
 ```text
 [Thunder extinguishes every sound except the mortal hearth.]
 
-[ZEUS — Male subterranean basso profundo, controlled and cold]
+[ZEUS — Male subterranean basso profundo, screaming across the sky in raw fury]
+PROMETHEUS!
+
+[ZEUS — Male subterranean basso profundo, thunderous accusation]
+You crossed the guarded height.
+You reached into my storm.
+You laid the fire of heaven
+in mortal hands below!
+
 One hand has broken
 what all hands must obey.
 
