@@ -3,7 +3,13 @@
 ## Style
 
 ```text
-Dark operatic Nordic symphonic metal judgment duet, 88 BPM, B minor; rigid pipe organ and low brass against ascending violin and overdriven electric lead guitar, cathedral court choir, chain and anvil percussion, storm drums, crushing half-time distorted electric rhythm guitars and accelerating double-kick, no acoustic or classical guitar; philosophical confrontation becoming ritual sentence, ending on three ominous forge blows and one unresolved bell.
+Dark operatic Nordic symphonic metal judgment duet, 88 BPM, B minor.
+Rigid pipe organ and low brass against ascending violin and overdriven electric lead guitar; cathedral court choir, chain and anvil percussion, storm drums, crushing half-time distorted electric rhythm guitars, accelerating double-kick.
+Opening: a single furious scream over silence, then controlled confrontation.
+Verses: courtroom exchange, taut, escalating.
+Sentence: ritual, thunderous decree.
+Ending: three ominous forge blows, one unresolved bell.
+Epic studio quality, professional mastering, massive low end, sharp attack, wide courtroom space.
 ```
 
 ## Lyrics

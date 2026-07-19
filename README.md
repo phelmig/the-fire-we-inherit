@@ -10,7 +10,7 @@ This is a working beta of the album’s story, lyrics, style prompts, recurring 
 
 ## Known limitations
 
-- **Suno does not assign voices to labeled characters consistently.** Extensive testing on track 10 — per-line gender labels, pause markers instead of blank lines, recognized structural tags such as `[Verse 1 - Male Vocal]` and `[Spoken Word - Female]`, and style-prompt duet declarations, alone and in combination — did not produce reliable voice-to-character casting. We accept this for now: the descriptive character labels stay in the lyrics as dramatic documentation and best-effort guidance, and we generate multiple takes per track and select the clips where the casting lands correctly.
+- **Suno does not assign voices to labeled characters fully reliably.** Lyric-side fixes — per-line gender labels, pause markers instead of blank lines, recognized structural tags such as `[Verse 1 - Male Vocal]`, style-prompt duet declarations — did not help. What does help substantially is the style-prompt side: the layered "directing the band" prompt format with per-section performance direction and a studio-quality production line (the E2 format codified in `AGENTS.md`) produces markedly better voice casting and mixing. Residual casting drift remains possible, so we still generate multiple takes per track and select the clips where the casting lands.
 
 ## Story
 

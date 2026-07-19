@@ -3,7 +3,12 @@
 ## Style
 
 ```text
-Wintry dark neo-classical symphonic power metal, 92 BPM, E minor; winter wind, piano, cello and distant organ growing into ascending violin, sacred choir, anvil pulse, riff-driven distorted electric rhythm guitars, brass and driving double-kick; intimate moral dialogue, quiet ritual theft, then a radiant elemental awakening cut short by descending thunder.
+Wintry dark neo-classical symphonic power metal, 92 BPM, E minor.
+Winter wind, piano, cello, distant organ growing into ascending violin, sacred choir, anvil pulse, riff-driven distorted electric rhythm guitars, brass, driving double-kick.
+Verses: intimate moral dialogue, restrained.
+Theft scene: quiet, ritual, held breath.
+Awakening: radiant and elemental — cut short by descending thunder.
+Epic studio quality, professional mastering, punchy drums, clear string detail, wide choir.
 ```
 
 ## Lyrics

@@ -3,7 +3,13 @@
 ## Style
 
 ```text
-Heavy Nordic symphonic viking-metal battle anthem, 104 BPM, D minor opening toward F major; galloping distorted electric rhythm guitars, riff-driven verses, shield-strike rhythm, war drums, relentless double-kick, cathedral organ, bells, ascending violins, low brass, antiphonal battle choirs, a thunderbolt climax and vast victory-oath refrain; noble and hard-won, with a final unresolved violin warning beneath the triumph.
+Nordic symphonic viking metal, battle anthem energy, 104 BPM, D minor opening toward F major.
+Galloping distorted electric rhythm guitars, war drums, cathedral organ, low brass.
+Verses: riff-driven, urgent, held tight.
+Battle choirs: antiphonal, massive, call and answer.
+Climax: one thunderbolt hit, then a vast victory-oath refrain, noble and hard-won.
+Outro: everything falls away to one unresolved ascending violin.
+Epic studio quality, professional mastering, punchy drums, tight low end, wide stereo choirs, crisp powerful mix.
 ```
 
 ## Lyrics

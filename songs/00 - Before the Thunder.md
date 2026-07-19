@@ -3,7 +3,13 @@
 ## Style
 
 ```text
-Dark cinematic symphonic-metal prologue, 60 BPM, D minor, very slow and spacious, intimate low spoken narration rather than theatrical declamation, sub-bass drone, bowed double basses, solo cello, distant cathedral pipe organ, faint wind, and sparse anvil-like sparks, ethereal female choir gradually emerges beneath an ominous orchestral swell, no full drums or heavy guitars until a final restrained impact; ending unresolved beneath rising distant thunder.
+Dark cinematic symphonic-metal prologue, very slow and spacious, 60 BPM, D minor.
+Sub-bass drone, bowed double basses, solo cello, distant cathedral pipe organ, faint wind, sparse anvil sparks.
+Narration: intimate, low, spoken — never theatrical.
+Choir: ethereal female voices emerging gradually beneath an ominous orchestral swell.
+No full drums or heavy guitars until one final restrained impact.
+Ending: unresolved beneath rising distant thunder.
+Cinematic studio quality, professional mastering, deep clean low end, wide quiet space.
 ```
 
 ## Lyrics

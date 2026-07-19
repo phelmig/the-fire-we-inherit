@@ -3,7 +3,13 @@
 ## Style
 
 ```text
-Severe sacred symphonic-metal creation prologue, 70 BPM, D minor; primordial sub-bass, bowed basses, solo cello, pipe organ, distant bells, shield strikes, low brass, antiphonal cathedral choirs, no guitars, vast pauses and ritual repetition; ancient, claustrophobic, and unresolved, ending with a hidden heartbeat and distant thunder.
+Severe sacred symphonic metal, ritual and ancient, 70 BPM, D minor.
+Primordial sub-bass, bowed basses, solo cello, pipe organ, distant bells, shield strikes, low brass.
+Choirs: antiphonal cathedral voices, ritual repetition, vast pauses.
+Verses: near-spoken, exact, claustrophobic.
+No guitars.
+Ending: a hidden heartbeat and distant thunder, unresolved.
+Sacred studio quality, professional mastering, cavernous but controlled space, deep low end.
 ```
 
 ## Lyrics

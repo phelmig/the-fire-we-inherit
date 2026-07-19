@@ -36,10 +36,20 @@ Always pass an exclude list: `--exclude "pop, soft rock, acoustic guitar, nylon-
 
 ## Style prompt language
 
-- Never write bare "guitar" or "guitars" in a style prompt — Suno then tends toward classical or acoustic guitar, which does not fit the album. Always qualify: "distorted electric rhythm guitars", "overdriven electric lead guitar", "electric lead guitar and violin duet".
-- Non-ballad tracks must open the style prompt with a hard genre anchor early in the text (e.g. "heavy symphonic power metal") and include at least two aggression anchors such as: riff-driven, palm-muted riffing, galloping rhythm guitars, relentless double-kick, crushing, aggressive.
-- Ballad, ritual, and spoken tracks (currently 00, 01, 10, 11, 13, 14) are exempt from the aggression anchors but still follow the electric-guitar wording rule wherever guitars appear.
-- Style prompts must describe only what Suno can render in this one track. Never reference other tracks, track numbers, or the album (e.g. "flowing into 01 - ..."); describe the intended sonic outcome instead (e.g. "ending unresolved beneath rising distant thunder").
+Style prompts use the layered "directing the band" format (validated experimentally as the E2 strategy — it markedly improves both sound quality and voice casting). Write multi-line prompts with these layers, in order:
+
+1. **Identity line:** sharp genre anchor + energy + BPM + key in one line (e.g. "Nordic symphonic viking metal, battle anthem energy, 104 BPM, D minor").
+2. **Core instruments:** one or two lines listing only the instruments that matter — every descriptor must earn its place; trim synonyms, not detail.
+3. **Performance direction per section:** short "Section: delivery" lines (e.g. "Verses: riff-driven, urgent, held tight." / "Battle choirs: antiphonal, massive, call and answer." / "Outro: everything falls away to one unresolved ascending violin."). Direct the band; do not tag genres.
+4. **Studio-quality line (always last):** a production layer tuned to the track's character, e.g. "Epic studio quality, professional mastering, punchy drums, tight low end, wide stereo choirs, crisp powerful mix." or "Intimate studio quality, professional mastering, pristine detail, close vocal presence, deep black silence between phrases."
+
+Additional rules:
+
+- Do not use inline negative lines ("no X") — they add nothing over the `--exclude` flag (tested: indistinguishable).
+- Keep the whole style prompt under roughly 1,000 characters; shorter and sharper beats longer and denser — Suno compresses long prompts and only the strongest concepts survive.
+- Never write bare "guitar" or "guitars" — Suno then tends toward classical or acoustic guitar. Always qualify: "distorted electric rhythm guitars", "overdriven electric lead guitar".
+- Non-ballad tracks open the identity line with a hard genre anchor and keep at least two aggression anchors across the prompt (riff-driven, galloping, relentless double-kick, crushing, aggressive). Ballad, ritual, and spoken tracks (currently 00, 01, 10, 11, 13, 14) are exempt from aggression anchors.
+- Style prompts must describe only what Suno can render in this one track. Never reference other tracks, track numbers, or the album; describe the intended sonic outcome instead (e.g. "ending unresolved beneath rising distant thunder").
 
 ## Concept-first workflow
 

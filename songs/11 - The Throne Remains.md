@@ -3,7 +3,13 @@
 ## Style
 
 ```text
-Dark sacred symphonic-metal elegy, free breathing rubato around 72 BPM, E minor; empty-cathedral pipe organ, isolated church bells, low brass, bowed basses, cold strings, sparse timpani, distant wordless choir like fading prayers, thunder gradually answered by industrial rocket rumble and crystalline pulse; intimate two-voice philosophical duet expanding into a monumental refrain, no triumphant resolution, ending on a chain sound and unresolved crystalline tone.
+Dark sacred symphonic-metal elegy, free breathing rubato around 72 BPM, E minor.
+Empty-cathedral pipe organ, isolated church bells, low brass, bowed basses, cold strings, sparse timpani, distant wordless choir like fading prayers.
+Dialogue: intimate two-voice philosophical exchange, unhurried.
+Refrain: monumental, restrained, no triumphant resolution.
+Thunder gradually answered by industrial rocket rumble and a crystalline pulse.
+Ending: a chain sound and one unresolved crystalline tone.
+Sacred studio quality, professional mastering, vast controlled space, deep organ foundation.
 ```
 
 ## Lyrics

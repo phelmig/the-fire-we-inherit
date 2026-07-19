@@ -3,7 +3,13 @@
 ## Style
 
 ```text
-Solemn spacious symphonic metal threshold scene, 72 BPM, D major held in luminous suspended harmony that never fully cadences, with quiet sci-fi textures; a transformed chain rhythm as a soft heartbeat, intimate piano, cello, pipe organ, distant bells, violin, restrained distorted electric guitars entering only for one earned swell; hushed exchanges between three lead voices and spoken narration, one late hushed choir entrance, ending on an unanswered whispered question, one bell, and an unresolved open organ chord.
+Solemn spacious symphonic metal threshold scene, 72 BPM, D major held in luminous suspended harmony that never fully cadences, quiet sci-fi textures.
+A transformed chain rhythm as a soft heartbeat, intimate piano, cello, pipe organ, distant bells, violin, restrained distorted electric guitars.
+Exchanges: hushed, weighted, three lead voices and spoken narration.
+Swell: one earned climax, rising and receding.
+Choir: a single late hushed entrance.
+Ending: an unanswered whispered question, one bell, an unresolved open organ chord.
+Intimate studio quality, professional mastering, pristine detail, warm suspended space.
 ```
 
 ## Lyrics

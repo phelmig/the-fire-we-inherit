@@ -3,7 +3,13 @@
 ## Style
 
 ```text
-Dark symphonic power-metal tragedy, frantic double-time 164 feel over 82 BPM, B minor; fast chain percussion, urgent toms, driving double-kick, funeral bells, low organ, sharp tremolo strings, crushing distorted electric guitars, cathedral choir, sudden music-box breakdown, rapid call-and-response, huge fear-and-freedom refrain; momentum remains high until a brief fragile music-box ending and one distant hammer blow
+Dark symphonic power-metal tragedy, frantic double-time 164 feel over 82 BPM, B minor.
+Fast chain percussion, urgent toms, driving double-kick, funeral bells, low organ, sharp tremolo strings, crushing distorted electric guitars, cathedral choir.
+Verses: breathless, hunted.
+Refrain: huge fear-and-freedom cry, rapid call-and-response.
+Breakdown: sudden music box, fragile.
+Ending: the music box returns, one distant hammer blow.
+Epic studio quality, professional mastering, punchy fast drums, clear vocal presence above the storm.
 ```
 
 ## Lyrics

@@ -3,7 +3,13 @@
 ## Style
 
 ```text
-Spoken-word symphonic metal epilogue, 60 BPM, D minor dissolving into an unresolved luminous suspended harmony; intimate weathered spoken narration over sub-bass drone, bowed double basses, solo cello, distant cathedral pipe organ, faint anvil heartbeat, and a far-off church bell; a distant low male chorus, then gathering crystalline star-like textures and a final immeasurably distant crystalline whisper; a faint warm dawn-light orchestral swell beneath the final questions; an ascending violin motif rising into crystalline silence; intimate, reverent, and unresolved.
+Spoken-word symphonic metal epilogue, 60 BPM, D minor dissolving into an unresolved luminous suspended harmony.
+Sub-bass drone, bowed double basses, solo cello, distant cathedral pipe organ, faint anvil heartbeat, far-off church bell.
+Narration: intimate, weathered, spoken.
+Chorus: distant low male voices, returning briefly.
+Finale: crystalline star-like textures gather, a faint warm dawn-light swell beneath the final questions, one immeasurably distant crystalline whisper.
+Ending: an ascending violin motif rising into crystalline silence.
+Cinematic studio quality, professional mastering, deep quiet detail, vast gentle space.
 ```
 
 ## Lyrics

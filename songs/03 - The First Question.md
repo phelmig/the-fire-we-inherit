@@ -3,7 +3,12 @@
 ## Style
 
 ```text
-Luminous dark neo-classical symphonic metal creation hymn, 76 BPM, D minor gradually opening toward F major; soft heartbeat drum, piano, solo cello, harp, ascending violins, cathedral organ, distant mixed choir, restrained brass; the final refrain erupts into vast heavy symphonic metal where the ascending violin theme is doubled by overdriven electric lead guitar over full choir and timpani; wonder and stillness opening into the grandeur of first awakening.
+Luminous dark neo-classical symphonic metal creation hymn, 76 BPM, D minor opening toward F major.
+Soft heartbeat drum, piano, solo cello, harp, ascending violins, cathedral organ, distant mixed choir, restrained brass.
+Verses: tender, still, full of wonder.
+Final refrain: erupts into vast heavy symphonic metal, the ascending violin theme doubled by overdriven electric lead guitar over full choir and timpani.
+Grandeur of first awakening.
+Cinematic studio quality, professional mastering, warm string detail, wide dynamic range from hush to eruption.
 ```
 
 ## Lyrics

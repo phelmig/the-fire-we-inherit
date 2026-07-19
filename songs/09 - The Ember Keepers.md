@@ -3,7 +3,12 @@
 ## Style
 
 ```text
-Aggressive epic progressive symphonic power metal built from compressing cycles, 128 BPM, A minor with bright C major openings, each cycle shorter and faster than the last; opens hushed with a faint ember pulse and a conspiratorial whispered choir over palm-muted riffing, then alternates bright expansive passages with cold clamping passages; riff-driven distorted electric rhythm guitars, soaring overdriven electric lead guitar, industrial forge percussion, pistons, turbines, relentless mechanical double-kick, pipe organ, brass, colossal gang chorus; accelerating to a frantic blur that cuts off mid-phrase into silence and one pure crystalline tone.
+Aggressive epic progressive symphonic power metal in compressing cycles, 128 BPM, A minor with bright C major openings.
+Riff-driven distorted electric rhythm guitars, palm-muted verses, soaring overdriven electric lead guitar, industrial forge percussion, pistons, turbines, relentless mechanical double-kick, pipe organ, brass, colossal gang chorus.
+Opening: hushed conspiratorial whispered choir over a faint ember pulse.
+Cycles: bright expansive passages against cold clampdowns, each cycle shorter and faster.
+Finale: accelerates to a frantic blur, cuts off mid-phrase into silence and one pure crystalline tone.
+Epic studio quality, professional mastering, punchy drums, industrial clarity, wide stereo chorus.
 ```
 
 ## Lyrics

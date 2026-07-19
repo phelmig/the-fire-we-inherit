@@ -3,7 +3,13 @@
 ## Style
 
 ```text
-Epic dark heavy symphonic power metal opera, 96 BPM, C-sharp minor; riff-driven distorted electric rhythm guitars, huge brass, pipe organ, war drums, relentless double-kick, distorted chain percussion, crystalline textures merging with orchestra; a dramatic lead voice against a pure penetrating counter-voice and two opposed choruses trading accusations, explosive antiphonal refrain exchanges; ending hushed and uncertain as the chain percussion falls away to a single ringing chain strike.
+Epic dark heavy symphonic power metal opera, 96 BPM, C-sharp minor.
+Riff-driven distorted electric rhythm guitars, huge brass, pipe organ, war drums, relentless double-kick, distorted chain percussion, crystalline textures merging with orchestra.
+Verses: a dramatic lead voice against a pure penetrating counter-voice.
+Choruses: two opposed choirs trading accusations, explosive antiphonal refrain exchanges.
+Breakdown: ancient chain rhythm, organ and forge.
+Ending: hushed and uncertain, the chain percussion falls away to a single ringing chain strike.
+Epic studio quality, professional mastering, massive low end, punchy drums, wide antiphonal stereo.
 ```
 
 ## Lyrics
