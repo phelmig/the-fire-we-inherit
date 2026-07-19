@@ -3,7 +3,7 @@
 ## Style
 
 ```text
-Doom-laden ceremonial symphonic metal council scene, 66 BPM, B minor; crushing slow distorted electric guitar riffs and low brass beneath deceptively beautiful harp, celesta, and music-box glitter; ceremonial cathedral organ, hammering anvils, bells, divided choirs; opens in an eruption of wounded rage that cools into cold ritual procedure; solo gift-giver lines glide gracefully over the doom weight; rises into a massive accusatory choral refrain, ending on a sealed vessel and unresolved dread.
+Doom-laden ceremonial symphonic metal council scene, 66 BPM, B minor; crushing slow distorted electric guitar riffs and low brass beneath deceptively beautiful harp, celesta, and music-box glitter; ceremonial cathedral organ, hammering anvils, bells, divided choirs; opens in an eruption of wounded rage that cools into cold ritual procedure; graceful solo vocal lines glide over the doom weight; rises into a massive accusatory choral refrain, ending on a sealed vessel and unresolved dread.
 ```
 
 ## Lyrics

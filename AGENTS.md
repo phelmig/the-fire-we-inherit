@@ -39,6 +39,7 @@ Always pass an exclude list: `--exclude "pop, soft rock, acoustic guitar, nylon-
 - Never write bare "guitar" or "guitars" in a style prompt — Suno then tends toward classical or acoustic guitar, which does not fit the album. Always qualify: "distorted electric rhythm guitars", "overdriven electric lead guitar", "electric lead guitar and violin duet".
 - Non-ballad tracks must open the style prompt with a hard genre anchor early in the text (e.g. "heavy symphonic power metal") and include at least two aggression anchors such as: riff-driven, palm-muted riffing, galloping rhythm guitars, relentless double-kick, crushing, aggressive.
 - Ballad, ritual, and spoken tracks (currently 00, 01, 10, 11, 14) are exempt from the aggression anchors but still follow the electric-guitar wording rule wherever guitars appear.
+- Style prompts must describe only what Suno can render in this one track. Never reference other tracks, track numbers, or the album (e.g. "flowing into 01 - ..."); describe the intended sonic outcome instead (e.g. "ending unresolved beneath rising distant thunder").
 
 ## Concept-first workflow
 
