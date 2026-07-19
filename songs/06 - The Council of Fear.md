@@ -3,7 +3,7 @@
 ## Style
 
 ```text
-Dark operatic symphonic metal council scene in a slow ceremonial 3/4 waltz, 74 BPM, B minor; glittering harp and music-box figures over ceremonial cathedral organ, low strings, hammering anvils, bells, brass, divided choirs, and controlled heavy orchestration; seductively beautiful and increasingly wrong, as individual gifts of craft, beauty, speech, and skill weave together into an ominous divine procession; starts restrained and ritualistic, rises into a massive accusatory choral refrain, ending on a sealed vessel and unresolved dread.
+Doom-laden ceremonial symphonic metal council scene, 66 BPM, B minor; crushing slow distorted electric guitar riffs and low brass beneath deceptively beautiful harp, celesta, and music-box glitter; ceremonial cathedral organ, hammering anvils, bells, divided choirs; opens in an eruption of wounded rage that cools into cold ritual procedure; solo gift-giver lines glide gracefully over the doom weight; rises into a massive accusatory choral refrain, ending on a sealed vessel and unresolved dread.
 ```
 
 ## Lyrics
@@ -11,16 +11,36 @@ Dark operatic symphonic metal council scene in a slow ceremonial 3/4 waltz, 74 B
 ```text
 [Three forge blows echo through Olympus. The bell fades.]
 
-[ZEUS — Male subterranean basso profundo, controlled and cold]
-The giver bears the chain.
-Still every mortal hearth
-defies the height.
+[ZEUS — Male subterranean basso profundo, erupting from stillness in wounded fury]
+I chained the thief upon the mountain—
+and still their fires burn!
 
-Punishment has marked the crime.
-It has not answered
-the firelight.
+A thousand hearths below
+laugh upward at my law!
+
+I broke the devouring throne.
+I shielded this whole age.
+
+And clay—
+clay looks into my sky
+and does not kneel!
+
+[OLYMPUS CHOIR — Low mixed choir, hushed and fearful]
+The king is burning.
+Say nothing.
+The thunder is grieving.
+Stand still.
 
 [ATHENA — Female icy contralto, quiet and exact]
+Your law was raised to guard the living.
+
+[ZEUS — Male subterranean basso profundo, cooling into cold procedure]
+And the living have defied it.
+
+Punishment has marked the crime.
+It has not answered the firelight.
+
+[ATHENA — Female icy contralto]
 Or law is asked
 what purpose it protects.
 
@@ -30,9 +50,9 @@ The purpose is survival.
 [ATHENA — Female icy contralto]
 Whose survival?
 
-[Silence.]
+[Silence. No god answers.]
 
-[ZEUS — Male subterranean basso profundo]
+[ZEUS — Male subterranean basso profundo, ceremonial, each word placed like stone]
 Bring me the forge.
 
 From earth and water,
@@ -43,17 +63,14 @@ Call her Pandora:
 all gifts gathered
 in one name.
 
-[Anvil strikes begin.]
+[Anvil strikes begin beneath glittering harp.]
 
-[FORGE-BEARER — Male rough baritone, slow and heavy]
+[FORGE-BEARER — Male rough baritone, slow and heavy, obedient]
 From earth and water,
 I shape the form.
 
-Not cruel.
-Not broken.
-
-A living body
-made warm.
+I do not ask
+what it is for.
 
 [ATHENA — Female icy contralto, restrained]
 I give her skill.
@@ -64,18 +81,18 @@ and guide the loom.
 [VOICE OF DESIRE — Female warm soprano, luminous and uneasy]
 I give her beauty.
 I give her longing.
-I give her grace
-to fill the room.
+I do not ask
+what it is for.
 
 [VOICE OF LANGUAGE — Male agile tenor, quick and shadowed]
 I give her language.
 I give her laughter.
-I give her words
-that open doors.
+I do not ask.
+I do not ask.
 
-[ATHENA — Female icy contralto]
-And what is Pandora
-being made for?
+[ATHENA — Female icy contralto, sharper]
+Then I will ask:
+what is Pandora being made for?
 
 [ZEUS — Male subterranean basso profundo]
 For mortals to remember
@@ -93,35 +110,17 @@ would bear the blame.
 So all of heaven
 forged the shame.
 
-[ATHENA — Female icy contralto, sharper]
+[ATHENA — Female icy contralto]
 A gift without consent
 is not a gift.
 
-A law that hears
-no answering voice
+Will no one speak against this?
 
-will make a weapon
-of its craft.
-
-[ZEUS — Male subterranean basso profundo]
-You call it weapon.
-
-I call it balance.
-
-The fire has taught them
-to defy the sky.
-
-They must learn
-that every opening
-can also let destruction rise.
-
-[ATHENA — Female icy contralto]
-Then let them learn
-through truth.
-
-Not through a life
-you built to carry
-what you will not name.
+[OLYMPUS CHOIR — Low male choir, fearful and ritual]
+His grief is law.
+His fear is command.
+No god will hold
+the thunder's hand.
 
 [ZEUS — Male subterranean basso profundo]
 Bring the vessel.
@@ -135,14 +134,6 @@ Seal the grief.
 [VOICE OF DESIRE — Female warm soprano, distant]
 Seal the longing
 that outlives relief.
-
-[VOICE OF LANGUAGE — Male agile tenor, quick and shadowed]
-Seal the word
-that turns trust thin.
-
-[OLYMPUS CHOIR — Low male choir, ritual]
-Seal the world
-they carry in.
 
 [OLYMPUS CHOIR — Full choir, heavier]
 One gave beauty.

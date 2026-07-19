@@ -3,7 +3,7 @@
 ## Style
 
 ```text
-Epic progressive symphonic power metal, 98 BPM, A minor rising into C major; impassioned lead vocals, soaring counter-melodies, and a colossal mixed gang chorus; industrial forge percussion, pistons, turbines, launch countdowns and mechanical double-kick rhythms; pipe organ, brass, soaring strings, heavy guitars, rocket-like orchestral climbs; technological exhilaration tempered by the recurring principle that fear may warn but must not rule.
+Aggressive epic progressive symphonic power metal, 128 BPM, A minor rising into C major; riff-driven distorted electric rhythm guitars, palm-muted verse riffing, soaring overdriven electric lead guitar climbs, industrial forge percussion, pistons, turbines, launch countdowns and relentless mechanical double-kick; pipe organ, brass, soaring strings, impassioned lead vocals, soaring counter-melodies, colossal mixed gang chorus, rocket-like orchestral builds; technological exhilaration tempered by the recurring principle that fear may warn but must not rule.
 ```
 
 ## Lyrics

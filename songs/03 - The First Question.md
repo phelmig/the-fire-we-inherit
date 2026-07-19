@@ -3,7 +3,7 @@
 ## Style
 
 ```text
-Tender pastoral neo-classical symphonic metal creation hymn, 76 BPM, D minor gradually opening toward F major; soft heartbeat drum, piano, solo cello, harp, ascending violins, cathedral organ, distant mixed choir, restrained brass, and heavy orchestration arriving only for the final refrain; wonder, stillness, and the first awakening of life beneath a newly ordered sky.
+Luminous dark neo-classical symphonic metal creation hymn, 76 BPM, D minor gradually opening toward F major; soft heartbeat drum, piano, solo cello, harp, ascending violins, cathedral organ, distant mixed choir, restrained brass; the final refrain erupts into vast heavy symphonic metal where the ascending violin theme is doubled by overdriven electric lead guitar over full choir and timpani; wonder and stillness opening into the grandeur of first awakening.
 ```
 
 ## Lyrics

@@ -3,7 +3,7 @@
 ## Style
 
 ```text
-Heroic dark Nordic symphonic viking-metal foundation anthem, 86 BPM, D minor opening toward F major; shield-strike rhythm, cathedral organ, bells, ascending violins, low brass, heavy guitars, war drums, double-kick, antiphonal battle choirs, a thunderbolt climax and vast victory-oath refrain; noble and hard-won, with a final unresolved violin warning beneath the triumph.
+Heavy Nordic symphonic viking-metal battle anthem, 104 BPM, D minor opening toward F major; galloping distorted electric rhythm guitars, riff-driven verses, shield-strike rhythm, war drums, relentless double-kick, cathedral organ, bells, ascending violins, low brass, antiphonal battle choirs, a thunderbolt climax and vast victory-oath refrain; noble and hard-won, with a final unresolved violin warning beneath the triumph.
 ```
 
 ## Lyrics

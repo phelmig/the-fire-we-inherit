@@ -28,9 +28,17 @@ Never block on generation: do not pass `--wait`. Start the generation, report th
 
 When generating multiple songs in one batch, add a random 3–6 second delay between successive `suno generate` calls (e.g. `sleep $((RANDOM % 4 + 3))`) to avoid rate limiting and flaky API behavior.
 
-Always pass `--style-influence 85 --weirdness 19` on every `suno generate` call.
+After every `suno generate` run (including each iteration of a batch), kill the Chrome instance suno opened for captcha solving — a stale reused instance causes failures. Identify it by its profile-directory argument: `pkill -f "com.suno-cli.suno-cli/chrome-profile" 2>/dev/null || true`. Never kill Chrome processes that do not match this pattern.
 
-Default generation parameters unless the user says otherwise: `--model v5.5 --style-influence 85 --weirdness 20`.
+Default generation parameters unless the user says otherwise: `--model v5.5 --style-influence 95 --weirdness 35`.
+
+Always pass an exclude list: `--exclude "pop, soft rock, acoustic guitar, nylon-string guitar, folk, EDM"` for non-ballad tracks; `--exclude "pop, EDM"` for ballads and spoken tracks.
+
+## Style prompt language
+
+- Never write bare "guitar" or "guitars" in a style prompt — Suno then tends toward classical or acoustic guitar, which does not fit the album. Always qualify: "distorted electric rhythm guitars", "overdriven electric lead guitar", "electric lead guitar and violin duet".
+- Non-ballad tracks must open the style prompt with a hard genre anchor early in the text (e.g. "heavy symphonic power metal") and include at least two aggression anchors such as: riff-driven, palm-muted riffing, galloping rhythm guitars, relentless double-kick, crushing, aggressive.
+- Ballad, ritual, and spoken tracks (currently 00, 01, 10, 11, 14) are exempt from the aggression anchors but still follow the electric-guitar wording rule wherever guitars appear.
 
 ## Concept-first workflow
 

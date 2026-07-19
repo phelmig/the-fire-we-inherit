@@ -3,7 +3,7 @@
 ## Style
 
 ```text
-Somber symphonic metal bridge growing into determined power metal, 70 BPM accelerating toward 92 BPM, E minor; broken bells, piano, cello, low organ, slow toms and wind at the opening, then anvils, rising strings, heavy guitars, brass, mechanical percussion and double-kick momentum; intimate human arguments expanding into a resolute civilization anthem, ending directly in forge rhythm and turbine-like motion
+Somber symphonic metal bridge growing into heavy determined power metal, 76 BPM accelerating toward 116 BPM, E minor; broken bells, piano, cello, low organ, slow toms and wind at the opening, then anvils, rising strings, riff-driven distorted electric rhythm guitars, brass, mechanical percussion and relentless double-kick momentum; intimate human arguments expanding into a resolute civilization anthem, ending directly in forge rhythm and turbine-like motion
 ```
 
 ## Lyrics
