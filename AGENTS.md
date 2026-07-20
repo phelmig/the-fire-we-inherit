@@ -18,7 +18,9 @@ The canonical sequence uses `00` for the spoken prologue and consecutive two-dig
 
 ## Transitions
 
-Adjacent tracks must share an audible seam. Every song's final bracketed direction names one or two concrete sounds, and the next song's opening bracket reuses at least one of them. Where possible the seam also shares a sung or spoken phrase — a repeated line is more reliably audible than a sound-design bracket. Keep tempo and key hand-offs deliberate: matching, simply related, or an intentional dramatic shift stated in the style prompt. Do not let a sound that ends one track reappear as a dramatic "reveal" in a later track — fade it out first if the reveal must land.
+Adjacent tracks must share an audible seam. Every song's final bracketed direction names one or two concrete sounds, and the next song's opening bracket reuses at least one of them.
+
+Every song must open with a sound-design or instrumental bracket before the first vocal label — vocals that enter at second zero come out clipped or garbled (worst for a single isolated word). The opening bracket doubles as the instrumental lead-in that prevents this. Where possible the seam also shares a sung or spoken phrase — a repeated line is more reliably audible than a sound-design bracket. Keep tempo and key hand-offs deliberate: matching, simply related, or an intentional dramatic shift stated in the style prompt. Do not let a sound that ends one track reappear as a dramatic "reveal" in a later track — fade it out first if the reveal must land.
 
 ## Generating audio
 
