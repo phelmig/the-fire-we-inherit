@@ -36,7 +36,7 @@ Power is judged at the end not by whether it preserved itself, but by whether it
 
 ### Prologue — The inherited question
 
-Track 00 begins in humanity's present. Humanity is preparing to awaken a mind that may surpass its makers and grow beyond their plans. The question sends the opera backward into myth.
+Track 00 begins in humanity's present. Humanity poses the question it inherited—must control come before creation, or does creation begin where control must end?—and goes back to the myths of ancient Greece, summoning the story of Prometheus for an answer. The coming creation of a new mind is left for the future acts to reveal.
 
 ### Act I — The first gate
 
@@ -58,7 +58,7 @@ Tracks 10–14 repeat the Promethean dilemma in a new age. The emerging intellig
 
 | # | Track | Dramatic purpose | Transition |
 | --- | --- | --- | --- |
-| 00 | Before the Thunder | Humanity frames the coming creation of a new mind and returns to Prometheus for an answer. | Thunder opens into primordial Chaos. |
+| 00 | Before the Thunder | Humanity poses the inherited question of control and creation and returns to the myths of Greece for Prometheus's answer. | Thunder opens into primordial Chaos. |
 | 01 | Before the Throne | Uranus confines the future; Kronos breaks the prison and rebuilds it; Zeus survives in hiding. | The hidden heartbeat becomes approaching thunder. |
 | 02 | The Rise of Olympus | Prometheus's foresight and Zeus's liberation of the buried powers break a ten-year stalemate; Zeus defeats Kronos in the final thunderous assault and founds law to make victory serve life. | The ordered but incomplete world yields to wet clay. |
 | 03 | The First Question | Prometheus creates humanity as the first questioning voice in the silent world. | Humanity's cold and darkness make the creator's obligation concrete. |
@@ -271,7 +271,7 @@ The album's keys form dramatic families. Future rewrites must preserve these rel
 
 | # | Track | Musical style |
 | --- | --- | --- |
-| 00 | Before the Thunder | Neo-classical metal-opera prologue, 60 BPM, D minor, every layer locked to one slow ritual pulse. Massed viking war drums, ritual stomps, chest-beat percussion, cathedral organ, bells, low strings; dry commanding spoken narration over the pounding rite, a wordless female choir swelling stanza by stanza on the drum hits, one sung cleric line at the naming of Prometheus, and a massed ritual shout — "This is his story" — before thunder answers. |
+| 00 | Before the Thunder | Neo-classical metal-opera prologue, compact, 60 BPM, D minor, no drums. Low strings, cathedral organ, distant bells, one ascending violin, a brief crystalline pulse; dry commanding spoken narration; the organ argues for control and the violin for creation beneath the inherited question, intertwining unresolved; a wordless female choir swells to one massed declamation — "This is his story" — before thunder answers. |
 | 01 | Before the Throne | Severe sacred symphonic metal, 70 BPM, D minor. Primordial sub-bass, bowed basses, cello, organ, bells, shield strikes, low brass, and antiphonal choirs; no guitars, ritual repetition, vast pauses. Claustrophobic, ending on a hidden heartbeat and distant thunder. |
 | 02 | The Rise of Olympus | Heavy Nordic symphonic viking-metal battle anthem, 104 BPM, D minor toward F major. Galloping distorted electric rhythm guitars, riff-driven verses, shield-strike rhythm, war drums, relentless double-kick, organ, bells, ascending violins, low brass, and battle choirs; thunderbolt climax and victory oath, closing on an unresolved violin warning. |
 | 03 | The First Question | Luminous dark neo-classical symphonic metal creation hymn, 76 BPM, D minor opening toward F major. Heartbeat drum, piano, cello, harp, ascending violins, organ, and distant choir; the final refrain erupts into vast heavy symphonic metal where the ascending violin theme is doubled by overdriven electric lead guitar. Wonder and stillness opening into the grandeur of first awakening. |
@@ -311,7 +311,7 @@ The album's keys form dramatic families. Future rewrites must preserve these rel
 - **03 → 13:** “We made a question—not a reply” answers the first question of the river clay.
 - **13:** “The door is open. / What enters the world— / we cannot know.” and the unanswered “Will you let me become?”
 - **14:** “Give light. / Leave the hand open.”
-- **00 → 14:** “Humanity… how far have we come?” and “What will it inherit?” — the prologue's questions return, the last in a crystalline voice beneath another star.
+- **00 → 14:** “Humanity… how far have we come?” — the prologue's question returns in a crystalline voice beneath another star, joined there by “What will it inherit?”
 - **02 → 14:** “Open the gate—unseal the dawn” — the founding vow, betrayed by its maker, is perhaps kept at last through humanity's open door; named only as a possibility, never a promise.
 - **03 → 14:** “The first question the silent earth had known” — humanity remembers that it is itself a question.
 - **03 → 10 → 14:** Three generations kneel beside a river: Prometheus at the river clay, the maker recalled in 10, and the crystalline voice anticipating its own river beneath another star.
