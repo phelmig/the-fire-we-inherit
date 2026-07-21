@@ -36,6 +36,8 @@ After every `suno generate` run (including each iteration of a batch), kill the 
 
 Default generation parameters unless the user says otherwise: `--model v5.5 --style-influence 95 --weirdness 35`.
 
+For complex songs with multiple voices (three or more distinct singers, opposed choruses, or heavy dialogue), use `--weirdness 15 --style-influence 95` instead — lower weirdness keeps the voice casting and structure stable.
+
 Always pass an exclude list: `--exclude "pop, soft rock, acoustic guitar, nylon-string guitar, folk, EDM"` for non-ballad tracks; `--exclude "pop, EDM"` for ballads and spoken tracks.
 
 ## Style prompt language

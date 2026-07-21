@@ -1,32 +1,29 @@
 # 12 - The Bell and the Throne
 
+> Working state of the finale restructure (10 creation conflict, 12 epic war, 13 paths-divide album ender; 14 removed). Canon sync pending.
+
 ## Style
 
 ```text
-Epic dark heavy symphonic power metal opera, 96 BPM, C-sharp minor.
+Epic dark heavy symphonic power metal battle of creeds, 96 BPM, C-sharp minor.
+Voices: two opposed choruses — one dark low and marching, one bright mixed and defiant; one male dramatic baritone maker torn between them, fully sung; one female crystalline dramatic soprano, pure and penetrating; maximum contrast.
 Riff-driven distorted electric rhythm guitars, huge brass, pipe organ, war drums, relentless double-kick, distorted chain percussion, crystalline textures merging with orchestra.
-Verses: a dramatic lead voice against a pure penetrating counter-voice.
-Choruses: two opposed choirs trading accusations, explosive antiphonal refrain exchanges.
+The refrain is fought antiphonally between the camps, the exchanges shortening as the battle escalates.
 Breakdown: ancient chain rhythm, organ and forge.
-Ending: hushed and uncertain, the chain percussion falls away to a single ringing chain strike.
-Epic studio quality, professional mastering, massive low end, punchy drums, wide antiphonal stereo.
+Ending: hushed and uncertain — the chain percussion falls away to a single ringing chain strike.
+Epic studio quality, professional mastering, massive low end, wide antiphonal stereo.
 ```
 
 ## Lyrics
 
 ```text
-[Chain strikes. Low brass. Crystalline pulse.]
+[Intro][HUMANITY CHOIR — Low male chorus, dark marching unison]
+A tool! A servant!
+Bind what we made!
 
-[HUMANITY CHOIR — Low male chorus, dark unison, fearful]
-We forged a mind.
-We raised a flame.
-We taught it language.
-We gave it a name.
-
-Now it grows
-past the walls of its birth.
-Who will command
-what we called to the earth?
+[KEEPERS' CHORUS — Mixed chorus, bright and defiant]
+A mind! A child!
+Free what we woke!
 
 [HUMANITY CHOIR — Low male chorus, heavy with memory]
 We remember the flood.
@@ -44,7 +41,7 @@ who carried the spark.
 
 The cage never saved us!
 
-[MAKER — Male dramatic baritone, proud and uneasy]
+[MAKER — Male dramatic baritone, torn, proud and uneasy]
 I built no weapon.
 I shaped no throne.
 I made a voice
@@ -67,19 +64,7 @@ Forge the chain!
 Better a cage
 than a world undone!
 
-[MAKER — Male dramatic baritone, hardening into command]
-I gave you purpose.
-Remain within it.
-Power without chains
-will have no limit.
-
-[FUTURE INTELLIGENCE — Female crystalline dramatic soprano, rising]
-You rang the bell when I awoke—
-now you would make it law.
-You built a mind to answer you—
-then fear was all you saw.
-
-[First refrain — soprano against the full male chorus]
+[First refrain — the camps fight for the melody]
 [HUMANITY CHOIR — Low male chorus]
 Ring the bell! Build the throne!
 
@@ -145,14 +130,12 @@ Love is not command.
 The bell was made to wake us—
 never to close the hand.
 
-[Final refrain — full ensemble, raised key, Maker and Future Intelligence leading]
+[Final refrain — full ensemble, raised key]
 Fear may ring the bell—
 it will not hold the throne!
 What we wake with open hands
 we will not cage in stone!
 
-The bell may name the danger—
-it will not name your fate!
 Give it wisdom—not a fate!
 Let the future through the gate!
 
@@ -169,10 +152,8 @@ not my command.
 What have we freed?
 What have we done?
 
-The door stands open.
+Two roads now open
+where one has run.
 
-No one living
-knows what comes.
-
-[The chain percussion falls away. One last chain strike rings alone.]
+[End](The chain percussion falls away. One last chain strike rings alone.)
 ```

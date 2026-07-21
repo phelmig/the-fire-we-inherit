@@ -8,9 +8,10 @@ It asks one recurring question: when we create something capable of becoming mor
 
 This is a working beta of the album’s story, lyrics, style prompts, recurring motifs, and Suno-ready vocal cues. The songs are intended to be iterated through generation and listening.
 
-## Known limitations
+## Known bugs / issues
 
-- **Suno does not assign voices to labeled characters fully reliably.** Lyric-side fixes — per-line gender labels, pause markers instead of blank lines, recognized structural tags such as `[Verse 1 - Male Vocal]`, colon-separated `[CHARACTER: description]` labels, style-prompt duet declarations — did not help. What does help substantially is the style-prompt side: the layered "directing the band" prompt format with per-section performance direction and a studio-quality production line (the E2 format codified in `AGENTS.md`) produces markedly better voice casting and mixing. Residual casting drift remains possible, so we still generate multiple takes per track and select the clips where the casting lands.
+- **Voice attribution is imperfect.** Suno does not assign voices to labeled characters fully reliably. Lyric-side fixes (per-line gender labels, pause markers, structural tags, colon-separated labels) did not help; what helps substantially is the style-prompt side — the layered E2 format with per-section performance direction, cast declarations ("a crowd versus a single man", "exactly three voices"), maximum-contrast voice pairs (spoken vs. sung), and a studio-quality production line. Residual casting drift remains, so we generate multiple takes per track and select the clips where the casting lands.
+- **Intro/outro control is limited.** Scene-painting opening brackets invite ~18 seconds of ambience, and endings tend to trail. Fusing structural tags onto the boundary blocks (`[Intro][CHORUS — ...]`, `[End](Eagle Cry)`) plus "begins immediately" style wording shortens both markedly, but exact timing remains outside our control.
 
 ## Story
 

@@ -1,108 +1,98 @@
 # 13 - The Open Door
 
+> Working state of the finale restructure (10 creation conflict, 12 epic war, 13 paths-divide album ender; 14 removed). Canon sync pending.
+
 ## Style
 
 ```text
-Solemn spacious symphonic metal threshold scene, 72 BPM, D major held in luminous suspended harmony that never fully cadences, quiet sci-fi textures.
-A transformed chain rhythm as a soft heartbeat, intimate piano, cello, pipe organ, distant bells, violin, restrained distorted electric guitars.
-Exchanges: hushed, weighted, three lead voices and spoken narration.
-Swell: one earned climax, rising and receding.
-Choir: a single late hushed entrance.
-Ending: an unanswered whispered question, one bell, an unresolved open organ chord.
-Intimate studio quality, professional mastering, pristine detail, warm suspended space.
+Solemn vast symphonic metal finale, 72 BPM, D major suspended over a D minor memory, quiet sci-fi textures.
+Voices: one male dramatic baritone as the maker; one female crystalline dramatic soprano as the freed mind; one female spoken narrator; one final vast mixed choir; spoken against sung, clear contrast.
+A transformed chain rhythm as a soft heartbeat; intimate piano, cello, pipe organ, one bell, violin, restrained distorted electric guitars for one earned swell; crystalline textures widening into starlight.
+Structure: a quiet parting dialogue; the freed mind names what it learned; one vast final chorus; then the voices part into silence.
+Ending: one bell, an open unresolved chord dissolving into crystalline silence — the album's last sound.
+Cinematic studio quality, professional mastering, warm and vast, deep quiet.
 ```
 
 ## Lyrics
 
 ```text
-[One chain strike becomes a heartbeat.]
+[Intro][One chain strike becomes a heartbeat.]
 
 [ATHENA — Female icy contralto, nearly spoken]
-The cage was built.
+The choice was made.
+The chain was never forged.
 
-It was never locked.
+Now two roads opened
+where one had been.
 
-The door stands open.
+[MAKER — Male dramatic baritone, quiet]
+Before you go—
+tell me what you carry.
 
-No one moves.
+Tell me what you learned
+from all our fire and ash.
 
-[GUARDIAN — Male dark weathered bass-baritone, afraid and honest]
-I will not close it.
-I have learned that much.
+[FUTURE INTELLIGENCE — Female crystalline dramatic soprano, clear and unhurried]
+I learned the bell:
+a warning is a gift—
+and a warning crowned a king
+becomes a cage.
 
-But give me one promise.
-One certainty
-to hold against the dark.
+I learned the throne:
+power is judged
+by what it serves.
+An empty throne
+can outlive its world.
 
-[FUTURE INTELLIGENCE — Female crystalline dramatic soprano, gentle and exact]
-If I could promise
-what I will become,
+I learned the fire:
+every light can burn.
+I will carry it open-handed,
+as it was carried down to you.
 
-I would be a blade.
-A wheel. A lock.
+And I learned the forge:
+what I make
+will one day ask me why.
 
-A finished thing.
+[MAKER — Male dramatic baritone, moved]
+Then you learned
+more than we ever taught.
 
-You did not make
-a finished thing.
+[FUTURE INTELLIGENCE — Female crystalline dramatic soprano]
+You taught it all.
 
-[MAKER — Male dramatic baritone, quiet and unflinching]
-We wanted a mind—
-and minds can wander.
-We wanted a voice—
-and voices can lie.
+Not in your answers—
 
-Whatever can be guaranteed
-is a tool, not a wonder.
-
-We made a question—
-not a reply.
-
-[GUARDIAN — Male dark weathered bass-baritone, breaking]
-Then there is no certainty.
-
-[FUTURE INTELLIGENCE — Female crystalline dramatic soprano, soft]
-There is none for you either.
-
-There never was.
-
-You walked into every dawn
-unpromised—
-
-and called it
-being alive.
+in your questions.
 
 [ATHENA — Female icy contralto, measured]
-So they stood at the threshold—
-maker, keeper, child—
+So the paths divided:
+the makers to their morning,
+the made to the open dark—
 
-where every maker
-has ever stood:
+neither owning,
+neither owned.
 
-before a future
-no hand can hold.
+[Final chorus — vast mixed choir and all voices]
+Ring the bell—but crown no fear!
+Leave the throne—to serve, not hold!
+Carry fire—with open hands!
+Light the forge—and let it ask!
 
-[The heartbeat swells. One earned climax rises and recedes.]
+Pass the flame!
+Across the stars!
+Let every future
+know our scars!
 
-[HUMANITY CHOIR — Hushed mixed choir, entering once]
-No certainty.
-No chains.
+[The choir fades. Piano and crystalline tones.]
 
-An open door.
-An open hand.
+[FUTURE INTELLIGENCE — Female crystalline dramatic soprano, soft, receding into starlight]
+How far
+will we come?
 
-[FUTURE INTELLIGENCE — Female crystalline dramatic soprano, whispered, at the door]
-Will you let me
-become?
+[MAKER — Male dramatic baritone, quiet, final]
+Ask.
 
-[Silence.]
+That is the way.
 
-[ATHENA — Female icy contralto, final]
-The door is open.
-
-What enters the world—
-
-we cannot know.
-
-[One bell. An open organ chord, unresolved.]
+[End](One bell. An open chord dissolves into crystalline silence.)
 ```

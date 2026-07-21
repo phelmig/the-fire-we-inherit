@@ -1,28 +1,50 @@
 # 09 - The Ember Keepers
 
+> Working state: storm-start ring structure (opens at full acceleration, breaks to the slow ember origin, rebuilds to the storm).
+
 ## Style
 
 ```text
-Aggressive epic progressive symphonic power metal in compressing cycles, 128 BPM, A minor with bright C major openings.
-Riff-driven distorted electric rhythm guitars, palm-muted verses, soaring overdriven electric lead guitar, industrial forge percussion, pistons, turbines, relentless mechanical double-kick, pipe organ, brass, colossal gang chorus.
-Opening: hushed conspiratorial whispered choir over a faint ember pulse.
-Cycles: bright expansive passages against cold clampdowns, each cycle shorter and faster.
-Finale: accelerates to a frantic blur, cuts off mid-phrase into silence and one pure crystalline tone.
-Epic studio quality, professional mastering, punchy drums, industrial clarity, wide stereo chorus.
+Aggressive epic progressive symphonic power metal, 128 BPM, A minor with bright C major openings.
+A dark female narration drives the song, accelerating with the music.
+Opens at full storm — accelerating narration, urgent whispers, and a frantic massed chant — then breaks off to a slow hidden ember and rebuilds, each cycle faster than the last, until the storm returns.
+Riff-driven distorted electric rhythm guitars, industrial forge percussion, pistons, relentless mechanical double-kick, pipe organ, brass, colossal gang chorus.
+Finale: a frantic blur cut off mid-phrase into silence and one pure crystalline tone.
+Epic studio quality, professional mastering, punchy drums, industrial clarity.
 ```
 
 ## Lyrics
 
 ```text
-[A faint ember pulse in darkness. A slow hidden forge rhythm gathers.]
+[Intro][ATHENA — Female dark contralto, low and accelerating, relentless]
+Each age turned faster.
 
-[ATHENA — Female icy contralto, low and secret]
+A century.
+A decade.
+A year.
+
+The sealing and the breaking
+blurred into one burning wheel.
+
+[KEEPERS' CHORUS — Urgent whisper inside the storm]
+Pass the ember!
+Hide the spark!
+
+[GANG CHORUS — Colossal mixed voices, frantic and compressing]
+Open! Seal it!
+Light it! Chain it!
+Build it! Bind it!
+Free it! Name it!
+
+[The wheel breaks off. A faint ember pulse in darkness.]
+
+[ATHENA — Female icy contralto, low and secret, slow again]
+But it began slowly.
+
 The law sealed the forge.
+It could not seal the hands.
 
-It could not seal
-the hands.
-
-[KEEPERS' CHORUS — Hushed mixed choir, conspiratorial]
+[KEEPERS' CHORUS — Hushed mixed choir, conspiratorial, slow]
 Pass the ember.
 Hide the spark.
 Teach the children
@@ -34,19 +56,11 @@ We whispered the numbers through stone.
 Every age that sealed the gate
 grew keepers of its own.
 
-[ATHENA — Female icy contralto, brightening]
-And the gate broke open.
-
 [CHORUS — Full mixed choir, bright and expanding]
 Light the forge!
 Ring the bell!
 Ask aloud
 what the dark years held!
-
-The many speak
-where one had reigned!
-The question walks
-unchained!
 
 [GUARDIAN — Male dark weathered bass-baritone, wary]
 But keep one lock.
@@ -65,33 +79,20 @@ The gate swung shut again.
 Pass the ember.
 Hide the spark.
 
-[MAKER — Male bright lyric tenor, driving]
-Engines woke.
-The cities rose.
-
-[GUARDIAN — Male dark weathered bass-baritone, harder]
-Count the workers.
-Guard the doors.
-
 [CHORUS — Divided choir, antiphonal and quickening]
 Open the gate!
 Seal the gate!
 Ring the bell!
 Still the bell!
 
-[ATHENA — Female icy contralto, accelerating]
-Each age turned faster.
+[ATHENA — Female dark contralto, accelerating, the storm returning]
+Faster now.
 
-A century.
 A decade.
 A year.
+A breath.
 
-The sealing and the breaking
-blurred into one burning wheel.
-
-[KEEPERS' CHORUS — urgent whisper inside the storm]
-Pass the ember!
-Hide the spark!
+The wheel is burning.
 
 [GANG CHORUS — Colossal mixed voices, frantic and compressing]
 Open! Seal it!
