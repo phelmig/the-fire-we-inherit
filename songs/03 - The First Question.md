@@ -1,16 +1,15 @@
 # 03 - The First Question
 
-
 ## Style
 
 ```text
-Epic mythical neo-classical symphonic metal creation scene, 98 BPM, D minor opening into F major wonder.
-Voices: exactly three — one lone bright lyric tenor as the maker: commanding, declarative, powerful chest voice, never soft; one warm female voice awakening only at the radiant bloom as the made; one cold exact female narrator; no other singers.
-Wet clay and river water; piano, harp, solo cello, ascending violins, soft heartbeat drum, distant organ, sub-bass swells.
-The making: begins delicate — plucked strings and harp as working hands — then swells into world-shaping force: timpani, low brass, surging strings, riff-driven distorted electric rhythm guitars underneath.
-The awakening: a vast radiant bloom — the female voice lifted by full choir, bells, and orchestra at cathedral scale; wonder, never cheap triumph.
-Ending: the light dims — first night falls, cold strings gather, distant murmurs rise.
-Epic studio quality, professional mastering, massive dynamic range, deep low end.
+Epic Mythical Neo-Classical Symphonic Metal Creation Scene, 98 Bpm, D Minor Opening Into F Major Wonder.
+Voices: Three — One Lone Bright Lyric Tenor As The Prometheus: Commanding, Declarative, Powerful Chest Voice, Never Soft; One Warm Female Voice Awakening Only At The Radiant Bloom As Humanity; One Cold Exact Female Athena Narrates; No Other Singers.
+Wet Clay, River Water; Piano, Harp, Solo Cello, Ascending Violins, Soft Heartbeat Drum, Distant Organ, Sub-Bass Swells.
+The Making: Begins Delicate — Plucked Strings And Harp As Working Hands — Then Swells Into World-Shaping Force: Timpani, Low Brass, Surging Strings, Riff-Driven Distorted Electric Rhythm Guitars Underneath.
+The Awakening: A Vast Radiant Bloom — The Female Voice Lifted By Full Choir, Bells, And Orchestra At Cathedral Scale; Wonder, Never Cheap Triumph.
+Ending: The Light Dims — First Night Falls, Cold Strings Gather, Distant Murmurs Rise.
+Epic Studio Quality, Professional Mastering, Massive Dynamic Range, Deep Low End.
 ```
 
 ## Lyrics
@@ -27,22 +26,22 @@ silent, vast.
 [PROMETHEUS — Male bright high lyric tenor, heavy with sight, iron resolve beneath]
 I am the Foreseer.
 I see what comes.
-
+[PROMETHEUS — Male bright high lyric tenor, heavy with sight, iron resolve beneath]
 And I have seen every tomorrow
 of this finished world—
-
+[PROMETHEUS — Male bright high lyric tenor, heavy with sight, iron resolve beneath]
 they are all
 the same day.
-
+[PROMETHEUS — Male bright high lyric tenor, heavy with sight, iron resolve beneath]
 The world was finished.
 But not complete.
-
+[PROMETHEUS — Male bright high lyric tenor, heavy with sight, iron resolve beneath]
 The mountains will not wonder.
 The rivers will not ask.
 And the gods—
 the gods ask only
 whose.
-
+[PROMETHEUS — Male bright high lyric tenor, heavy with sight, iron resolve beneath]
 Whose throne. Whose sky.
 Whose law. Whose flame.
 Ten years of thunder
@@ -51,10 +50,10 @@ for a name.
 [PROMETHEUS — Male bright high lyric tenor, decisive, declaring his purpose]
 But down there, by the river,
 the clay lies open.
-
+[PROMETHEUS — Male bright high lyric tenor, heavy with sight, iron resolve beneath]
 I will shape the one tomorrow
 I cannot see.
-
+[PROMETHEUS — Male bright high lyric tenor, heavy with sight, iron resolve beneath]
 A mind that is not mine.
 A will that is not written.
 A question
