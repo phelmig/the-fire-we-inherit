@@ -3,15 +3,15 @@
 ## Style
 
 ```text
-Neo-classical symphonic power metal duel of two sound-worlds, 92 BPM, E minor.
-Voices: one subterranean bass as the king; one bright commanding tenor as the maker; humanity's voices dark and distant until the gift ignites them warm; no other singers.
-The king's world: half-time rigid march, cathedral organ, low brass, vast cavernous space, descending phrases that always resolve.
-The maker's world: driving double-time, ascending solo violin and overdriven electric lead guitar, close and dry, surging ahead of the beat, phrases that never resolve.
-The arrangement flips entirely with each speaker; the cuts grow harder and the exchanges shorter as the duel escalates.
-The refusal: the king's world seizes everything, immense and rigid. The theft: in that silence, one ember.
-The gift: the maker's world erupts — the dark voices ignite into a radiant warm choir over double-kick.
-Ending: cut short by descending thunder, compact.
-Epic studio quality, stark contrast between worlds.
+Neo-Classical Symphonic Power Metal Duel Of Two Sound-Worlds, 92 Bpm, E Minor.
+Voices: One Subterranean Bass As The King; One Bright Commanding Tenor As The Maker; Humanity's Voices Dark And Distant Until The Gift Ignites Them Warm; No Other Singers.
+The King's World: Half-Time Rigid March, Cathedral Organ, Low Brass, Vast Cavernous Space, Descending Phrases That Always Resolve.
+The Maker's World: Driving Double-Time, Ascending Solo Violin And Overdriven Electric Lead Guitar, Close And Dry, Surging Ahead Of The Beat, Phrases That Never Resolve.
+The Arrangement Flips Entirely With Each Speaker; The Cuts Grow Harder And The Exchanges Shorter As The Duel Escalates.
+The Refusal: The King's World Seizes Everything, Immense And Rigid. The Theft: In That Silence, One Ember.
+The Gift: The Maker's World Erupts — The Dark Voices Ignite Into A Radiant Warm Choir Over Double-Kick.
+Ending: Cut Short By Descending Thunder, Compact.
+Epic Studio Quality, Stark Contrast Between Worlds.
 ```
 
 ## Lyrics
@@ -20,7 +20,7 @@ Epic studio quality, stark contrast between worlds.
 [Intro][HUMANITY CHORUS — Distant murmur far below, fading on the wind]
 …no spark… no spark…
 
-[Verse 1][PROMETHEUS — High melodic tenor, fully sung, ringing, climbing, resolved]
+[PROMETHEUS — High melodic tenor, fully sung, ringing, climbing, resolved]
 I hear them still.
 Their cold is in my hands.
 
