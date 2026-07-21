@@ -1,6 +1,5 @@
 # 04 - Song of the Unlit
 
-
 ## Style
 
 ```text
@@ -19,11 +18,11 @@ under empty skies?
 Maker—maker—
 show your face.
 
-[PROMETHEUS — Lone bright tenor, stepping into the crowd, steady]
+[Verse 1][PROMETHEUS — Lone bright tenor, stepping into the crowd, steady]
 I shaped you.
 I am here.
 
-[HUMANITY CHORUS — Rising, wave upon wave]
+[Verse 2][HUMANITY CHORUS — Rising, wave upon wave]
 You gave us eyes—
 where is the dawn?
 You gave us hands—
@@ -36,11 +35,11 @@ and starve it of light?
 Why make a heart
 and leave it to the frost?
 
-[PROMETHEUS — Lone bright tenor, fighting to be heard]
+[Pre-Chorus][PROMETHEUS — Lone bright tenor, fighting to be heard]
 I gave you all
 I was allowed to give—
 
-[HUMANITY CHORUS — Massed accusatory wall, thunderous, violins and cellos start]
+[Chorus][HUMANITY CHORUS — Massed accusatory wall, thunderous, violins and cellos]
 Allowed?!
 Who chains the maker?
 Who holds the flame?
@@ -53,19 +52,28 @@ while heaven warms its halls!
 Why create
 what fear can break?!
 
-[Silence. The crowd breathes.]
+[Breakdown: silence, the crowd breathes]
 
-[PROMETHEUS — Lone bright tenor, quiet, wounded, unbowed]
+[Bridge][PROMETHEUS — Lone bright tenor, quiet, wounded, unbowed]
 Because the answer
 must be made.
 
-[HUMANITY CHORUS — Receding to a hushed murmur]
+[Chorus][HUMANITY CHORUS — Massed accusatory wall, thunderous, violins and cellos]
+The night has teeth!
+The frost has hands!
+Your children freeze
+while heaven warms its halls!
+
+Why create
+what fear can break?!
+
+[Post-Chorus][HUMANITY CHORUS — Receding to a hushed murmur]
 We have the cold.
 We have the dark.
 We have the questions.
 We have no spark! [anvil strike]
 
-[PROMETHEUS — Lone bright tenor, almost whispered, hardening into resolve]
+[Outro][PROMETHEUS — Lone bright tenor, almost whispered, hardening into resolve]
 Then I will not give you questions
 and close the world away.
 

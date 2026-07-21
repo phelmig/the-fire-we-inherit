@@ -18,7 +18,7 @@ Heavy studio quality, professional mastering, mechanical precision, tight low en
 ```text
 [Intro: One bell. Wind. A hammer falls once.]
 
-[ATHENA — Female icy contralto, exact and mournful]
+[Verse 1][ATHENA — Female icy contralto, exact and mournful]
 After the cry,
 came quieter things:
 
@@ -114,5 +114,5 @@ where no law looked,
 one ember
 kept its breath.
 
-[Outro: wind through a cold forge. One faint ember pulse, like a heartbeat.]
+[End](Outro: wind through a cold forge. One faint ember pulse, like a heartbeat.)
 ```

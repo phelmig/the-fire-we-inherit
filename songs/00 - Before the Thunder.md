@@ -16,9 +16,9 @@ Cinematic studio quality, professional mastering, wide dynamics, close commandin
 ## Lyrics
 
 ```text
-[Low strings and a distant cathedral organ open in darkness.]
+[Intro: low strings and a distant cathedral organ open in darkness]
 
-[HUMANITY — Male spoken voice, low and intimate]
+[Verse 1][HUMANITY — Male spoken voice, low and intimate]
 (inhale) Humanity!
 
 How far have we come?
@@ -46,5 +46,5 @@ and suffered for its freedom.
 [MASSED VOICES — one thunderous declamation]
 THIS IS HIS STORY
 
-[Thunder answers.]
+[End](Thunder answers.)
 ```

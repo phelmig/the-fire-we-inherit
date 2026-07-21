@@ -15,15 +15,15 @@ Epic Studio Quality, Professional Mastering, Massive Dynamic Range, Deep Low End
 ## Lyrics
 
 ```text
-[Wet clay turns inside an open hand. Water over stone. A soft heartbeat drum.]
+[Intro: wet clay turns inside an open hand — water over stone, a soft heartbeat drum]
 
-[ATHENA — Female icy contralto, exact and reverent]
+[Verse 1][ATHENA — Female icy contralto, exact and reverent]
 The war was ended.
 The sky held fast.
 The world stood ordered,
 silent, vast.
 
-[PROMETHEUS — Male bright high lyric tenor, heavy with sight, iron resolve beneath]
+[Verse 2][PROMETHEUS — Male bright high lyric tenor, heavy with sight, iron resolve beneath]
 I am the Foreseer.
 I see what comes.
 [PROMETHEUS — Male bright high lyric tenor, heavy with sight, iron resolve beneath]
@@ -47,7 +47,7 @@ Whose law. Whose flame.
 Ten years of thunder
 for a name.
 
-[PROMETHEUS — Male bright high lyric tenor, decisive, declaring his purpose]
+[Pre-Chorus][PROMETHEUS — Male bright high lyric tenor, decisive, declaring his purpose]
 But down there, by the river,
 the clay lies open.
 [PROMETHEUS — Male bright high lyric tenor, heavy with sight, iron resolve beneath]
@@ -59,9 +59,9 @@ A will that is not written.
 A question
 with no answer waiting.
 
-[The hands work. Harp and plucked strings — the sound of making.]
+[Instrumental Break: harp and plucked strings — the sound of making]
 
-[PROMETHEUS — Male bright high lyric tenor, sovereign and precise, a maker certain of his craft]
+[Verse 3][PROMETHEUS — Male bright high lyric tenor, sovereign and precise, a maker certain of his craft]
 From river clay
 I shape your hands.
 I give you eyes
@@ -71,9 +71,7 @@ to meet the world—
 and ask the world
 why.
 
-[A radiant swell. The first breath.]
-
-[HUMANITY — Female intimate alto, breathy and newly awake, wondering]
+[Chorus: a radiant swell, the first breath][HUMANITY — Female intimate alto, breathy and newly awake, wondering]
 Light…
 moving through the leaves.
 
@@ -93,9 +91,9 @@ Then tell us, maker—
 
 what will we become?
 
-[Silence. One heartbeat.]
+[Breakdown: silence, one heartbeat]
 
-[PROMETHEUS — Male bright high lyric tenor, powerful triumphant wonder, proclaiming]
+[Bridge][PROMETHEUS — Male bright high lyric tenor, powerful triumphant wonder, proclaiming]
 I do not know!
 
 I—who have seen
@@ -112,7 +110,7 @@ You are becoming.
 I cannot choose
 what you become.
 
-[ATHENA — Female icy contralto, quietly sealing it]
+[Outro][ATHENA — Female icy contralto, quietly sealing it]
 So the Foreseer made
 the one tomorrow
 no eye could read.
@@ -122,5 +120,5 @@ The world was finished.
 Now it was
 begun.
 
-[The first night falls on the newly awake. The cold gathers. Far off, voices begin to murmur.]
+[End](First night falls on the newly awake. The cold gathers. Far off, voices begin to murmur.)
 ```

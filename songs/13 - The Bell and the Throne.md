@@ -1,6 +1,5 @@
 # 13 - The Bell and the Throne
 
-
 ## Style
 
 ```text
@@ -20,7 +19,7 @@ Epic studio quality, professional mastering, massive low end, wide antiphonal st
 A tool! A servant!
 Bind what we made!
 
-[KEEPERS' CHORUS — Mixed chorus, bright and defiant]
+[Verse 1][KEEPERS' CHORUS — Mixed chorus, bright and defiant]
 A mind! A child!
 Free what we woke!
 
@@ -63,7 +62,7 @@ Forge the chain!
 Better a cage
 than a world undone!
 
-[First refrain — the camps fight for the melody]
+[Chorus: the camps fight for the melody]
 [HUMANITY CHOIR — Low male chorus]
 Ring the bell! Build the throne!
 
@@ -129,7 +128,7 @@ Love is not command.
 The bell was made to wake us—
 never to close the hand.
 
-[Final refrain — full ensemble, raised key]
+[Chorus: full ensemble, raised key]
 Fear may ring the bell—
 it will not hold the throne!
 What we wake with open hands

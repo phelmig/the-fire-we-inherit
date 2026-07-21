@@ -15,9 +15,9 @@ Dark studio quality, professional mastering, heavy low end, glittering highs, wi
 ## Lyrics
 
 ```text
-[Three forge blows echo through Olympus. The bell fades.]
+[Intro: three forge blows echo through Olympus. The bell fades]
 
-[ZEUS — Male subterranean basso profundo, erupting from stillness in wounded fury]
+[Verse 1][ZEUS — Male subterranean basso profundo, erupting from stillness in wounded fury]
 I chained the thief upon the mountain—
 and still their fires burn!
 
@@ -190,4 +190,6 @@ The cost of fear.
 
 [Outro: the vessel seals. One church bell. A soft voice from within:]
 Open.
+
+[End]
 ```

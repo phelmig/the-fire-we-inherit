@@ -15,9 +15,9 @@ Sacred studio quality, professional mastering, cavernous but controlled space, d
 ## Lyrics
 
 ```text
-[The thunder from the prologue dissolves into a primordial drone.]
+[Intro: the thunder from the prologue dissolves into a primordial drone]
 
-[ATHENA — Female icy contralto, nearly spoken, exact and reverent]
+[Verse 1][ATHENA — Female icy contralto, nearly spoken, exact and reverent]
 In the beginning—
 
 was Chaos.
@@ -132,4 +132,6 @@ was Chaos.
 Then power
 learned to fear
 what came next.
+
+[End]
 ```

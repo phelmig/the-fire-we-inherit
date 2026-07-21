@@ -15,9 +15,9 @@ Epic studio quality, professional mastering, punchy fast drums, clear vocal pres
 ## Lyrics
 
 ```text
-[Intro: A whispered “Open” fades. One funeral bell. Chain strike — fast heartbeat drums. Wind around the vessel.]
+[Intro: a whispered “Open” fades — one funeral bell, chain strike, fast heartbeat drums, wind around the vessel]
 
-[PANDORA — Female dramatic mezzo-soprano, warm and uncertain]
+[Verse 1][PANDORA — Female dramatic mezzo-soprano, warm and uncertain]
 They gave me a road.
 They gave me a name.
 They gave me a vessel
@@ -85,7 +85,7 @@ I opened a door—
 
 but who had filled the flame?
 
-[First refrain: Pandora above full choir]
+[Chorus: Pandora above full choir]
 Fear may ring the bell!
 Fear may name the storm!
 But greed will build a throne from it
@@ -135,7 +135,7 @@ You were made into blame!
 No hand that sets the trap
 may call the wounded shame!
 
-[Second refrain: heavier, chorus answers each line]
+[Chorus: heavier, chorus answers each line]
 [PANDORA — Female dramatic mezzo-soprano]
 Fear may ring the bell!
 
@@ -168,7 +168,7 @@ The strength to see the storm—
 and still refuse
 to become it.
 
-[Final refrain: full orchestra, rising key]
+[Chorus: full orchestra, rising key]
 Fear may ring the bell!
 Fear may name the storm!
 But no fear shall build a throne
@@ -190,5 +190,5 @@ Name the danger.
 Do not kneel
 before its name.
 
-[One slow, distant hammer blow.]
+[End](One slow, distant hammer blow.)
 ```

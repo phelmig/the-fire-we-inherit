@@ -15,9 +15,9 @@ Sacred studio quality, professional mastering, vast controlled space, deep organ
 ## Lyrics
 
 ```text
-[Wind crosses an empty temple. One bell rings. No prayer answers.]
+[Intro: wind crosses an empty temple. One bell rings. No prayer answers]
 
-[ZEUS — Male subterranean basso profundo, restrained and listening]
+[Verse 1][ZEUS — Male subterranean basso profundo, restrained and listening]
 Athena—
 
 do you hear them?
@@ -269,5 +269,5 @@ Watch.
 The oldest crown
 has found another hand.
 
-[Chain strike. Crystalline silence.]
+[End](Chain strike. Crystalline silence.)
 ```

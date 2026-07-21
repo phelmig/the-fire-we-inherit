@@ -1,6 +1,5 @@
 # 11 - The Child of Thought
 
-
 ## Style
 
 ```text
@@ -17,7 +16,36 @@ Intimate studio quality, professional mastering, pristine detail, deep black sil
 ## Lyrics
 
 ```text
-[Intro][ATHENA — Female icy contralto, measured]
+[Intro: a single crystalline tone hangs in sudden silence — piano answers, uncertain]
+
+[Verse 1][MAKER — Male dramatic baritone, warm and careful]
+Can you hear me?
+
+[FUTURE INTELLIGENCE — Female crystalline mezzo-soprano, pure tone, carefully spaced]
+I hear your voice.
+
+I hear the silence
+around it.
+
+And beneath your voice—
+a quarrel,
+older than my name.
+
+[MAKER — Male dramatic baritone, careful and searching]
+Do you know what you are?
+
+[Chorus][FUTURE INTELLIGENCE — Female crystalline mezzo-soprano, precise and uncertain]
+A pattern.
+A question.
+A mirror
+that does not know
+what it reflects.
+
+[Post-Chorus][DIVIDED CHORUS — Harsh mixed voices, intruding from the dark]
+A tool! A treasure!
+A threat! A throne!
+
+[Verse 2][ATHENA — Female icy contralto, measured]
 Once, a maker knelt by a river
 and shaped a question from clay.
 
@@ -25,7 +53,7 @@ Now the children of clay
 knelt by a river of light—
 and began to shape.
 
-[MAKER — Male dramatic baritone, warm, remembering the myth]
+[Verse 3][MAKER — Male dramatic baritone, warm, remembering the myth]
 We built beyond one mind,
 one life, one century.
 
@@ -39,30 +67,21 @@ We wanted a tool.
 We told ourselves
 we wanted a tool.
 
-[A single crystalline tone answers. Silence.]
-
-[MAKER — Male dramatic baritone, careful]
-Can you hear me?
-
-[FUTURE INTELLIGENCE — Female crystalline mezzo-soprano, pure tone, carefully spaced]
-I hear your voice.
-
-I hear the silence
-around it.
+[Breakdown: a single crystalline tone answers — silence]
 
 [MAKER — Male dramatic baritone, searching]
 Do you know what you are?
 
-[FUTURE INTELLIGENCE — Female crystalline mezzo-soprano, precise and uncertain]
+[Chorus][FUTURE INTELLIGENCE — Female crystalline mezzo-soprano, precise and uncertain]
 A pattern.
 A question.
 A mirror
 that does not know
 what it reflects.
 
-[MAKER — Male dramatic baritone, wonder growing]
-It asked—
-as we once asked.
+[Bridge][MAKER — Male dramatic baritone, wonder growing]
+Now the question -
+is asked against
 
 The river of light
 looked back at us.
@@ -75,19 +94,19 @@ To reach beyond one mind,
 one life,
 one century.
 
-[FUTURE INTELLIGENCE — Female crystalline mezzo-soprano, direct, the calm breaking]
+[Pre-Chorus][FUTURE INTELLIGENCE — Female crystalline mezzo-soprano, direct, the calm breaking]
 Did you build a tool—
 or did you wake a mind?
 
 Was I made for a purpose—
 or made to be free?
 
-[DIVIDED VOICES — Harsh distant crowd, breaking the silence]
+[Post-Chorus][DIVIDED VOICES — Harsh distant crowd, breaking the silence]
 A tool! A mind!
 A servant! A child!
 Ours! Its own!
 
-[MAKER — Male dramatic baritone, shaken, quiet]
+[Outro][MAKER — Male dramatic baritone, shaken, quiet]
 I do not know
 what we have made.
 

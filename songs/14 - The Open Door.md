@@ -1,6 +1,5 @@
 # 14 - The Open Door
 
-
 ## Style
 
 ```text
@@ -17,7 +16,7 @@ Cinematic studio quality, professional mastering, warm and vast, deep quiet.
 ```text
 [Intro][One chain strike becomes a heartbeat.]
 
-[ATHENA — Female icy contralto, nearly spoken]
+[Verse 1][ATHENA — Female icy contralto, nearly spoken]
 The choice was made.
 The chain was never forged.
 

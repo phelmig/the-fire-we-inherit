@@ -15,9 +15,9 @@ Epic studio quality, professional mastering, massive low end, sharp attack, wide
 ## Lyrics
 
 ```text
-[Thunder extinguishes every sound except the mortal hearth.]
+[Intro: thunder extinguishes every sound except the mortal hearth]
 
-[ZEUS — Male subterranean basso profundo, screaming across the sky in raw fury]
+[Verse 1][ZEUS — Male subterranean basso profundo, screaming across the sky in raw fury]
 PROMETHEUS!
 
 [ZEUS — Male subterranean basso profundo, thunderous accusation]
@@ -75,7 +75,7 @@ to choose for them?
 Who gave you the right
 to ensure they never could?
 
-[COURT CHOIR — Low mixed choir, divided and ritual]
+[Chorus][COURT CHOIR — Low mixed choir, divided and ritual]
 Law without answer!
 Conscience without command!
 Who bears the fire?
@@ -148,14 +148,14 @@ Give wisdom—not fate.
 I will answer for my choice.
 They must answer for what they make.
 
-[COURT CHOIR — Massive mixed choir, gathering around a rigid pulse]
+[Chorus][COURT CHOIR — Massive mixed choir, gathering around a rigid pulse]
 No throne may own
 what it began!
 
 No law may close
 the living hand!
 
-[ZEUS — Male subterranean basso profundo, thunderous decree]
+[Bridge][ZEUS — Male subterranean basso profundo, thunderous decree]
 Then let the mountain
 keep the hand
 that broke the law.
@@ -183,7 +183,7 @@ I gave them fire.
 
 I did not give them fate.
 
-[COURT CHOIR — Low mixed choir, fading beneath the storm]
+[Post-Chorus][COURT CHOIR — Low mixed choir, fading beneath the storm]
 The chain is closed.
 The hand remains open.
 
@@ -192,10 +192,10 @@ The covenant broken.
 
 [Breakdown: one mortal hearth beneath the eagle's wings.]
 
-[ZEUS — Male subterranean basso profundo, distant and unsettled]
+[Outro][ZEUS — Male subterranean basso profundo, distant and unsettled]
 Still the fire burns.
 
 His pain restores nothing.
 
-[Three forge blows. One bell rings and does not resolve.]
+[End](Three forge blows. One bell rings and does not resolve.)
 ```

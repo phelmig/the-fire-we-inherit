@@ -57,6 +57,16 @@ Additional rules:
 - Non-ballad tracks open the identity line with a hard genre anchor and keep at least two aggression anchors across the prompt (riff-driven, galloping, relentless double-kick, crushing, aggressive). Ballad, ritual, and spoken tracks (currently 00, 01, 04, 11, 12, 14) are exempt from aggression anchors.
 - Style prompts must describe only what Suno can render in this one track. Never reference other tracks, track numbers, or the album; describe the intended sonic outcome instead (e.g. "ending unresolved beneath rising distant thunder").
 
+## Lyric structure tags
+
+Validated on tracks 03/04/06/10/11: standard structural tags dramatically improve arrangement, refrains, and endings. Every song must carry a tag skeleton:
+
+- Fuse structural tags directly onto voice labels: `[Intro][CHORUS — ...]`, `[Verse 1][NAME — ...]`, `[Pre-Chorus][...]`, `[Chorus][...]`, `[Bridge][...]`, `[Outro][...]`. Without tags Suno guesses the arrangement from line breaks.
+- Every song opens with `[Intro: ...]`-fused material and ends with `[End]` (or `[End](final sound)`) — this prevents trailing audio and long ambient intros.
+- Purely musical brackets use parameterized colon syntax: `[Breakdown: silence, the crowd breathes]`, `[Instrumental Break: harp and plucked strings]`.
+- Repeat chorus text verbatim to get a true melodic refrain — but only when the refrain is self-contained. Lines that answer specific preceding dialogue (retorts) must not recur; repeat only the universal core of the refrain.
+- For long single-voice passages, repeating the full voice label before each stanza improves voice stability.
+
 ## Concept-first workflow
 
 The user prefers to review and approve a song concept before complete lyrics and a Suno style prompt are created. For every new song or major structural rewrite, first present a concise concept covering the dramatic purpose, story beats, character roles, philosophical conflict, recurring motifs, musical direction, and transitions into adjacent tracks. Do not draft the complete song until the user approves the concept or explicitly asks to skip that step.
@@ -73,7 +83,7 @@ Keep the audible cast clear: name only figures central to the story being told. 
 
 ## Voice cues for Suno
 
-Do not place character names, gender presentation, or vocal-register mapping in the Suno style prompt. Style prompts describe only genre, tempo, key, arrangement, instrumentation, atmosphere, and vocal ensemble texture.
+Style prompts should include a cast declaration naming the voices and their roles — e.g. "Voices: three — one lone bright lyric tenor as Prometheus, commanding and never soft; one warm female voice awakening at the bloom as humanity; one cold exact female narrator; no other singers." Named casts with voice counts and "no other singers" fences are validated to improve voice attribution substantially. Keep the genders and registers consistent with the voice table below.
 
 Every vocal label in the lyrics—including narrators, soloists, and choirs—must combine an explicit character or role name with gender presentation and concrete sonic direction. Use the format:
 

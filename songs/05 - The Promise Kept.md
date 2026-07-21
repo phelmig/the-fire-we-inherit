@@ -1,6 +1,5 @@
 # 05 - The Promise Kept
 
-
 ## Style
 
 ```text
@@ -21,7 +20,7 @@ Epic studio quality, stark contrast between worlds.
 [Intro][HUMANITY CHORUS — Distant murmur far below, fading on the wind]
 …no spark… no spark…
 
-[PROMETHEUS — High melodic tenor, fully sung, ringing, climbing, resolved]
+[Verse 1][PROMETHEUS — High melodic tenor, fully sung, ringing, climbing, resolved]
 I hear them still.
 Their cold is in my hands.
 

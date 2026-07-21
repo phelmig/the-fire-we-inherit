@@ -15,9 +15,9 @@ Epic studio quality, professional mastering, punchy drums, tight low end, wide s
 ## Lyrics
 
 ```text
-[Shield strikes conceal a heartbeat. The distant thunder draws near.]
+[Intro: shield strikes conceal a heartbeat. The distant thunder draws near]
 
-[ATHENA — Female icy contralto, measured and solemn]
+[Verse 1][ATHENA — Female icy contralto, measured and solemn]
 The hidden child grew
 without a name,
 while swallowed voices
@@ -246,5 +246,5 @@ The world was ordered.
 
 It was not complete.
 
-[Wet clay turns inside an open hand.]
+[End](Wet clay turns inside an open hand.)
 ```
