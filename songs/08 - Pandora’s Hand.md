@@ -1,4 +1,4 @@
-# 07 - Pandora’s Hand
+# 08 - Pandora’s Hand
 
 ## Style
 

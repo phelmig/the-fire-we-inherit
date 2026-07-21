@@ -1,7 +1,5 @@
 # 03 - The First Question
 
-> Working state of the experimental 03 split (creation half; suffering lives in
-> 03b). Numbering and canon to be settled once the split is confirmed.
 
 ## Style
 

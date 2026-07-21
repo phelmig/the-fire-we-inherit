@@ -1,6 +1,5 @@
-# 10 - The Child of Thought
+# 11 - The Child of Thought
 
-> Working state of the finale restructure (10 creation conflict, 12 epic war, 13 paths-divide album ender; 14 removed). Canon sync pending.
 
 ## Style
 

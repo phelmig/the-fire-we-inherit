@@ -1,6 +1,5 @@
-# 12 - The Bell and the Throne
+# 13 - The Bell and the Throne
 
-> Working state of the finale restructure (10 creation conflict, 12 epic war, 13 paths-divide album ender; 14 removed). Canon sync pending.
 
 ## Style
 

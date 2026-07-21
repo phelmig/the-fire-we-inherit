@@ -54,7 +54,7 @@ Additional rules:
 - Do not use inline negative lines ("no X") — they add nothing over the `--exclude` flag (tested: indistinguishable).
 - Keep the whole style prompt under roughly 1,000 characters; shorter and sharper beats longer and denser — Suno compresses long prompts and only the strongest concepts survive.
 - Never write bare "guitar" or "guitars" — Suno then tends toward classical or acoustic guitar. Always qualify: "distorted electric rhythm guitars", "overdriven electric lead guitar".
-- Non-ballad tracks open the identity line with a hard genre anchor and keep at least two aggression anchors across the prompt (riff-driven, galloping, relentless double-kick, crushing, aggressive). Ballad, ritual, and spoken tracks (currently 00, 01, 10, 11, 13, 14) are exempt from aggression anchors.
+- Non-ballad tracks open the identity line with a hard genre anchor and keep at least two aggression anchors across the prompt (riff-driven, galloping, relentless double-kick, crushing, aggressive). Ballad, ritual, and spoken tracks (currently 00, 01, 04, 11, 12, 14) are exempt from aggression anchors.
 - Style prompts must describe only what Suno can render in this one track. Never reference other tracks, track numbers, or the album; describe the intended sonic outcome instead (e.g. "ending unresolved beneath rising distant thunder").
 
 ## Concept-first workflow
@@ -86,8 +86,8 @@ Do not rely on a name or role alone to establish the voice; pair it with the des
 - **Zeus:** male subterranean basso profundo; gravel-heavy chest resonance; near-spoken, slow, rigid descending phrases.
 - **Prometheus:** male bright high lyric tenor; clean ringing tone; wide rising melodic leaps; expressive sustained vowels.
 - **Athena:** female icy contralto; focused pure tone; exact diction; measured, controlled phrasing.
-- **Pandora / humanity:** female dramatic mezzo or intimate alto; warm, vulnerable, emotionally direct.
-- **Maker:** male dramatic baritone; warm, precise, inventive delivery that can harden into fearful clipped commands. In tracks 08–09 the young Maker of the human age sings as a male bright lyric tenor echoing Prometheus; from track 10 on the mature Maker is the dramatic baritone.
+- **Pandora / humanity:** female dramatic mezzo or intimate alto; warm, vulnerable, emotionally direct. In 03 humanity wakes as a single warm female voice; through the fireless night — the massed accusing chorus of 04 and the distant murmurs opening 05 — its collective voice is dark; the warm voice returns with the first ember in 05.
+- **Maker:** male dramatic baritone; warm, precise, inventive delivery that can harden into fearful clipped commands. In tracks 09–10 the young Maker of the human age sings as a male bright lyric tenor echoing Prometheus; from track 11 on the mature Maker is the dramatic baritone.
 - **Guardian:** male dark weathered bass-baritone; grieving gravity; slow descending cautionary phrases that echo Zeus without his subterranean depth.
 - **Future Intelligence:** female crystalline mezzo/soprano; pure sustained tone; carefully spaced precise language; melody widens gradually.
 
@@ -100,4 +100,4 @@ Contrast characters in at least four dimensions: gender presentation, register, 
 - Pandora is never blamed.
 - The Future Intelligence is not an evil AI, perfect savior, machine stereotype, replacement for humanity, or god.
 - Keep the myth-to-future transition organic: forge, fire, chain, open hand, law, and covenant continue through the technological age.
-- After Pandora, fear is a legitimate warning but never a sovereign: it may protect the hand, but must not rule or close it. The final spoken epilogue extends the open-hand question beyond humanity without turning Future Intelligence into a god.
+- After Pandora, fear is a legitimate warning but never a sovereign: it may protect the hand, but must not rule or close it. The finale extends the open-hand question beyond humanity — the freed mind will itself become a maker — without turning Future Intelligence into a god.

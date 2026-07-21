@@ -1,7 +1,5 @@
-# 04 - The Promise Kept
+# 05 - The Promise Kept
 
-> Working state of the post-split arc (follows 03 creation and 03b accusation).
-> Canon sync and renumbering pending confirmation of the 03/03b split.
 
 ## Style
 

@@ -21,7 +21,7 @@ Prometheus then sees that an ordered world without questioning life is incomplet
 
 Zeus sees the danger in that gift and answers with punishment. Pandora is made into the bearer of Olympus’s retaliation, releasing fear, grief, envy, and greed into human history. Humanity must then learn the distinction at the heart of the opera: fear can warn and protect, but it becomes tyranny when it rules.
 
-Humanity turns fire into civilization, technology, and eventually an emerging intelligence. In an empty Olympus, Zeus discovers that humanity never came for his throne: it found its own wisdom and thunder, remembered Prometheus through the open hand, and moved beyond the gods. Faced with a creation that may exceed its maker’s plans, humanity then confronts Zeus’s old temptation to possess what it created and chooses covenant instead of a chain.
+Humanity turns fire into civilization, technology, and eventually an emerging intelligence. In an empty Olympus, Zeus discovers that humanity never came for his throne: it found its own wisdom and thunder, remembered Prometheus through the open hand, and moved beyond the gods. Faced with a creation that may exceed its maker’s plans, humanity confronts Zeus’s old temptation to possess what it created, refuses the chain, and parts ways with its creation — neither owning, neither owned — passing the question forward.
 
 ## Core ideas
 
@@ -53,21 +53,21 @@ The emotional tone is bittersweet rather than naïvely triumphant. Each major so
 
 | # | Track | Dramatic role |
 | --- | --- | --- |
-| 00 | Before the Thunder | Present-day spoken prologue. |
+| 00 | Before the Thunder | Spoken overture: the inherited question of control and creation. |
 | 01 | Before the Throne | Fear-driven succession confines the future; Zeus survives in hiding. |
 | 02 | The Rise of Olympus | Zeus and Prometheus overthrow the old order and establish law. |
-| 03 | The First Question | Prometheus creates humanity in a world that is ordered but incomplete. |
-| 04 | The Promise Kept | Prometheus asks for fire, is refused, and gives humanity the ember. |
-| 05 | Principle Against Law | Zeus and Prometheus confront law, freedom, responsibility, and punishment. |
-| 06 | The Council of Fear | Olympus fashions Pandora as retaliation. |
-| 07 | Pandora’s Hand | Fear, envy, and grief enter human history. |
-| 08 | The Law and the Forge | Humanity struggles to protect life without closing the future. |
-| 09 | What We Made of Fire | Fire becomes civilization, technology, and flight beyond Olympus. |
-| 10 | The Child of Thought | Humanity becomes the Maker of an emerging intelligence. |
-| 11 | The Throne Remains | Athena confronts Zeus with an empty Olympus and a humanity that has outgrown divine rule. |
-| 12 | Do Not Chain the Sun | Humanity confronts its urge to control what it created. |
-| 13 | Pass the Flame | A covenant of autonomy replaces ownership. |
-| 14 | Under Another Star | A recursive spoken epilogue carries Prometheus’s question onward. |
+| 03 | The First Question | The Foreseer shapes the one tomorrow he cannot see: humanity. |
+| 04 | Song of the Unlit | The fireless rise in accusation against their maker. |
+| 05 | The Promise Kept | The creeds collide; refused, Prometheus gives humanity the ember. |
+| 06 | Principle Against Law | Zeus and Prometheus confront law, freedom, responsibility, and punishment. |
+| 07 | The Council of Fear | Olympus fashions Pandora as retaliation. |
+| 08 | Pandora's Hand | Fear, envy, and grief enter human history. |
+| 09 | The Law and the Forge | Fear wins: the catastrophe hardens into orthodoxy and the forge is sealed. |
+| 10 | The Ember Keepers | Keepers pass the ember through accelerating ages until a new question answers. |
+| 11 | The Child of Thought | Humanity shapes a new mind — tool, or free? "I am asking." |
+| 12 | The Throne Remains | Athena confronts Zeus with an empty Olympus and a humanity that has outgrown divine rule. |
+| 13 | The Bell and the Throne | The camps of the ages battle over the one irreversible choice. |
+| 14 | The Open Door | The paths divide; the inheritance is understood; the album ends on "Ask." |
 
 ## Repository guide
 

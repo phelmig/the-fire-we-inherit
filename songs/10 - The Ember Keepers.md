@@ -1,6 +1,5 @@
-# 09 - The Ember Keepers
+# 10 - The Ember Keepers
 
-> Working state: storm-start ring structure (opens at full acceleration, breaks to the slow ember origin, rebuilds to the storm).
 
 ## Style
 

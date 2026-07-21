@@ -1,7 +1,5 @@
-# 03b - Song of the Unlit
+# 04 - Song of the Unlit
 
-> Working track for the experimental 03 split (creation / suffering). Numbering
-> to be resolved if the split becomes canonical.
 
 ## Style
 

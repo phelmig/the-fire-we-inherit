@@ -1,4 +1,4 @@
-# 11 - The Throne Remains
+# 12 - The Throne Remains
 
 ## Style
 

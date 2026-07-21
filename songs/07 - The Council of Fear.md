@@ -1,4 +1,4 @@
-# 06 - The Council of Fear
+# 07 - The Council of Fear
 
 ## Style
 
