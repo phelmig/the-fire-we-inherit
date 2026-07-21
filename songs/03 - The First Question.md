@@ -1,178 +1,129 @@
 # 03 - The First Question
 
+> Working state of the experimental 03 split (creation half; suffering lives in
+> 03b). Numbering and canon to be settled once the split is confirmed.
+
 ## Style
 
 ```text
-Luminous dark neo-classical symphonic metal creation hymn, 76 BPM, D minor opening toward F major.
-Soft heartbeat drum, piano, solo cello, harp, ascending violins, cathedral organ, distant mixed choir, restrained brass.
-Verses: tender, still, full of wonder.
-Final refrain: erupts into vast heavy symphonic metal, the ascending violin theme doubled by overdriven electric lead guitar over full choir and timpani.
-Grandeur of first awakening.
-Cinematic studio quality, professional mastering, warm string detail, wide dynamic range from hush to eruption.
+Epic mythical neo-classical symphonic metal creation scene, 98 BPM, D minor opening into F major wonder.
+Voices: exactly three — one lone bright lyric tenor as the maker: commanding, declarative, powerful chest voice, never soft; one warm female voice awakening only at the radiant bloom as the made; one cold exact female narrator; no other singers.
+Wet clay and river water; piano, harp, solo cello, ascending violins, soft heartbeat drum, distant organ, sub-bass swells.
+The making: begins delicate — plucked strings and harp as working hands — then swells into world-shaping force: timpani, low brass, surging strings, riff-driven distorted electric rhythm guitars underneath.
+The awakening: a vast radiant bloom — the female voice lifted by full choir, bells, and orchestra at cathedral scale; wonder, never cheap triumph.
+Ending: the light dims — first night falls, cold strings gather, distant murmurs rise.
+Epic studio quality, professional mastering, massive dynamic range, deep low end.
 ```
 
 ## Lyrics
 
 ```text
-[Soft heartbeat drum. Water over stone. Wet clay turns in an open hand.]
+[Wet clay turns inside an open hand. Water over stone. A soft heartbeat drum.]
 
 [ATHENA — Female icy contralto, exact and reverent]
 The war was ended.
 The sky held fast.
-The sea knew shore.
-The storms had passed.
+The world stood ordered,
+silent, vast.
 
-The earth was fertile.
-The rivers ran.
-But no voice asked
-what all this meant.
+[PROMETHEUS — Male bright high lyric tenor, heavy with sight, iron resolve beneath]
+I am the Foreseer.
+I see what comes.
 
-[PROMETHEUS — Male bright high lyric tenor, clear and thoughtful]
-I saw the empty world below.
-I saw the fields, the stars, the rain.
+And I have seen every tomorrow
+of this finished world—
 
-A thousand wonders
-waited there—
-
-but no one knew
-their names.
+they are all
+the same day.
 
 The world was finished.
-
 But not complete.
 
-[ATHENA — Female icy contralto]
-So Prometheus knelt
-beside the river clay.
+The mountains will not wonder.
+The rivers will not ask.
+And the gods—
+the gods ask only
+whose.
 
-[PROMETHEUS — Male bright high lyric tenor]
-Not for a throne.
-Not for a prayer.
+Whose throne. Whose sky.
+Whose law. Whose flame.
+Ten years of thunder
+for a name.
 
-Because the earth lay open—
+[PROMETHEUS — Male bright high lyric tenor, decisive, declaring his purpose]
+But down there, by the river,
+the clay lies open.
 
-and I could make it speak.
+I will shape the one tomorrow
+I cannot see.
 
-[Instrumental: harp and cello. Hands shape clay.]
+A mind that is not mine.
+A will that is not written.
+A question
+with no answer waiting.
 
-[PROMETHEUS — Male bright high lyric tenor]
+[The hands work. Harp and plucked strings — the sound of making.]
+
+[PROMETHEUS — Male bright high lyric tenor, sovereign and precise, a maker certain of his craft]
 From river clay
-I shaped your hands.
-
-I gave you eyes
+I shape your hands.
+I give you eyes
 for dawn.
-
-I gave you thought
+I give you thought
 to meet the world—
-
 and ask the world
 why.
 
-[HUMANITY — Female intimate alto, breathy and newly awake]
-What is this cold
-upon my skin?
+[A radiant swell. The first breath.]
 
-What is this sound
-inside?
+[HUMANITY — Female intimate alto, breathy and newly awake, wondering]
+Light…
+moving through the leaves.
 
-Why does the light
-move through the leaves?
+Sound…
+inside of me.
 
-Why does the dark
-feel wide?
+Who are you,
+bright one?
 
-[PROMETHEUS — Male bright high lyric tenor]
-Because you are
-the first question
+[PROMETHEUS — Male bright high lyric tenor, warm but firm]
+Your maker—
+and no more your master
+than the river is.
 
-the silent earth
-has known.
+[HUMANITY — Female intimate alto, clearer — the first question]
+Then tell us, maker—
+
+what will we become?
+
+[Silence. One heartbeat.]
+
+[PROMETHEUS — Male bright high lyric tenor, powerful triumphant wonder, proclaiming]
+I do not know!
+
+I—who have seen
+every ending—
+
+I do not know!
+
+At last, at last—
+a tomorrow
+no eye has read!
 
 You are not finished.
 You are becoming.
-
 I cannot choose
 what you become.
 
-[REFRAIN — Tenor and alto, choir beneath]
-From silence—
-a question.
-
-From question—
-a name.
-
-From dust—
-a living hand
-
-reaching toward the day.
+[ATHENA — Female icy contralto, quietly sealing it]
+So the Foreseer made
+the one tomorrow
+no eye could read.
 
 The world was finished.
 
-But not complete.
+Now it was
+begun.
 
-Now it has eyes
-to see.
-
-[HUMANITY CHOIR — Mixed choir, growing]
-See.
-Ask.
-Reach.
-Become.
-
-[HUMANITY — Female intimate alto, clearer]
-Will I know
-what I should be?
-
-Will every road
-be shown?
-
-[PROMETHEUS — Male bright high lyric tenor]
-No road is certain.
-No life is safe.
-
-No maker gives
-a finished fate.
-
-[HUMANITY — Female intimate alto]
-Then why create
-what fear can break?
-
-[PROMETHEUS — Male bright high lyric tenor, quiet]
-Because the answer
-must be made.
-
-[REFRAIN — Full orchestra and mixed choir]
-From silence—
-a question.
-
-From question—
-a name.
-
-From dust—
-a living hand
-
-reaching toward the day.
-
-The world was finished.
-
-But not complete.
-
-Now it has eyes
-to see.
-
-[Breakdown: only cello and a distant wind.]
-
-[HUMANITY — Female intimate alto]
-I have the cold.
-
-I have the dark.
-
-[PROMETHEUS — Male bright high lyric tenor]
-A mind I bring to life
-must have a world to know.
-
-I will not give you questions
-then close the world away.
-
-[Outro: one small unlit hearth. Distant organ.]
+[The first night falls on the newly awake. The cold gathers. Far off, voices begin to murmur.]
 ```

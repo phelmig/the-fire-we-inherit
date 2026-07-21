@@ -1,56 +1,32 @@
 # 04 - The Promise Kept
 
+> Working state of the post-split arc (follows 03 creation and 03b accusation).
+> Canon sync and renumbering pending confirmation of the 03/03b split.
+
 ## Style
 
 ```text
-Wintry dark neo-classical symphonic power metal, 92 BPM, E minor.
-Winter wind, piano, cello, distant organ growing into ascending violin, sacred choir, anvil pulse, riff-driven distorted electric rhythm guitars, brass, driving double-kick.
-Verses: intimate moral dialogue, restrained.
-Theft scene: quiet, ritual, held breath.
-Awakening: radiant and elemental — cut short by descending thunder.
-Epic studio quality, professional mastering, punchy drums, clear string detail, wide choir.
+Neo-classical symphonic power metal duel of two sound-worlds, 92 BPM, E minor.
+Voices: one subterranean bass as the king; one bright commanding tenor as the maker; humanity's voices dark and distant until the gift ignites them warm; no other singers.
+The king's world: half-time rigid march, cathedral organ, low brass, vast cavernous space, descending phrases that always resolve.
+The maker's world: driving double-time, ascending solo violin and overdriven electric lead guitar, close and dry, surging ahead of the beat, phrases that never resolve.
+The arrangement flips entirely with each speaker; the cuts grow harder and the exchanges shorter as the duel escalates.
+The refusal: the king's world seizes everything, immense and rigid. The theft: in that silence, one ember.
+The gift: the maker's world erupts — the dark voices ignite into a radiant warm choir over double-kick.
+Ending: cut short by descending thunder, compact.
+Epic studio quality, stark contrast between worlds.
 ```
 
 ## Lyrics
 
 ```text
-[Winter wind through an unlit shelter.]
+[Intro][HUMANITY CHORUS — Distant murmur far below, fading on the wind]
+…no spark… no spark…
 
-[ATHENA — Female icy contralto, measured and mournful]
-The world was ordered.
-The world was named.
+[PROMETHEUS — High melodic tenor, fully sung, ringing, climbing, resolved]
+I hear them still.
+Their cold is in my hands.
 
-But winter entered
-every open frame.
-
-No hearth against the cold.
-No lamp against the night.
-No bread from grain.
-No metal from stone.
-
-The living question
-had no light.
-
-[HUMANITY — Female intimate alto, fragile and direct]
-I have hands
-that cannot warm
-the child beside me
-through the storm.
-
-I have eyes
-that dream of dawn.
-
-Why give me sight
-if night goes on?
-
-[PROMETHEUS — Male bright high lyric tenor, tender and ascending]
-I will not give you questions
-then close the world away.
-
-I will not call creation finished
-while its children freeze and pray.
-
-[PROMETHEUS — Male bright high lyric tenor, formal and restrained]
 Zeus—
 
 one flame
@@ -59,50 +35,67 @@ for the clay below.
 Let mortal hands
 learn what hands may know.
 
-[ZEUS — Male subterranean basso profundo, slow and immovable]
+[ZEUS — Deep male voice, fully spoken, cold gravel, slow and immovable]
+No! -
+I broke a gate once.
+Ten years of fire followed.
+I buried kin
+in the ash of that opening.
+
 A spark becomes a forge.
 A forge becomes a sword.
-
 The hand that learns to shelter
 learns conquest with the same reward.
 
-Let wisdom come before the flame.
-Let duty govern choice.
+Control must come before creation.
+Wisdom before the flame.
+
+[PROMETHEUS — High melodic tenor, fully sung, ringing, pressing]
+They asked me in the dark:
+why make a mind
+and starve it of light?
+
+I had no answer.
+
+Now the question
+is yours, my king.
+
+[ZEUS — Deep male voice, fully spoken, cold gravel, colder]
+Behind every dawn I seal
+I see the dawn that burned us.
 
 I will not arm an unfinished mind
 and call its hunger voice.
 
-[PROMETHEUS — Male bright high lyric tenor, urgent but controlled]
-How will wisdom learn its weight
-with nothing real to bear?
+[PROMETHEUS — High melodic tenor, fully sung, ringing, rising]
+You sang it on the mountain:
+a gate that guards the living
+must still know how to open.
 
-How will duty grow in hands
-kept empty by your care?
+Creation begins
+where control must end.
 
-Teach the cost.
-Name every wound.
-But do not make their darkness law.
+[ZEUS — Deep male voice, fully spoken, cold gravel, final and descending]
+I sang it of the born—
+not of what fire will make of them.
 
-[ZEUS — Male subterranean basso profundo, final and descending]
+Control comes first.
+
 The fire remains
 upon the guarded height.
 
-[Silence. A distant eagle circles.]
+[The eagle cries again. Silence on the mountain.]
 
-[ATHENA — Female icy contralto, quiet and exact]
-The Foreseer saw
-the mountain.
+[PROMETHEUS — High melodic tenor, fully sung, ringing, quiet, then unwavering]
+I know that cry.
 
-He saw the chain.
-He saw the eagle
+I have seen the mountain.
+I have seen the chain.
+I have seen those wings
 turning through the rain.
 
-[PROMETHEUS — Male bright high lyric tenor, almost whispered]
 I know the price.
 
-[One dry fennel stalk catches fire.]
-
-[PROMETHEUS — Male bright high lyric tenor, reverent and unwavering]
 No army.
 No banner.
 No hunger for a crown.
@@ -112,34 +105,36 @@ carried downward
 where the dark
 had settled down.
 
-[HUMANITY — Female intimate alto, breathless with wonder]
+[One dry fennel stalk catches fire. The dark chant stirs below.]
+
+[HUMANITY — A single warm female voice, breaking out of the dark, breathless]
 Warmth.
 
-[HUMANITY CHOIR — Mixed choir, gathering from whispers]
+[HUMANITY CHOIR — The dark voices igniting into warm living song, ascending]
 Light.
 Bread.
 Iron.
 Home.
 
-[Full orchestra rises with the first hearth.]
+The night has teeth—
+but so does the flame!
+The frost has hands—
+and now, so do we!
 
-[PROMETHEUS — Male bright high lyric tenor, soaring above choir]
+[PROMETHEUS — High melodic tenor, fully sung, ringing, soaring above the choir]
 I gave them hands
 to shape the world.
-
 I gave them eyes
 for dawn.
 
 If they cannot choose
 their fate,
-
 why were they
 born at all?
 
-[HUMANITY CHOIR — Massive mixed choir, awakened and ascending]
+[HUMANITY CHOIR — Massive warm mixed choir, awakened]
 No hand was made
 for chains!
-
 No mind was made
 to kneel!
 
@@ -148,9 +143,9 @@ from darkness into flame!
 
 [The music cuts to low organ and distant thunder.]
 
-[ZEUS — Male subterranean basso profundo, far above, stunned and darkening]
+[ZEUS — Deep male voice, fully spoken, cold gravel, far above, stunned and darkening]
 What light
 burns below?
 
-[One mortal hearth continues beneath the storm.]
+[End](One mortal hearth beneath the gathering storm. Distant thunder.)
 ```
