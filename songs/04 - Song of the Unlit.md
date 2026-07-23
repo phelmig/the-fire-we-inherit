@@ -77,5 +77,9 @@ We have no spark! [anvil strike]
 Then I will not give you questions
 and close the world away.
 
+[HUMANITY CHORUS — The murmur returning, faint, following him into the dark]
+…no spark…
+…no spark…
+
 [End](Eagle Cry)
 ```

@@ -4,21 +4,24 @@
 
 ```text
 Neo-Classical Symphonic Power Metal Duel Of Two Sound-Worlds, 92 Bpm, E Minor.
+Opening: The Accusation's Dying Murmur On Cold Wind Over A Lone Drone — The Maker's World Builds With His Climb.
 Voices: One Subterranean Bass As The King; One Bright Commanding Tenor As The Maker; Humanity's Voices Dark And Distant Until The Gift Ignites Them Warm; No Other Singers.
-The King's World: Half-Time Rigid March, Cathedral Organ, Low Brass, Vast Cavernous Space, Descending Phrases That Always Resolve.
-The Maker's World: Driving Double-Time, Ascending Solo Violin And Overdriven Electric Lead Guitar, Close And Dry, Surging Ahead Of The Beat, Phrases That Never Resolve.
-The Arrangement Flips Entirely With Each Speaker; The Cuts Grow Harder And The Exchanges Shorter As The Duel Escalates.
-The Refusal: The King's World Seizes Everything, Immense And Rigid. The Theft: In That Silence, One Ember.
+The King's World: Half-Time Rigid March, Cathedral Organ, Low Brass, Cavernous, Descending Phrases That Always Resolve.
+The Maker's World: Driving Double-Time, Ascending Violin And Overdriven Electric Lead Guitar, Close And Dry, Phrases That Never Resolve.
+The Arrangement Flips Entirely With Each Speaker, The Exchanges Shortening As The Duel Escalates.
+The Refusal: The King's World Seizes Everything. The Theft: In That Silence, One Ember.
 The Gift: The Maker's World Erupts — The Dark Voices Ignite Into A Radiant Warm Choir Over Double-Kick.
 Ending: Cut Short By Descending Thunder, Compact.
-Epic Studio Quality, Stark Contrast Between Worlds.
+Epic Studio Quality, Stark Contrast.
 ```
 
 ## Lyrics
 
 ```text
-[Intro][HUMANITY CHORUS — Distant murmur far below, fading on the wind]
+[Intro: the valley's murmur still hangs on the cold wind][HUMANITY CHORUS — Distant murmur far below, fading]
 …no spark… no spark…
+
+[The maker's world begins to build — a slow climb, step by step.]
 
 [PROMETHEUS — High melodic tenor, fully sung, ringing, climbing, resolved]
 I hear them still.
