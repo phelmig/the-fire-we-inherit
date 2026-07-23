@@ -92,3 +92,7 @@ The emotional tone is bittersweet rather than naïvely triumphant. Each major so
 Fire is knowledge, craft, imagination, autonomy, and destructive power. It is never innocent, but neither is uncertainty a reason to build chains.
 
 The album’s moral arc moves from Zeus’s fear of what humanity might become to humanity’s choice not to repeat that fear when it becomes a creator itself.
+
+## License
+
+Lyrics, story, and documentation are licensed under [CC BY 4.0](LICENSE.md) — share and adapt freely, with attribution.
