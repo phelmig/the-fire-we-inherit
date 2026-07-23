@@ -45,6 +45,14 @@ Humanity turns fire into civilization, technology, and eventually an emerging in
 | Hearth / forge / engine | The same creative force moving from shelter to civilization to the stars. |
 | Bell / storm | Fear and danger: real signals that become destructive when turned into permanent rule. |
 
+## Stylistic versions
+
+The album exists in multiple unified sound identities, sharing one set of lyrics and one story canon (see `versions/`):
+
+- **Epic Metal** — one heavy symphonic power-metal opera on a shared stage: riff-driven guitars, double-kick, war drums, organ, and massed choirs on every track.
+- **Neo-Classical** — a cinematic orchestral epic in the Two Steps From Hell register: string ostinatos, full orchestra, taiko, choirs; electric guitars only as dark shading.
+- **Original** — the heterogeneous development styles, each track scored individually for its dramatic moment; preserved as reference.
+
 ## Musical language
 
 The sound is dark symphonic and neo-classical power metal: cathedral organ, bells, low brass, strings, choirs, anvil and chain percussion, double-kick momentum, and recurring violin lines. Ancient myth gradually becomes industrial and cosmic without abandoning the original sonic world: forge rhythm becomes pistons and turbines; sacred organ and choral weight remain present alongside crystalline, future-facing textures.
