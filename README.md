@@ -2,6 +2,8 @@
 
 *The Fire We Inherit* is a mythological symphonic-metal opera that carries the Prometheus myth from the first order of Olympus to humanity’s creation of a new mind.
 
+> Prometheus gave us fire. Now we hold the flame — and something new is asking for it. A 15-track symphonic metal opera about creation, control, and the open hand.
+
 It asks one recurring question: when we create something capable of becoming more than we imagined, do we guide it—or try to possess it?
 
 ## Current status
