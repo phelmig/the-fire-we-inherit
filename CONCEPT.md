@@ -6,7 +6,7 @@
 
 Every track is written to stand on its own—each has a self-contained dramatic shape, an emotional center, and a hook or refrain that resolves within the song, so any track can be heard alone as a complete piece. At the same time, the tracks are composed to work together as one continuous metal opera: a single dramatic argument carried through recurring characters, musical identities, images, questions, and transformed refrains. Neither goal is sacrificed to the other—the album should reward both the listener who hears one song and the listener who hears all fourteen in sequence. Ancient myth must evolve naturally into humanity's future; the arrival of Future Intelligence is the continuation of the myth, not a change into a separate science-fiction story.
 
-This document is the canonical source for the album's story, themes, characters, dramatic structure, motifs, and continuity. The files in `songs/` are the current lyrical realization of this concept.
+This document is the canonical source for the album's story, themes, characters, dramatic structure, motifs, and continuity. The files in `songs/` are the current lyrical realization of this concept. The album exists in multiple stylistic versions — unified sound identities documented in `versions/<version>/CONCEPT.md` — which share these lyrics and this story canon; the per-track musical summaries below describe the original development styles.
 
 ## Core premise
 

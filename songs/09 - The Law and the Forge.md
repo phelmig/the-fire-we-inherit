@@ -1,18 +1,5 @@
 # 09 - The Law and the Forge
 
-## Style
-
-```text
-Somber symphonic metal bridge growing into heavy oppressive power metal, 76 BPM accelerating toward 116 BPM, E minor.
-Broken bells, piano, cello, low organ, slow toms and wind, then anvils, rising strings, riff-driven distorted electric rhythm guitars, brass, mechanical percussion, relentless double-kick.
-Opening: mournful, quiet.
-Build: the machinery grows colder and more relentless as it accelerates.
-Litany choir: rigid, chanted, cutting off a bright urgent tenor.
-Climax: vast and oppressive, not triumphant.
-Ending: sudden emptiness — wind over a cold forge, one faint ember pulse.
-Heavy studio quality, professional mastering, mechanical precision, tight low end.
-```
-
 ## Lyrics
 
 ```text

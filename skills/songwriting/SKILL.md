@@ -15,7 +15,7 @@ Track 09 shows fear winning: the catastrophe hardens into orthodoxy and the forg
 
 ## File format
 
-Each song file contains a title heading, a `Style` code block, and a `Lyrics` code block. Use consecutive two-digit play order from `00` through `14` in both filename and title. Do not use letter suffixes.
+Each song file in `songs/` contains a title heading and a `Lyrics` code block — lyrics are the single source of truth across all stylistic versions. Styles live in `versions/<version>/styles/NN.txt`, one file per track per version, with each version's sound identity documented in `versions/<version>/CONCEPT.md`. Use consecutive two-digit play order from `00` through `14` in filename and title. Do not use letter suffixes.
 
 ## Generation
 

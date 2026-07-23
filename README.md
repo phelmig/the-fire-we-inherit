@@ -74,7 +74,8 @@ The emotional tone is bittersweet rather than naïvely triumphant. Each major so
 ## Repository guide
 
 - `CONCEPT.md` — complete album canon: story, themes, character arcs, track roles, patterns, motifs, and continuity.
-- `songs/` — current song drafts, each with a style prompt and lyrics.
+- `songs/` — canonical lyrics for each track (single source across all stylistic versions).
+- `versions/` — stylistic versions of the album (`epic-metal`, `neo-classical`, `original`), each with its own `CONCEPT.md` and one style prompt per track.
 - `AGENTS.md` — project-wide working rules.
 - `skills/songwriting/SKILL.md` — writing and validation workflow.
 

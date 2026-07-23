@@ -2,15 +2,17 @@
 
 ## Source of truth
 
-`CONCEPT.md` is the canonical source for the album's story, themes, characters, dramatic structure, motifs, and continuity. `songs/` contains the current approved draft for each track. `skills/songwriting/SKILL.md` defines the drafting and validation process. The workspace-level `sources/` directory is reference-only and must never be edited.
+`CONCEPT.md` is the canonical source for the album's story, themes, characters, dramatic structure, motifs, and continuity. `songs/` contains the current approved lyrics for each track — the single source of lyric truth across all stylistic versions. `versions/<version>/` holds one style per track (`styles/NN.txt`) plus a version `CONCEPT.md` describing that version's sound identity; current versions are `epic-metal`, `neo-classical`, and `original` (the heterogeneous development styles). `skills/songwriting/SKILL.md` defines the drafting and validation process. The workspace-level `sources/` directory is reference-only and must never be edited.
 
 ## Song output
 
 Unless the user asks otherwise, return only:
 
 1. Play-order title in the form `00 - Title`
-2. One concise Suno style code block
+2. One concise Suno style code block (from the target stylistic version)
 3. One complete lyrics code block
+
+Song files in `songs/` contain lyrics only; styles are edited in `versions/<version>/styles/NN.txt`.
 
 Song lyrics, including labels and performance directions, must remain below 5,000 characters. Target roughly 1,800–3,000 characters for fast Suno iteration.
 
@@ -33,6 +35,8 @@ Never block on generation: do not pass `--wait`. Start the generation, report th
 When generating multiple songs in one batch, add a random 3–6 second delay between successive `suno generate` calls (e.g. `sleep $((RANDOM % 4 + 3))`) to avoid rate limiting and flaky API behavior.
 
 After every `suno generate` run (including each iteration of a batch), kill the Chrome instance suno opened for captcha solving — a stale reused instance causes failures. Identify it by its profile-directory argument: `pkill -f "com.suno-cli.suno-cli/chrome-profile" 2>/dev/null || true`. Never kill Chrome processes that do not match this pattern.
+
+Every generation targets a stylistic version: take the style from `versions/<version>/styles/NN.txt` and the lyrics from `songs/NN - Title.md`. When comparing versions, prefix the title with the version (`[EPIC]`, `[NEO]`); when generating the chosen album version, use the plain title.
 
 Default generation parameters unless the user says otherwise: `--model v5.5 --style-influence 95 --weirdness 35`.
 

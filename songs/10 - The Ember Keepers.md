@@ -1,16 +1,5 @@
 # 10 - The Ember Keepers
 
-## Style
-
-```text
-Aggressive epic progressive symphonic power metal, 128 BPM, A minor with bright C major openings.
-A dark female narration drives the song, accelerating with the music.
-Opens at full storm — accelerating narration, urgent whispers, and a frantic massed chant — then breaks off to a slow hidden ember and rebuilds, each cycle faster than the last, until the storm returns.
-Riff-driven distorted electric rhythm guitars, industrial forge percussion, pistons, relentless mechanical double-kick, pipe organ, brass, colossal gang chorus.
-Finale: a frantic blur cut off mid-phrase into silence and one pure crystalline tone.
-Epic studio quality, professional mastering, punchy drums, industrial clarity.
-```
-
 ## Lyrics
 
 ```text

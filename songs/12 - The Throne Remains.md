@@ -1,17 +1,5 @@
 # 12 - The Throne Remains
 
-## Style
-
-```text
-Dark sacred symphonic-metal elegy, free breathing rubato around 72 BPM, E minor.
-Empty-cathedral pipe organ, isolated church bells, low brass, bowed basses, cold strings, sparse timpani, distant wordless choir like fading prayers.
-Dialogue: intimate two-voice philosophical exchange, unhurried.
-Refrain: monumental, restrained, no triumphant resolution.
-Thunder gradually answered by industrial rocket rumble and a crystalline pulse.
-Ending: a chain sound and one unresolved crystalline tone.
-Sacred studio quality, professional mastering, vast controlled space, deep organ foundation.
-```
-
 ## Lyrics
 
 ```text

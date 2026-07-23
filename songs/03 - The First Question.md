@@ -1,17 +1,5 @@
 # 03 - The First Question
 
-## Style
-
-```text
-Epic Mythical Neo-Classical Symphonic Metal Creation Scene, 98 Bpm, D Minor Opening Into F Major Wonder.
-Voices: Three — One Lone Bright Lyric Tenor As The Prometheus: Commanding, Declarative, Powerful Chest Voice, Never Soft; One Warm Female Voice Awakening Only At The Radiant Bloom As Humanity; One Cold Exact Female Athena Narrates; No Other Singers.
-Wet Clay, River Water; Piano, Harp, Solo Cello, Ascending Violins, Soft Heartbeat Drum, Distant Organ, Sub-Bass Swells.
-The Making: Begins Delicate — Plucked Strings And Harp As Working Hands — Then Swells Into World-Shaping Force: Timpani, Low Brass, Surging Strings, Riff-Driven Distorted Electric Rhythm Guitars Underneath.
-The Awakening: A Vast Radiant Bloom — The Female Voice Lifted By Full Choir, Bells, And Orchestra At Cathedral Scale; Wonder, Never Cheap Triumph.
-Ending: The Light Dims — First Night Falls, Cold Strings Gather, Distant Murmurs Rise.
-Epic Studio Quality, Professional Mastering, Massive Dynamic Range, Deep Low End.
-```
-
 ## Lyrics
 
 ```text
