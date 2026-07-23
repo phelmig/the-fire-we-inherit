@@ -28,7 +28,7 @@ To keep intros compact, fuse a structural `[Intro]` tag directly onto the first 
 
 ## Generating audio
 
-Use the `suno` skill (the `suno` CLI) to generate songs on Suno. Never download generated songs unless the user explicitly asks — generate without `--download` and only report clip IDs and URLs.
+Use the `suno` skill — the [suno-cli](https://github.com/paperfoot/suno-cli) tool — to generate songs on Suno. Never download generated songs unless the user explicitly asks — generate without `--download` and only report clip IDs and URLs.
 
 Never block on generation: do not pass `--wait`. Start the generation, report the clip IDs and URLs immediately, and let the user monitor progress themselves.
 
@@ -70,6 +70,10 @@ Validated on tracks 03/04/06/10/11: standard structural tags dramatically improv
 - Purely musical brackets use parameterized colon syntax: `[Breakdown: silence, the crowd breathes]`, `[Instrumental Break: harp and plucked strings]`.
 - Repeat chorus text verbatim to get a true melodic refrain — but only when the refrain is self-contained. Lines that answer specific preceding dialogue (retorts) must not recur; repeat only the universal core of the refrain.
 - For long single-voice passages, repeating the full voice label before each stanza improves voice stability.
+
+## Commits
+
+Do not include Claude session links (`Claude-Session:` trailers) in commit messages.
 
 ## Concept-first workflow
 

@@ -87,6 +87,10 @@ The emotional tone is bittersweet rather than naïvely triumphant. Each major so
 - `AGENTS.md` — project-wide working rules.
 - `skills/songwriting/SKILL.md` — writing and validation workflow.
 
+## Generation tooling
+
+Audio is generated on [Suno](https://suno.com) and automated from the terminal with [suno-cli](https://github.com/paperfoot/suno-cli), which drives the full pipeline: style + lyrics submission, model/parameter control (style influence, weirdness, exclude lists), and batch generation of album versions.
+
 ## Core idea
 
 Fire is knowledge, craft, imagination, autonomy, and destructive power. It is never innocent, but neither is uncertainty a reason to build chains.
