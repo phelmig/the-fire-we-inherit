@@ -40,7 +40,7 @@ After every `suno generate` run (including each iteration of a batch), kill the 
 
 Every generation targets a stylistic version: take the style from `versions/<version>/styles/NN.txt` and the lyrics from `songs/NN - Title.md`. When comparing versions, prefix the title with the version (`[EPIC]`, `[NEO]`); when generating the chosen album version, use the plain title.
 
-Default generation parameters unless the user says otherwise: `--model v5.5 --style-influence 95 --weirdness 35`.
+Default generation parameters unless the user says otherwise: `--model v5.5 --style-influence 95 --weirdness 35`. Versions may define their own per-track parameters and exclude lists (e.g. `versions/<version>/GENERATION.md`); when present, those take precedence over the defaults here.
 
 For complex songs with multiple voices (three or more distinct singers, opposed choruses, or heavy dialogue), use `--weirdness 15 --style-influence 95` instead — lower weirdness keeps the voice casting and structure stable.
 

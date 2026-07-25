@@ -60,12 +60,12 @@ phrases, not through the canon tempo/key map.
 
 ## Generation
 
-`--style-influence 95 --weirdness 15` for all tracks.
-- **Anthem tracks** exclude: `pop, soft rock, acoustic guitar, nylon-string
-  guitar, folk, Irish folk, celtic, folk metal, fiddle, tin whistle,
-  bagpipes, accordion, flute, EDM, opera` — guards against folk/celtic drift.
-- **Ballad tracks** exclude only: `pop, EDM, opera` — pipes and quiet colors
-  are allowed there by design.
+Per-track parameters live in `GENERATION.md`. This version runs at high
+weirdness (40–60, style influence 95) — the single-lead-plus-choir cast
+tolerates it and gains character from it. Exclude lists are per track:
+anti-folk ARMOR on anthems, light BALLAD set on quiet chapters, and
+deliberately opened pipe clusters where a track sanctions pipes (08
+breakdown, 14 finale).
 
 Style prompts and lyrics must never reference band or artist names.
 
