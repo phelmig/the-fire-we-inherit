@@ -33,7 +33,7 @@ escalate to ARMOR only if drift actually appears.
 | 08 | 55 | 95 | PIPES-OPEN | uilleann pipes validated: breakdown lament + final chorus |
 | 09 | 45 | 95 | ARMOR | |
 | 10 | 50 | 95 | MINIMAL | accelerating relay |
-| 11 | 40 | 95 | MINIMAL | synth hymn |
+| 11 | 40 | 95 | `pop` only | synth-violin mirror ballad; EDM allowed for the processed voice |
 | 12 | 40 | 95 | MINIMAL | doom-march elegy, second Zeus lead |
 | 13 | 50 | 95 | MINIMAL | dueling choirs |
 | 14 | 40 | 95 | MINIMAL | uilleann pipes finale, FI last word |

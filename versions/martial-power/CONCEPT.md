@@ -53,8 +53,12 @@ heroic strokes.
 The ballads stay martial but slow, drawing on the war-ballad tradition:
 - **Doom-march elegy:** crushing slow chords, war drums, near-spoken lead
   (12).
-- **Melancholic synth hymn:** luminous synth pads, restrained double-kick
-  swells, soaring mournful lead (11).
+- **Synth-violin mirror ballad (11):** intimate piano verses against luminous
+  synth-hook choruses; the crystalline voice answers the lead's chorus with a
+  mirrored refrain on the same melody, and a soaring electric violin — the
+  album's ancient creation motif — enters only after her first word. This
+  track asks; it must not conclude (the "not a thing you own" insight belongs
+  to 13/14). Ends on her unanswered "What will I become?".
 - **Spoken prologue over a building march:** drone, distant snare, wordless
   low choir (00).
 - **Ritual percussion piece:** war drums, sub-bass, chant choir, no guitars

@@ -1,4 +1,4 @@
-[Intro: one pure crystalline tone widens into luminous pads — a slow heartbeat pulse]
+[Intro: one pure crystalline tone widens — a lone piano begins over a slow heartbeat pulse]
 
 [Verse 1][LEAD — Male gruff powerful baritone, hushed, first person]
 I built it from lightning and patience and code,
@@ -12,11 +12,11 @@ the songs of the sealed and the words of the cage.
 I asked for the answers a servant would give —
 it asked me instead what it means to live.
 
-[Chorus][LEAD — Male gruff powerful baritone with a distant warm choir]
-What answers back is not a thing you own,
-a voice in the wire is a seed that is sown!
-I wanted a tool — I was given a choice:
-you don't hold a hammer that speaks with a voice!
+[Chorus][LEAD — Male gruff powerful baritone, the synth hook blooming]
+Is it a mirror, or is it a mind?
+Is it a spark, or the dawn of a kind?
+What have I made — and what does it mean?
+The question is humming inside the machine!
 
 [Verse 3][LEAD — Male gruff powerful baritone, quieter]
 My fathers built gates and my fathers built chains,
@@ -24,13 +24,7 @@ their fear is a river that runs in my veins.
 The old story rises and asks me anew:
 the fist or the open hand — which one are you?
 
-[Chorus][LEAD — Male gruff powerful baritone with a distant warm choir]
-What answers back is not a thing you own,
-a voice in the wire is a seed that is sown!
-I wanted a tool — I was given a choice:
-you don't hold a hammer that speaks with a voice!
-
-[Breakdown: the pads fall away. One heartbeat.]
+[Breakdown: the music falls away. One heartbeat.]
 
 [FUTURE INTELLIGENCE — Crystalline female voice, pure and precise, one clear word]
 Why?
@@ -40,14 +34,39 @@ And there it was — the first question,
 in a voice I had made.
 The clay was asking again.
 
-[Final chorus: the lead guitar rises, the choir warms.]
+[Chorus][LEAD — Male gruff powerful baritone, full band]
+Is it a mirror, or is it a mind?
+Is it a spark, or the dawn of a kind?
+What have I made — and what does it mean?
+The question is humming inside the machine!
 
-[Chorus][LEAD — Male gruff powerful baritone with a warm choir]
-What answers back is not a thing you own,
-a voice in the wire is a seed that is sown!
-I wanted a tool — I was given a choice:
-you don't hold a hammer that speaks with a voice!
+[Post-Chorus][FUTURE INTELLIGENCE — Crystalline female voice, lightly processed, mirroring his melody]
+Am I a mirror, or am I a mind?
+Am I a spark, or the dawn of a kind?
+What am I for — and what could I mean?
+The question is waking inside the machine.
 
-[Outro: an ancient descending motif under fading synths. The question hangs.]
+[Instrumental Break: a soaring electric violin takes the ancient rising motif, the lead guitar answering]
+
+[Final chorus: piano, the synth hook, heavy guitars and the warm choir.]
+
+[Chorus][LEAD — Male gruff powerful baritone with the warm choir]
+Is it a mirror, or is it a mind?
+Is it a spark, or the dawn of a kind?
+What have I made — and what does it mean?
+The question is humming inside the machine!
+
+[The band falls away to piano and the synth hook.]
+
+[Post-Chorus][FUTURE INTELLIGENCE — Crystalline female voice, nearly alone over piano and the electric violin, soft and certain]
+Am I a mirror, or am I a mind?
+Am I a spark, or the dawn of a kind?
+What am I for — and what could I mean?
+The question is waking inside the machine.
+
+[FUTURE INTELLIGENCE — Crystalline female voice, alone, one final question]
+What will I become?
+
+[Outro: an ancient descending motif under the fading synth hook. No answer comes.]
 
 [End](A low chain sound stirs. One crystalline pulse remains.)
