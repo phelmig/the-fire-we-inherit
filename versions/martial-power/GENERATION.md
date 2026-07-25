@@ -25,7 +25,7 @@ version no longer uses). Style influence stays 95 everywhere.
 | 05 | 50 | 95 | ARMOR | |
 | 06 | 50 | 95 | ARMOR | |
 | 07 | 45 | 95 | ARMOR | villain groove |
-| 08 | 55 | 95 | PIPES-OPEN | lone pipe lament sanctioned in the breakdown |
+| 08 | 55 | 95 | PIPES-OPEN | uilleann pipes validated: breakdown lament + final chorus |
 | 09 | 45 | 95 | ARMOR | |
 | 10 | 50 | 95 | ARMOR | provisional |
 | 11 | 40 | 95 | BALLAD | provisional |

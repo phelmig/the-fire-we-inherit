@@ -17,10 +17,20 @@ heroic strokes.
 
 ## Song doctrine (validated on 02, 05, 06, 09)
 
-- **Message-first:** each track carries ONE key message; no dialogue
-  back-and-forth. One lead perspective start to finish. Other characters
-  appear only as quoted lines inside the narration, or as a single cry
-  answered once by the choir.
+- **Theme-first, not chronicle:** each track carries ONE key message sung
+  as a universal creed. Verses carry experience, imagery, and stakes — never
+  line-by-line plot narration. The chorus must stand without the myth. At
+  most one plot anchor (a name or event) per song; the story arc lives at
+  the album level, each track adding one stone. No dialogue back-and-forth:
+  one lead perspective; other characters appear only as quoted lines inside
+  the narration or a single cry answered once by the choir.
+- **Structure:** classic metal architecture — verse, pre-chorus, chorus,
+  verse, pre-chorus, chorus, breakdown/bridge, solo, final chorus.
+- **Instrument features** (validated on the 08 uilleann pipes): a featured
+  instrument must have a seat in the core instrument list, a concrete name,
+  and a structural role in at least two sections — plus an
+  `[Instrumental Break: ...]` tag in the lyrics. A one-line section mention
+  will not render.
 - **One war-narrator:** a single gruff powerful male baritone narrates the
   whole album (absorbing all canon narration roles). The choir is a force —
   the court, the law, the army, the awakening world — never a conversation
