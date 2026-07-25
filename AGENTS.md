@@ -2,7 +2,7 @@
 
 ## Source of truth
 
-`CONCEPT.md` is the canonical source for the album's story, themes, characters, dramatic structure, motifs, and continuity. `songs/` contains the current approved lyrics for each track — the single source of lyric truth across all stylistic versions. `versions/<version>/` holds one style per track (`styles/NN.txt`) plus a version `CONCEPT.md` describing that version's sound identity; current versions are `epic-metal`, `neo-classical`, and `original` (the heterogeneous development styles). `skills/songwriting/SKILL.md` defines the drafting and validation process. The workspace-level `sources/` directory is reference-only and must never be edited.
+`CONCEPT.md` is the canonical source for the album's story, themes, characters, dramatic structure, motifs, and continuity. `songs/` contains the current approved lyrics for each track — the canonical story text and the default lyric source for stylistic versions. `versions/<version>/` holds one style per track (`styles/NN.txt`) plus a version `CONCEPT.md` describing that version's sound identity; current versions are `epic-metal`, `neo-classical`, `original` (the heterogeneous development styles), and `martial-power` (message-first war anthems, which carries its own approved lyric variants in `versions/martial-power/lyrics/NN.txt` — the one exception to the single-lyric-source rule). `skills/songwriting/SKILL.md` defines the drafting and validation process. The workspace-level `sources/` directory is reference-only and must never be edited.
 
 ## Song output
 
