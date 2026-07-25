@@ -2,7 +2,9 @@
 
 ## Source of truth
 
-`CONCEPT.md` is the canonical source for the album's story, themes, characters, dramatic structure, motifs, and continuity. `songs/` contains the current approved lyrics for each track — the canonical story text and the default lyric source for stylistic versions. `versions/<version>/` holds one style per track (`styles/NN.txt`) plus a version `CONCEPT.md` describing that version's sound identity; current versions are `epic-metal`, `neo-classical`, `original` (the heterogeneous development styles), and `martial-power` (message-first war anthems, which carries its own approved lyric variants in `versions/martial-power/lyrics/NN.txt` — the one exception to the single-lyric-source rule). `skills/songwriting/SKILL.md` defines the drafting and validation process. The workspace-level `sources/` directory is reference-only and must never be edited.
+`CONCEPT.md` is the canonical source for the album's story, themes, characters, dramatic structure, motifs, and continuity. `songs/` contains the current approved lyrics for each track — the canonical story text and the default lyric source for stylistic versions. `versions/<version>/` holds one style per track (`styles/NN.txt`) plus a version `CONCEPT.md` describing that version's sound identity; current versions are `epic-metal`, `neo-classical`, `original` (the heterogeneous development styles), and `martial-power` (message-first war anthems, which carries its own approved lyric variants in `versions/martial-power/lyrics/NN.txt` — the one exception to the single-lyric-source rule). `skills/songwriting/SKILL.md` defines the drafting and validation process.
+
+Stylistic versions are expected to keep multiplying. The global rules in this file are defaults: a version's `CONCEPT.md` may override any stylistic rule — tempo and key maps, vocal casting, ballad classification, exclude lists, per-track instrument constraints (e.g. "no guitars"), even lyric variants where noted. Keep global rules generic; push style-specific rules into the version that needs them. The workspace-level `sources/` directory is reference-only and must never be edited.
 
 ## Song output
 
@@ -42,7 +44,7 @@ Default generation parameters unless the user says otherwise: `--model v5.5 --st
 
 For complex songs with multiple voices (three or more distinct singers, opposed choruses, or heavy dialogue), use `--weirdness 15 --style-influence 95` instead — lower weirdness keeps the voice casting and structure stable.
 
-Always pass an exclude list: `--exclude "pop, soft rock, acoustic guitar, nylon-string guitar, folk, EDM"` for non-ballad tracks; `--exclude "pop, EDM"` for ballads and spoken tracks.
+Always pass an exclude list. Default: `--exclude "pop, soft rock, acoustic guitar, nylon-string guitar, folk, EDM"` for non-ballad tracks; `--exclude "pop, EDM"` for ballads and spoken tracks. A version's `CONCEPT.md` may define its own exclude lists.
 
 ## Style prompt language
 
@@ -58,7 +60,7 @@ Additional rules:
 - Do not use inline negative lines ("no X") — they add nothing over the `--exclude` flag (tested: indistinguishable).
 - Keep the whole style prompt under roughly 1,000 characters; shorter and sharper beats longer and denser — Suno compresses long prompts and only the strongest concepts survive.
 - Never write bare "guitar" or "guitars" — Suno then tends toward classical or acoustic guitar. Always qualify: "distorted electric rhythm guitars", "overdriven electric lead guitar".
-- Non-ballad tracks open the identity line with a hard genre anchor and keep at least two aggression anchors across the prompt (riff-driven, galloping, relentless double-kick, crushing, aggressive). Ballad, ritual, and spoken tracks (currently 00, 01, 04, 11, 12, 14) are exempt from aggression anchors.
+- Non-ballad tracks open the identity line with a hard genre anchor and keep at least two aggression anchors across the prompt (riff-driven, galloping, relentless double-kick, crushing, aggressive). Ballad, ritual, and spoken tracks (default classification: 00, 01, 04, 11, 12, 14 — versions may reclassify) are exempt from aggression anchors.
 - Style prompts must describe only what Suno can render in this one track. Never reference other tracks, track numbers, or the album; describe the intended sonic outcome instead (e.g. "ending unresolved beneath rising distant thunder").
 
 ## Lyric structure tags
