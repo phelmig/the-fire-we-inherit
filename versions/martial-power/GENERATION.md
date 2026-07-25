@@ -7,7 +7,12 @@ version no longer uses). Style influence stays 95 everywhere.
 
 ## Exclude sets
 
-- **ARMOR** (anti-folk, default for anthems):
+Philosophy (from track 10 onward): keep exclusions minimal — at high
+weirdness, freedom helps; exclude only absolutely unfitting elements and
+escalate to ARMOR only if drift actually appears.
+
+- **MINIMAL** (default for all new tracks): `pop, EDM`
+- **ARMOR** (anti-folk escalation, used on validated tracks 02–07, 09):
   `pop, soft rock, acoustic guitar, nylon-string guitar, folk, Irish folk, celtic, folk metal, fiddle, tin whistle, bagpipes, accordion, flute, EDM, opera`
 - **BALLAD**: `pop, EDM, opera`
 - **PIPES-OPEN** (armor with the pipe cluster deliberately opened):
@@ -27,8 +32,8 @@ version no longer uses). Style influence stays 95 everywhere.
 | 07 | 45 | 95 | ARMOR | villain groove |
 | 08 | 55 | 95 | PIPES-OPEN | uilleann pipes validated: breakdown lament + final chorus |
 | 09 | 45 | 95 | ARMOR | |
-| 10 | 50 | 95 | ARMOR | provisional |
-| 11 | 40 | 95 | BALLAD | provisional |
-| 12 | 40 | 95 | BALLAD | provisional |
-| 13 | 50 | 95 | ARMOR | provisional |
-| 14 | 40 | 95 | BALLAD | pipes allowed by design (finale) |
+| 10 | 50 | 95 | MINIMAL | accelerating relay |
+| 11 | 40 | 95 | MINIMAL | synth hymn |
+| 12 | 40 | 95 | MINIMAL | doom-march elegy, second Zeus lead |
+| 13 | 50 | 95 | MINIMAL | dueling choirs |
+| 14 | 40 | 95 | MINIMAL | uilleann pipes finale, FI last word |
