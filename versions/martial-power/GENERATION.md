@@ -18,7 +18,7 @@ version no longer uses). Style influence stays 95 everywhere.
 | Track | Weirdness | Style | Exclude | Notes |
 |---|---|---|---|---|
 | 00 | 40 | 95 | BALLAD | spoken prologue |
-| 01 | 45 | 95 | BALLAD + `guitars, electric guitar` | ritual rite, no guitars |
+| 01 | 45 | 95 | BALLAD | war-drum march, low guitars wake in the second half |
 | 02 | 55 | 95 | ARMOR | |
 | 03 | 45 | 95 | ARMOR | bloom track |
 | 04 | 40 | 95 | ARMOR | massed-crowd lead — lower end for structural stability |
