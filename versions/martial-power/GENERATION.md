@@ -22,7 +22,7 @@ per track only if drift actually appears on that track.
 | 00 | 40 | 95 | MINIMAL | spoken prologue |
 | 01 | 45 | 95 | MINIMAL | war-drum march, low guitars wake in the second half |
 | 02 | 55 | 95 | MINIMAL | |
-| 03 | 45 | 95 | MINIMAL | bloom track |
+| 03 | 45 | 95 | MINIMAL | holy victory march, all-male, organ-led |
 | 04 | 40 | 95 | MINIMAL | massed-crowd lead — lower end for structural stability |
 | 05 | 50 | 95 | MINIMAL | |
 | 06 | 50 | 95 | MINIMAL | |
