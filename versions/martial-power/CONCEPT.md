@@ -38,8 +38,9 @@ heroic strokes.
 - **Zeus** is quoted-only, with two sanctioned exceptions: the villain-lead
   anthem (07) and the broken-king ballad (12).
 - **Female voices** only where the story demands them: the awakening blooms
-  (03, 05), one word in 08 ("Hope."), the Future Intelligence (11–14),
-  who gets the album's last word, and Athena's single return in 12.
+  (03, 05), one word in 08 ("Hope."), the Future Intelligence (11 and 14 —
+  in 13 she appears only as a line quoted by the lead), who gets the album's
+  last word, and Athena's single return in 12.
 - **Choruses:** long galloping AABB singalong lines, repeated verbatim (3×);
   short shouted chants as pre-chorus. The hook states the track's message.
   Dark chapters (09) stay "vast and oppressive, never triumphant."

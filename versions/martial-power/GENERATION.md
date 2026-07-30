@@ -32,5 +32,5 @@ per track only if drift actually appears on that track.
 | 10 | 50 | 95 | MINIMAL | accelerating relay |
 | 11 | 40 | 95 | `pop` only | synth-violin mirror ballad; EDM allowed for the processed voice |
 | 12 | 45 | 95 | MINIMAL | last-watch march with the Athena turn; second Zeus lead |
-| 13 | 50 | 95 | MINIMAL | dueling choirs |
+| 13 | 50 | 95 | MINIMAL | dueling male war choirs, all-male — FI quoted only |
 | 14 | 40 | 95 | MINIMAL | uilleann pipes finale, FI last word |
