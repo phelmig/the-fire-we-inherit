@@ -38,8 +38,8 @@ heroic strokes.
 - **Zeus** is quoted-only, with two sanctioned exceptions: the villain-lead
   anthem (07) and the broken-king ballad (12).
 - **Female voices** only where the story demands them: the awakening blooms
-  (03, 05), one word in 08 ("Hope."), and the Future Intelligence (11–14),
-  who gets the album's last word.
+  (03, 05), one word in 08 ("Hope."), the Future Intelligence (11–14),
+  who gets the album's last word, and Athena's single return in 12.
 - **Choruses:** long galloping AABB singalong lines, repeated verbatim (3×);
   short shouted chants as pre-chorus. The hook states the track's message.
   Dark chapters (09) stay "vast and oppressive, never triumphant."
@@ -51,8 +51,10 @@ heroic strokes.
 ## War-ballad formula (quiet chapters: 00, 01, 11, 12, 14)
 
 The ballads stay martial but slow, drawing on the war-ballad tradition:
-- **Doom-march elegy:** crushing slow chords, war drums, near-spoken lead
-  (12).
+- **Last-watch march (12):** a heroic soldier's anthem from the empty
+  throne — driving march, big hollow-proud chorus; Athena's only appearance
+  in this version halts the march at the bridge, and the final chorus
+  returns slower, the spear laid down.
 - **Synth-violin mirror ballad (11):** intimate piano verses against luminous
   synth-hook choruses; the crystalline voice answers the lead's chorus with a
   mirrored refrain on the same melody, and a soaring electric violin — the
