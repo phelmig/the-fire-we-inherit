@@ -66,8 +66,10 @@ The ballads stay martial but slow, drawing on the war-ballad tradition:
   low choir (00).
 - **Ritual percussion piece:** war drums, sub-bass, chant choir, no guitars
   (01 — the instrument constraint lives here, not in global rules).
-- **Solemn parting hymn:** the finale (14) may use lone solemn pipes as
-  farewell color — in ballads the folk-instrument ban is deliberately lifted.
+- **Celtic graveside lament (14):** slow 6/8, uilleann pipes and sparse
+  acoustic guitar, hushed farewell verses, the heavy band swelling once for
+  the final chorus. Hopeful but dark: hope as understated duty ("the door
+  stands open — that much we could do"), never triumph.
 
 ## Tempo and key
 
