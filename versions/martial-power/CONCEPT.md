@@ -66,10 +66,11 @@ The ballads stay martial but slow, drawing on the war-ballad tradition:
   low choir (00).
 - **Ritual percussion piece:** war drums, sub-bass, chant choir, no guitars
   (01 — the instrument constraint lives here, not in global rules).
-- **Celtic graveside lament (14):** slow 6/8, uilleann pipes and sparse
-  acoustic guitar, hushed farewell verses, the heavy band swelling once for
-  the final chorus. Hopeful but dark: hope as understated duty ("the door
-  stands open — that much we could do"), never triumph.
+- **Celtic graveside lament (14):** slow 6/8, bare piano under near-a
+  cappella singing; a lone violin in places; Irish pipes and slow drums only
+  at the refrains. Unpolished by design — the voice's intensity tells the
+  story, murmur to raw grief. Hopeful but dark: hope as understated duty
+  ("the door stands open — that much we could do"), never triumph.
 
 ## Tempo and key
 
