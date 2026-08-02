@@ -21,8 +21,12 @@ shading. The story carried by orchestral force instead of band force.
   per-section performance directions come from the track, not the version.
 - **Quiet chapters (00, 01, 11, 12, 14):** "the orchestra thins to chamber
   forces here — one of the album's quiet chapters."
-- Styles live in `styles/NN.txt`; lyrics always come from the repo-root
-  `songs/` directory (single source of truth across versions).
+- Styles live in `styles/NN.txt`. The version-owned lyrics in `lyrics/NN.txt`
+  are the exact prompts recovered from the original generated Neo playlist;
+  they are authoritative for this historical rendering and must not fall back
+  to later repo-root lyric revisions.
+- `LYRICS_SOURCE.md` records the recovery source and the exact Suno clip used
+  for every track.
 
 ## Risks to watch
 

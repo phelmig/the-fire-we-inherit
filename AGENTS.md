@@ -2,9 +2,17 @@
 
 ## Source of truth
 
-`CONCEPT.md` is the canonical source for the album's story, themes, characters, dramatic structure, motifs, and continuity. `songs/` contains the current approved lyrics for each track — the canonical story text and the default lyric source for stylistic versions. `versions/<version>/` holds one style per track (`styles/NN.txt`) plus a version `CONCEPT.md` describing that version's sound identity; current versions are `epic-metal`, `neo-classical`, `original` (the heterogeneous development styles), and `martial-power` (message-first war anthems, which carries its own approved lyric variants in `versions/martial-power/lyrics/NN.txt` — the one exception to the single-lyric-source rule). `skills/songwriting/SKILL.md` defines the drafting and validation process.
+`CONCEPT.md` is the canonical source for the album's story, themes, characters, dramatic structure, motifs, required keywords/refrains, and continuity. `songs/` contains the approved default lyric realization, not an immutable lyric source. Any stylistic version may carry complete song-level lyric overrides in `versions/<version>/lyrics/NN.txt`; when present, those are the lyric source for that version and track. `versions/<version>/` holds one style per track (`styles/NN.txt`) plus a version `CONCEPT.md` describing its artistic identity and overrides. Current versions are `epic-metal`, `epic-metal-codex`, `neo-classical`, `neo-classical-codex`, `original`, `martial-power`, and `martial-power-codex`. `skills/songwriting/SKILL.md` defines the drafting and validation process.
 
-Stylistic versions are expected to keep multiplying. The global rules in this file are defaults: a version's `CONCEPT.md` may override any stylistic rule — tempo and key maps, vocal casting, ballad classification, exclude lists, per-track instrument constraints (e.g. "no guitars"), even lyric variants where noted. Keep global rules generic; push style-specific rules into the version that needs them. The workspace-level `sources/` directory is reference-only and must never be edited.
+Stylistic versions are expected to keep multiplying. Every version has full musical and lyrical flexibility. A version's `CONCEPT.md`, and then its per-track style and lyric files, may override global artistic defaults: tempo and key maps, instrumentation, genre balance, vocal casting, ballad classification, exclude lists, rhyme scheme, point of view, song form, chorus doctrine, dialogue density, plot-anchor limits, and other non-Suno-specific lyric rules. Keep global rules generic; push artistic constraints into the version or track that needs them.
+
+The override boundary is deliberate:
+
+- **Never overridden by a version:** the story and dramatic purpose in root `CONCEPT.md`, character safeguards, the evolution of motifs/keywords, and enough album-level audio continuity for the narrative to remain understandable.
+- **Always retained unless the user explicitly changes the generation workflow:** proven Suno learnings — prompt and lyric limits, structural tags, compact fused intros, `[End]`, explicit vocal labels and cast fences, layered style prompts, qualified electric-guitar language, production line, exclude flags, and generation hygiene.
+- **Defaults that versions and individual songs may override:** every other musical or lyrical preference in this file.
+
+The workspace-level `sources/` directory is reference-only and must never be edited.
 
 ## Song output
 
@@ -14,7 +22,7 @@ Unless the user asks otherwise, return only:
 2. One concise Suno style code block (from the target stylistic version)
 3. One complete lyrics code block
 
-Song files in `songs/` contain lyrics only; styles are edited in `versions/<version>/styles/NN.txt`.
+Root song files in `songs/` contain the default lyrics. A target version uses `versions/<version>/lyrics/NN.txt` when that file exists, otherwise it falls back to the matching root song. Styles are edited in `versions/<version>/styles/NN.txt`.
 
 Song lyrics, including labels and performance directions, must remain below 5,000 characters. Target roughly 1,800–3,000 characters for fast Suno iteration.
 
@@ -32,13 +40,15 @@ To keep intros compact, fuse a structural `[Intro]` tag directly onto the first 
 
 Use the `suno` skill — the [suno-cli](https://github.com/paperfoot/suno-cli) tool — to generate songs on Suno. Never download generated songs unless the user explicitly asks — generate without `--download` and only report clip IDs and URLs.
 
+Do not run Suno preflight validation before creating songs. Skip `suno agent-info`, `suno credits`, `suno models`, `suno config check`, and library/search audits unless the user explicitly requests them or an actual generation failure requires diagnosis. Submit the requested generation directly with the known project parameters.
+
 Never block on generation: do not pass `--wait`. Start the generation, report the clip IDs and URLs immediately, and let the user monitor progress themselves.
 
 When generating multiple songs in one batch, add a random 3–6 second delay between successive `suno generate` calls (e.g. `sleep $((RANDOM % 4 + 3))`) to avoid rate limiting and flaky API behavior.
 
 After every `suno generate` run (including each iteration of a batch), kill the Chrome instance suno opened for captcha solving — a stale reused instance causes failures. Identify it by its profile-directory argument: `pkill -f "com.suno-cli.suno-cli/chrome-profile" 2>/dev/null || true`. Never kill Chrome processes that do not match this pattern.
 
-Every generation targets a stylistic version: take the style from `versions/<version>/styles/NN.txt` and the lyrics from `songs/NN - Title.md`. When comparing versions, prefix the title with the version (`[EPIC]`, `[NEO]`); when generating the chosen album version, use the plain title.
+Every generation targets a stylistic version: take the style from `versions/<version>/styles/NN.txt` and the lyrics from `versions/<version>/lyrics/NN.txt` when present, otherwise from `songs/NN - Title.md`. When comparing versions, prefix the title with the version (`[EPIC]`, `[NEO]`); when generating the chosen album version, use the plain title.
 
 Default generation parameters unless the user says otherwise: `--model v5.5 --style-influence 95 --weirdness 35`. Versions may define their own per-track parameters and exclude lists (e.g. `versions/<version>/GENERATION.md`); when present, those take precedence over the defaults here.
 
@@ -77,17 +87,17 @@ Validated on tracks 03/04/06/10/11: standard structural tags dramatically improv
 
 Do not include Claude session links (`Claude-Session:` trailers) in commit messages.
 
-## Concept-first workflow
+## Concept-first workflow — default, overridable
 
 The user prefers to review and approve a song concept before complete lyrics and a Suno style prompt are created. For every new song or major structural rewrite, first present a concise concept covering the dramatic purpose, story beats, character roles, philosophical conflict, recurring motifs, musical direction, and transitions into adjacent tracks. Do not draft the complete song until the user approves the concept or explicitly asks to skip that step.
 
-Small, targeted revisions to already approved lyrics do not require a new concept unless the change materially alters the song's dramatic function.
+Small, targeted revisions to already approved lyrics do not require a new concept unless the change materially alters the song's dramatic function. A user or version workflow may explicitly authorize a full-album realization without pausing after each track concept.
 
-## Audio-first storytelling
+## Audio-first storytelling — album requirement, song-level defaults
 
-The complete story must be understandable from the recording alone. Never rely on a song title, character label, performance direction, cover art, video, or other visual cue to explain who is speaking or what has happened.
+The complete story must be understandable from the version's recordings alone. Never rely on song titles, character labels, performance directions, cover art, video, or other visual cues to carry a story beat that the album audio never establishes.
 
-Introduce every new central character audibly in the sung or spoken lyrics by name before or at that character's first vocal entrance. Give enough immediate context to establish the character's role or relationship to the conflict. A bracketed vocal label does not count as an introduction because the listener cannot hear it.
+By default, introduce every new central character audibly in the sung or spoken lyrics by name before or at that character's first vocal entrance. A version or song may instead rely on an audible introduction in an earlier track, provided the album sequence keeps the identity unmistakable. A bracketed vocal label alone never carries story information because the listener cannot hear it.
 
 Keep the audible cast clear: name only figures central to the story being told. Represent nonessential mythological figures through unnamed roles, relationships, or choirs rather than adding names that listeners must remember.
 

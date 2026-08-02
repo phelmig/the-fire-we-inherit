@@ -47,11 +47,49 @@ Humanity turns fire into civilization, technology, and eventually an emerging in
 
 ## Stylistic versions
 
-The album exists in multiple unified sound identities, sharing one set of lyrics and one story canon (see `versions/`):
+The album exists in multiple artistic realizations over one story canon (see `versions/`). Versions may change both music and lyrics while preserving the dramatic arc, character safeguards, motifs, keywords, and proven Suno formatting and generation practices. The `*-codex` directories are independent comparison realizations rather than revisions of the earlier versions:
 
 - **Epic Metal** — one heavy symphonic power-metal opera on a shared stage: riff-driven guitars, double-kick, war drums, organ, and massed choirs on every track.
+- **Epic Metal Codex** — a riff- and leitmotif-led comparison set with stronger act-by-act dynamics and physical band interplay.
 - **Neo-Classical** — a cinematic orchestral epic in the Two Steps From Hell register: string ostinatos, full orchestra, taiko, choirs; electric guitars only as dark shading.
+- **Neo-Classical Codex** — a counterpoint-led symphonic oratorio emphasizing acoustic development, voice separation, and expressive silence.
+- **Martial Power** — compact message-first war anthems with version-specific lyrics.
+- **Martial Power Codex** — a second full anthem lyric and style set prioritizing chorus memorability and audible narrative clarity.
 - **Original** — the heterogeneous development styles, each track scored individually for its dramatic moment; preserved as reference.
+
+## AI / harness comparison method
+
+This repository also serves as a controlled comparison between AI models and
+agent harnesses. An earlier version such as `neo-classical` is preserved as its
+own artistic result, while the independently created comparison uses the same
+name with a `-codex` postfix. The goal is to compare creative decisions, not to
+make two systems reproduce an identical prompt.
+
+The comparison holds these elements constant:
+
+- the root story canon, track sequence, dramatic purpose, character safeguards,
+  recurring motifs, and required keywords or refrains;
+- the proven Suno mechanics: explicit structure and voice labels, compact intros,
+  `[End]`, cast fences, prompt limits, production lines, exclude flags, generation
+  parameters, batch spacing, and captcha-profile cleanup;
+- two fresh Suno candidates per track, submitted without overwriting or downloading
+  the earlier generation.
+
+Each harness otherwise receives full artistic freedom. It may write version-owned
+lyrics, change form and instrumentation, recast a scene within the audible-story
+constraints, and define per-track generation settings. Styles live in
+`versions/<version>/styles/NN.txt`; lyric overrides live beside them in
+`versions/<version>/lyrics/NN.txt`. Historical lyrics recovered from generated
+audio are preserved with their source clip IDs before a comparison version uses
+them as inspiration.
+
+The comparison pattern used here is therefore:
+
+1. preserve the earlier realization as the baseline version;
+2. create an independent `<version>-codex` concept, style set, and lyric set;
+3. keep story, motifs, and Suno operating rules shared while allowing musical and
+   lyrical choices to diverge;
+4. generate separately labeled candidates for listening comparison.
 
 ## Musical language
 
@@ -82,8 +120,8 @@ The emotional tone is bittersweet rather than naïvely triumphant. Each major so
 ## Repository guide
 
 - `CONCEPT.md` — complete album canon: story, themes, character arcs, track roles, patterns, motifs, and continuity.
-- `songs/` — canonical lyrics for each track (single source across all stylistic versions).
-- `versions/` — stylistic versions of the album (`epic-metal`, `neo-classical`, `original`), each with its own `CONCEPT.md` and one style prompt per track.
+- `songs/` — approved default lyrics for each track.
+- `versions/` — artistic versions of the album, each with its own `CONCEPT.md` and one style prompt per track; any version may add `lyrics/NN.txt` song-level overrides.
 - `AGENTS.md` — project-wide working rules.
 - `skills/songwriting/SKILL.md` — writing and validation workflow.
 
