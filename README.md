@@ -51,8 +51,9 @@ The album exists in multiple artistic realizations over one story canon (see `ve
 
 - **Epic Metal** — one heavy symphonic power-metal opera on a shared stage: riff-driven guitars, double-kick, war drums, organ, and massed choirs on every track.
 - **Epic Metal Codex** — a riff- and leitmotif-led comparison set with stronger act-by-act dynamics and physical band interplay.
-- **Neo-Classical** — a cinematic orchestral epic in the Two Steps From Hell register: string ostinatos, full orchestra, taiko, choirs; electric guitars only as dark shading.
+- **Neo-Classical** — a cinematic orchestral epic: string ostinatos, full orchestra, taiko, choirs; electric guitars only as dark shading.
 - **Neo-Classical Codex** — a counterpoint-led symphonic oratorio emphasizing acoustic development, voice separation, and expressive silence.
+- **Cinematic Neo-Classical Codex** — a second Neo comparison emphasizing monumental orchestral momentum, hook-first dramatic arcs, and enormous dynamic scale.
 - **Martial Power** — compact message-first war anthems with version-specific lyrics.
 - **Martial Power Codex** — a second full anthem lyric and style set prioritizing chorus memorability and audible narrative clarity.
 - **Original** — the heterogeneous development styles, each track scored individually for its dramatic moment; preserved as reference.
@@ -82,6 +83,11 @@ constraints, and define per-track generation settings. Styles live in
 `versions/<version>/lyrics/NN.txt`. Historical lyrics recovered from generated
 audio are preserved with their source clip IDs before a comparison version uses
 them as inspiration.
+
+A comparison may also deliberately hold a completed lyric set constant while a
+second harness changes only the musical concept, prompts, and generation map. The
+`neo-classical-cinematic-codex` realization uses this controlled pattern to compare
+intimate contrapuntal oratorio direction with monumental cinematic direction.
 
 The comparison pattern used here is therefore:
 

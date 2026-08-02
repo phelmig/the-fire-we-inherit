@@ -1,8 +1,8 @@
 # The Fire We Inherit — Neo-Classical Version
 
-The album rendered as a cinematic orchestral epic in the Two Steps From Hell
-register: trailer-scale orchestra and choirs, with metal demoted from lead to
-shading. The story carried by orchestral force instead of band force.
+The album rendered as a cinematic orchestral epic: trailer-scale orchestra and
+choirs, with metal demoted from lead to shading. The story is carried by
+orchestral force instead of band force.
 
 ## Sound identity
 
